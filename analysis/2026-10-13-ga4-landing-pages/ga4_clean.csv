@@ -1,0 +1,521 @@
+week,channel,source,page,sessions,engaged,key_events
+2026-07-06,Organic Search,google / organic,/,389,257,3
+2026-07-06,Organic Search,google / organic,/services/team-extension,81,48,6
+2026-07-06,Organic Search,google / organic,/services/ai-integration,46,29,1
+2026-07-06,Organic Search,google / organic,/industries/fintech,33,20,0
+2026-07-06,Organic Search,google / organic,/blog/team-extension-vs-outsourcing,258,152,1
+2026-07-06,Organic Search,google / organic,/blog/onboarding-docs-that-get-read,156,93,1
+2026-07-06,Organic Search,google / organic,/careers,115,67,0
+2026-07-06,Paid Search,google / cpc,/,136,72,0
+2026-07-06,Paid Search,google / cpc,/services/team-extension,24,13,3
+2026-07-06,Paid Search,google / cpc,/services/ai-integration,14,8,1
+2026-07-06,Paid Search,google / cpc,/industries/fintech,12,6,1
+2026-07-06,Direct,(direct) / (none),/,153,96,2
+2026-07-06,Direct,(direct) / (none),/services/team-extension,31,20,1
+2026-07-06,Direct,(direct) / (none),/services/ai-integration,14,8,0
+2026-07-06,Direct,(direct) / (none),/industries/fintech,14,8,0
+2026-07-06,Direct,(direct) / (none),/blog/team-extension-vs-outsourcing,97,58,0
+2026-07-06,Direct,(direct) / (none),/blog/onboarding-docs-that-get-read,58,33,0
+2026-07-06,Direct,(direct) / (none),/careers,54,28,0
+2026-07-06,Organic Social,linkedin.com / referral,/,84,44,3
+2026-07-06,Organic Social,linkedin.com / referral,/services/team-extension,17,8,0
+2026-07-06,Organic Social,linkedin.com / referral,/services/ai-integration,8,4,1
+2026-07-06,Organic Social,linkedin.com / referral,/industries/fintech,7,3,0
+2026-07-06,Organic Social,linkedin.com / referral,/blog/team-extension-vs-outsourcing,49,26,0
+2026-07-06,Organic Social,linkedin.com / referral,/blog/onboarding-docs-that-get-read,36,17,0
+2026-07-06,Organic Social,linkedin.com / referral,/careers,28,13,0
+2026-07-06,Email,newsletter / email,/,41,29,0
+2026-07-06,Email,newsletter / email,/services/team-extension,6,4,0
+2026-07-06,Email,newsletter / email,/services/ai-integration,4,3,0
+2026-07-06,Email,newsletter / email,/industries/fintech,3,2,0
+2026-07-06,Email,newsletter / email,/blog/team-extension-vs-outsourcing,25,19,0
+2026-07-06,Email,newsletter / email,/blog/onboarding-docs-that-get-read,15,9,0
+2026-07-06,Email,newsletter / email,/careers,11,8,0
+2026-07-06,Referral,clutch.co / referral,/,33,20,0
+2026-07-06,Referral,clutch.co / referral,/services/team-extension,6,4,0
+2026-07-06,Referral,clutch.co / referral,/services/ai-integration,3,2,0
+2026-07-06,Referral,clutch.co / referral,/industries/fintech,3,2,0
+2026-07-06,Referral,clutch.co / referral,/blog/team-extension-vs-outsourcing,16,10,0
+2026-07-06,Referral,clutch.co / referral,/blog/onboarding-docs-that-get-read,10,6,0
+2026-07-06,Referral,clutch.co / referral,/careers,9,6,0
+2026-07-06,Direct,(direct) / (none),(not set),25,0,0
+2026-07-13,Organic Search,google / organic,/,375,228,4
+2026-07-13,Organic Search,google / organic,/services/team-extension,71,41,7
+2026-07-13,Organic Search,google / organic,/services/ai-integration,42,28,1
+2026-07-13,Organic Search,google / organic,/industries/fintech,36,20,1
+2026-07-13,Organic Search,google / organic,/blog/team-extension-vs-outsourcing,233,149,0
+2026-07-13,Organic Search,google / organic,/blog/onboarding-docs-that-get-read,173,106,0
+2026-07-13,Organic Search,google / organic,/careers,115,66,0
+2026-07-13,Paid Search,google / cpc,/,153,82,3
+2026-07-13,Paid Search,google / cpc,/services/team-extension,28,14,1
+2026-07-13,Paid Search,google / cpc,/services/ai-integration,12,7,0
+2026-07-13,Paid Search,google / cpc,/industries/fintech,12,7,1
+2026-07-13,Direct,(direct) / (none),/,179,107,2
+2026-07-13,Direct,(direct) / (none),/services/team-extension,32,19,3
+2026-07-13,Direct,(direct) / (none),/services/ai-integration,18,10,0
+2026-07-13,Direct,(direct) / (none),/industries/fintech,15,9,0
+2026-07-13,Direct,(direct) / (none),/blog/team-extension-vs-outsourcing,91,56,1
+2026-07-13,Direct,(direct) / (none),/blog/onboarding-docs-that-get-read,58,32,0
+2026-07-13,Direct,(direct) / (none),/careers,53,31,0
+2026-07-13,Organic Social,linkedin.com / referral,/,95,49,2
+2026-07-13,Organic Social,linkedin.com / referral,/services/team-extension,17,8,1
+2026-07-13,Organic Social,linkedin.com / referral,/services/ai-integration,10,5,0
+2026-07-13,Organic Social,linkedin.com / referral,/industries/fintech,7,4,0
+2026-07-13,Organic Social,linkedin.com / referral,/blog/team-extension-vs-outsourcing,44,22,0
+2026-07-13,Organic Social,linkedin.com / referral,/blog/onboarding-docs-that-get-read,27,13,0
+2026-07-13,Organic Social,linkedin.com / referral,/careers,29,15,0
+2026-07-13,Email,newsletter / email,/,44,30,0
+2026-07-13,Email,newsletter / email,/services/team-extension,8,5,1
+2026-07-13,Email,newsletter / email,/services/ai-integration,4,3,0
+2026-07-13,Email,newsletter / email,/industries/fintech,3,2,0
+2026-07-13,Email,newsletter / email,/blog/team-extension-vs-outsourcing,21,15,0
+2026-07-13,Email,newsletter / email,/blog/onboarding-docs-that-get-read,13,9,0
+2026-07-13,Email,newsletter / email,/careers,13,9,0
+2026-07-13,Referral,clutch.co / referral,/,27,17,1
+2026-07-13,Referral,clutch.co / referral,/services/team-extension,6,4,0
+2026-07-13,Referral,clutch.co / referral,/services/ai-integration,3,2,0
+2026-07-13,Referral,clutch.co / referral,/industries/fintech,3,2,0
+2026-07-13,Referral,clutch.co / referral,/blog/team-extension-vs-outsourcing,18,12,0
+2026-07-13,Referral,clutch.co / referral,/blog/onboarding-docs-that-get-read,12,8,0
+2026-07-13,Referral,clutch.co / referral,/careers,10,6,0
+2026-07-13,Direct,(direct) / (none),(not set),29,0,0
+2026-07-20,Organic Search,google / organic,/,511,303,9
+2026-07-20,Organic Search,google / organic,/services/team-extension,92,58,3
+2026-07-20,Organic Search,google / organic,/services/ai-integration,40,24,0
+2026-07-20,Organic Search,google / organic,/industries/fintech,40,23,4
+2026-07-20,Organic Search,google / organic,/blog/team-extension-vs-outsourcing,251,140,2
+2026-07-20,Organic Search,google / organic,/blog/onboarding-docs-that-get-read,136,88,0
+2026-07-20,Organic Search,google / organic,/careers,130,88,0
+2026-07-20,Paid Search,google / cpc,/,160,92,1
+2026-07-20,Paid Search,google / cpc,/services/team-extension,26,15,3
+2026-07-20,Paid Search,google / cpc,/services/ai-integration,14,8,0
+2026-07-20,Paid Search,google / cpc,/industries/fintech,11,6,0
+2026-07-20,Direct,(direct) / (none),/,177,108,1
+2026-07-20,Direct,(direct) / (none),/services/team-extension,31,19,5
+2026-07-20,Direct,(direct) / (none),/services/ai-integration,17,11,0
+2026-07-20,Direct,(direct) / (none),/industries/fintech,12,7,0
+2026-07-20,Direct,(direct) / (none),/blog/team-extension-vs-outsourcing,86,47,0
+2026-07-20,Direct,(direct) / (none),/blog/onboarding-docs-that-get-read,48,28,0
+2026-07-20,Direct,(direct) / (none),/careers,43,25,0
+2026-07-20,Organic Social,linkedin.com / referral,/,91,44,1
+2026-07-20,Organic Social,linkedin.com / referral,/services/team-extension,17,8,0
+2026-07-20,Organic Social,linkedin.com / referral,/services/ai-integration,9,5,0
+2026-07-20,Organic Social,linkedin.com / referral,/industries/fintech,7,3,1
+2026-07-20,Organic Social,linkedin.com / referral,/blog/team-extension-vs-outsourcing,43,20,1
+2026-07-20,Organic Social,linkedin.com / referral,/blog/onboarding-docs-that-get-read,27,13,0
+2026-07-20,Organic Social,linkedin.com / referral,/careers,28,14,0
+2026-07-20,Email,newsletter / email,/,42,27,0
+2026-07-20,Email,newsletter / email,/services/team-extension,7,5,1
+2026-07-20,Email,newsletter / email,/services/ai-integration,4,3,0
+2026-07-20,Email,newsletter / email,/industries/fintech,3,2,0
+2026-07-20,Email,newsletter / email,/blog/team-extension-vs-outsourcing,22,15,0
+2026-07-20,Email,newsletter / email,/blog/onboarding-docs-that-get-read,13,9,0
+2026-07-20,Email,newsletter / email,/careers,13,9,0
+2026-07-20,Referral,clutch.co / referral,/,30,20,0
+2026-07-20,Referral,clutch.co / referral,/services/team-extension,6,4,0
+2026-07-20,Referral,clutch.co / referral,/services/ai-integration,3,2,0
+2026-07-20,Referral,clutch.co / referral,/industries/fintech,3,2,0
+2026-07-20,Referral,clutch.co / referral,/blog/team-extension-vs-outsourcing,18,12,0
+2026-07-20,Referral,clutch.co / referral,/blog/onboarding-docs-that-get-read,10,7,0
+2026-07-20,Referral,clutch.co / referral,/careers,8,5,0
+2026-07-20,Direct,(direct) / (none),(not set),38,0,0
+2026-07-27,Organic Search,google / organic,/,426,244,8
+2026-07-27,Organic Search,google / organic,/services/team-extension,92,56,5
+2026-07-27,Organic Search,google / organic,/services/ai-integration,42,25,1
+2026-07-27,Organic Search,google / organic,/industries/fintech,34,21,1
+2026-07-27,Organic Search,google / organic,/blog/team-extension-vs-outsourcing,240,149,1
+2026-07-27,Organic Search,google / organic,/blog/onboarding-docs-that-get-read,184,116,0
+2026-07-27,Organic Search,google / organic,/careers,143,86,0
+2026-07-27,Paid Search,google / cpc,/,151,79,0
+2026-07-27,Paid Search,google / cpc,/services/team-extension,24,12,0
+2026-07-27,Paid Search,google / cpc,/services/ai-integration,15,8,1
+2026-07-27,Paid Search,google / cpc,/industries/fintech,10,5,0
+2026-07-27,Direct,(direct) / (none),/,149,86,2
+2026-07-27,Direct,(direct) / (none),/services/team-extension,26,14,3
+2026-07-27,Direct,(direct) / (none),/services/ai-integration,14,8,0
+2026-07-27,Direct,(direct) / (none),/industries/fintech,14,8,1
+2026-07-27,Direct,(direct) / (none),/blog/team-extension-vs-outsourcing,87,46,2
+2026-07-27,Direct,(direct) / (none),/blog/onboarding-docs-that-get-read,52,31,0
+2026-07-27,Direct,(direct) / (none),/careers,42,24,0
+2026-07-27,Organic Social,linkedin.com / referral,/,97,50,2
+2026-07-27,Organic Social,linkedin.com / referral,/services/team-extension,14,7,0
+2026-07-27,Organic Social,linkedin.com / referral,/services/ai-integration,8,4,0
+2026-07-27,Organic Social,linkedin.com / referral,/industries/fintech,8,4,0
+2026-07-27,Organic Social,linkedin.com / referral,/blog/team-extension-vs-outsourcing,45,23,0
+2026-07-27,Organic Social,linkedin.com / referral,/blog/onboarding-docs-that-get-read,30,15,0
+2026-07-27,Organic Social,linkedin.com / referral,/careers,24,11,0
+2026-07-27,Email,newsletter / email,/,43,29,1
+2026-07-27,Email,newsletter / email,/services/team-extension,8,5,1
+2026-07-27,Email,newsletter / email,/services/ai-integration,3,2,0
+2026-07-27,Email,newsletter / email,/industries/fintech,4,3,0
+2026-07-27,Email,newsletter / email,/blog/team-extension-vs-outsourcing,25,18,0
+2026-07-27,Email,newsletter / email,/blog/onboarding-docs-that-get-read,16,11,0
+2026-07-27,Email,newsletter / email,/careers,12,8,0
+2026-07-27,Referral,clutch.co / referral,/,29,21,1
+2026-07-27,Referral,clutch.co / referral,/services/team-extension,6,4,0
+2026-07-27,Referral,clutch.co / referral,/services/ai-integration,3,2,0
+2026-07-27,Referral,clutch.co / referral,/industries/fintech,2,1,0
+2026-07-27,Referral,clutch.co / referral,/blog/team-extension-vs-outsourcing,14,9,0
+2026-07-27,Referral,clutch.co / referral,/blog/onboarding-docs-that-get-read,11,8,0
+2026-07-27,Referral,clutch.co / referral,/careers,10,7,0
+2026-07-27,Direct,(direct) / (none),(not set),28,0,0
+2026-08-03,Organic Search,google / organic,/,510,299,6
+2026-08-03,Organic Search,google / organic,/services/team-extension,80,54,6
+2026-08-03,Organic Search,google / organic,/services/ai-integration,45,25,2
+2026-08-03,Organic Search,google / organic,/industries/fintech,39,25,1
+2026-08-03,Organic Search,google / organic,/blog/team-extension-vs-outsourcing,230,130,3
+2026-08-03,Organic Search,google / organic,/blog/onboarding-docs-that-get-read,167,94,0
+2026-08-03,Organic Search,google / organic,/careers,162,104,0
+2026-08-03,Paid Search,google / cpc,/,125,70,3
+2026-08-03,Paid Search,google / cpc,/services/team-extension,25,13,1
+2026-08-03,Paid Search,google / cpc,/services/ai-integration,13,8,0
+2026-08-03,Paid Search,google / cpc,/industries/fintech,11,6,0
+2026-08-03,Direct,(direct) / (none),/,153,86,4
+2026-08-03,Direct,(direct) / (none),/services/team-extension,26,14,4
+2026-08-03,Direct,(direct) / (none),/services/ai-integration,16,10,2
+2026-08-03,Direct,(direct) / (none),/industries/fintech,12,7,1
+2026-08-03,Direct,(direct) / (none),/blog/team-extension-vs-outsourcing,93,52,1
+2026-08-03,Direct,(direct) / (none),/blog/onboarding-docs-that-get-read,64,35,1
+2026-08-03,Direct,(direct) / (none),/careers,41,25,0
+2026-08-03,Organic Social,linkedin.com / referral,/,90,43,0
+2026-08-03,Organic Social,linkedin.com / referral,/services/team-extension,14,8,1
+2026-08-03,Organic Social,linkedin.com / referral,/services/ai-integration,10,5,1
+2026-08-03,Organic Social,linkedin.com / referral,/industries/fintech,6,3,0
+2026-08-03,Organic Social,linkedin.com / referral,/blog/team-extension-vs-outsourcing,55,25,0
+2026-08-03,Organic Social,linkedin.com / referral,/blog/onboarding-docs-that-get-read,30,15,0
+2026-08-03,Organic Social,linkedin.com / referral,/careers,25,13,0
+2026-08-03,Email,newsletter / email,/,42,28,1
+2026-08-03,Email,newsletter / email,/services/team-extension,7,5,0
+2026-08-03,Email,newsletter / email,/services/ai-integration,4,3,1
+2026-08-03,Email,newsletter / email,/industries/fintech,3,2,0
+2026-08-03,Email,newsletter / email,/blog/team-extension-vs-outsourcing,23,17,0
+2026-08-03,Email,newsletter / email,/blog/onboarding-docs-that-get-read,14,9,0
+2026-08-03,Email,newsletter / email,/careers,11,8,0
+2026-08-03,Referral,clutch.co / referral,/,28,20,0
+2026-08-03,Referral,clutch.co / referral,/services/team-extension,5,3,0
+2026-08-03,Referral,clutch.co / referral,/services/ai-integration,3,2,0
+2026-08-03,Referral,clutch.co / referral,/industries/fintech,2,1,0
+2026-08-03,Referral,clutch.co / referral,/blog/team-extension-vs-outsourcing,15,10,0
+2026-08-03,Referral,clutch.co / referral,/blog/onboarding-docs-that-get-read,11,7,0
+2026-08-03,Referral,clutch.co / referral,/careers,8,5,0
+2026-08-03,Direct,(direct) / (none),(not set),38,0,0
+2026-08-10,Organic Search,google / organic,/,475,290,7
+2026-08-10,Organic Search,google / organic,/services/team-extension,89,58,6
+2026-08-10,Organic Search,google / organic,/services/ai-integration,47,30,1
+2026-08-10,Organic Search,google / organic,/industries/fintech,41,23,2
+2026-08-10,Organic Search,google / organic,/blog/team-extension-vs-outsourcing,297,166,1
+2026-08-10,Organic Search,google / organic,/blog/onboarding-docs-that-get-read,152,103,2
+2026-08-10,Organic Search,google / organic,/careers,165,97,0
+2026-08-10,Paid Search,google / cpc,/,160,93,4
+2026-08-10,Paid Search,google / cpc,/services/team-extension,25,14,5
+2026-08-10,Paid Search,google / cpc,/services/ai-integration,14,8,0
+2026-08-10,Paid Search,google / cpc,/industries/fintech,11,7,0
+2026-08-10,Direct,(direct) / (none),/,150,95,1
+2026-08-10,Direct,(direct) / (none),/services/team-extension,27,17,2
+2026-08-10,Direct,(direct) / (none),/services/ai-integration,16,8,2
+2026-08-10,Direct,(direct) / (none),/industries/fintech,14,8,0
+2026-08-10,Direct,(direct) / (none),/blog/team-extension-vs-outsourcing,78,42,0
+2026-08-10,Direct,(direct) / (none),/blog/onboarding-docs-that-get-read,58,32,1
+2026-08-10,Direct,(direct) / (none),/careers,47,28,0
+2026-08-10,Organic Social,linkedin.com / referral,/,79,37,1
+2026-08-10,Organic Social,linkedin.com / referral,/services/team-extension,16,8,2
+2026-08-10,Organic Social,linkedin.com / referral,/services/ai-integration,8,4,0
+2026-08-10,Organic Social,linkedin.com / referral,/industries/fintech,7,3,0
+2026-08-10,Organic Social,linkedin.com / referral,/blog/team-extension-vs-outsourcing,46,22,0
+2026-08-10,Organic Social,linkedin.com / referral,/blog/onboarding-docs-that-get-read,31,14,0
+2026-08-10,Organic Social,linkedin.com / referral,/careers,24,11,0
+2026-08-10,Email,newsletter / email,/,38,26,0
+2026-08-10,Email,newsletter / email,/services/team-extension,7,5,0
+2026-08-10,Email,newsletter / email,/services/ai-integration,4,3,0
+2026-08-10,Email,newsletter / email,/industries/fintech,3,2,0
+2026-08-10,Email,newsletter / email,/blog/team-extension-vs-outsourcing,25,16,0
+2026-08-10,Email,newsletter / email,/blog/onboarding-docs-that-get-read,15,11,0
+2026-08-10,Email,newsletter / email,/careers,13,10,0
+2026-08-10,Referral,clutch.co / referral,/,33,24,0
+2026-08-10,Referral,clutch.co / referral,/services/team-extension,6,4,0
+2026-08-10,Referral,clutch.co / referral,/services/ai-integration,3,2,0
+2026-08-10,Referral,clutch.co / referral,/industries/fintech,2,1,0
+2026-08-10,Referral,clutch.co / referral,/blog/team-extension-vs-outsourcing,19,12,0
+2026-08-10,Referral,clutch.co / referral,/blog/onboarding-docs-that-get-read,10,7,0
+2026-08-10,Referral,clutch.co / referral,/careers,9,5,0
+2026-08-10,Direct,(direct) / (none),(not set),34,0,0
+2026-08-17,Organic Search,google / organic,/,492,296,4
+2026-08-17,Organic Search,google / organic,/services/team-extension,88,59,5
+2026-08-17,Organic Search,google / organic,/services/ai-integration,50,29,0
+2026-08-17,Organic Search,google / organic,/industries/fintech,37,25,0
+2026-08-17,Organic Search,google / organic,/blog/team-extension-vs-outsourcing,288,186,1
+2026-08-17,Organic Search,google / organic,/blog/onboarding-docs-that-get-read,170,114,0
+2026-08-17,Organic Search,google / organic,/careers,171,105,0
+2026-08-17,Paid Search,google / cpc,/,124,64,1
+2026-08-17,Paid Search,google / cpc,/services/team-extension,25,14,3
+2026-08-17,Paid Search,google / cpc,/services/ai-integration,13,8,0
+2026-08-17,Paid Search,google / cpc,/industries/fintech,10,6,1
+2026-08-17,Direct,(direct) / (none),/,143,90,2
+2026-08-17,Direct,(direct) / (none),/services/team-extension,32,18,2
+2026-08-17,Direct,(direct) / (none),/services/ai-integration,18,11,0
+2026-08-17,Direct,(direct) / (none),/industries/fintech,12,8,0
+2026-08-17,Direct,(direct) / (none),/blog/team-extension-vs-outsourcing,81,49,0
+2026-08-17,Direct,(direct) / (none),/blog/onboarding-docs-that-get-read,50,28,0
+2026-08-17,Direct,(direct) / (none),/careers,52,29,0
+2026-08-17,Organic Social,linkedin.com / referral,/,85,43,1
+2026-08-17,Organic Social,linkedin.com / referral,/services/team-extension,15,7,1
+2026-08-17,Organic Social,linkedin.com / referral,/services/ai-integration,9,5,0
+2026-08-17,Organic Social,linkedin.com / referral,/industries/fintech,7,3,0
+2026-08-17,Organic Social,linkedin.com / referral,/blog/team-extension-vs-outsourcing,48,26,0
+2026-08-17,Organic Social,linkedin.com / referral,/blog/onboarding-docs-that-get-read,30,16,0
+2026-08-17,Organic Social,linkedin.com / referral,/careers,25,13,0
+2026-08-17,Email,newsletter / email,/,46,30,1
+2026-08-17,Email,newsletter / email,/services/team-extension,7,5,0
+2026-08-17,Email,newsletter / email,/services/ai-integration,4,3,0
+2026-08-17,Email,newsletter / email,/industries/fintech,3,2,0
+2026-08-17,Email,newsletter / email,/blog/team-extension-vs-outsourcing,22,14,0
+2026-08-17,Email,newsletter / email,/blog/onboarding-docs-that-get-read,15,11,0
+2026-08-17,Email,newsletter / email,/careers,13,9,0
+2026-08-17,Referral,clutch.co / referral,/,32,22,0
+2026-08-17,Referral,clutch.co / referral,/services/team-extension,6,4,0
+2026-08-17,Referral,clutch.co / referral,/services/ai-integration,3,2,0
+2026-08-17,Referral,clutch.co / referral,/industries/fintech,2,1,0
+2026-08-17,Referral,clutch.co / referral,/blog/team-extension-vs-outsourcing,16,11,0
+2026-08-17,Referral,clutch.co / referral,/blog/onboarding-docs-that-get-read,12,8,0
+2026-08-17,Referral,clutch.co / referral,/careers,9,6,0
+2026-08-17,Direct,(direct) / (none),(not set),27,0,0
+2026-08-24,Organic Search,google / organic,/,91,59,0
+2026-08-24,Organic Search,google / organic,/services/team-extension,16,9,2
+2026-08-24,Organic Search,google / organic,/services/ai-integration,10,6,0
+2026-08-24,Organic Search,google / organic,/industries/fintech,8,5,0
+2026-08-24,Organic Search,google / organic,/blog/team-extension-vs-outsourcing,57,35,0
+2026-08-24,Organic Search,google / organic,/blog/onboarding-docs-that-get-read,34,22,0
+2026-08-24,Organic Search,google / organic,/careers,32,18,0
+2026-08-24,Paid Search,google / cpc,/,23,13,0
+2026-08-24,Paid Search,google / cpc,/services/team-extension,5,3,0
+2026-08-24,Paid Search,google / cpc,/services/ai-integration,2,1,0
+2026-08-24,Paid Search,google / cpc,/industries/fintech,2,1,0
+2026-08-24,Direct,(direct) / (none),/,30,19,0
+2026-08-24,Direct,(direct) / (none),/services/team-extension,5,3,0
+2026-08-24,Direct,(direct) / (none),/services/ai-integration,3,2,0
+2026-08-24,Direct,(direct) / (none),/industries/fintech,2,1,0
+2026-08-24,Direct,(direct) / (none),/blog/team-extension-vs-outsourcing,18,9,0
+2026-08-24,Direct,(direct) / (none),/blog/onboarding-docs-that-get-read,11,6,0
+2026-08-24,Direct,(direct) / (none),/careers,8,4,0
+2026-08-24,Organic Social,linkedin.com / referral,/,18,10,0
+2026-08-24,Organic Social,linkedin.com / referral,/services/team-extension,3,2,0
+2026-08-24,Organic Social,linkedin.com / referral,/services/ai-integration,2,1,0
+2026-08-24,Organic Social,linkedin.com / referral,/industries/fintech,1,1,0
+2026-08-24,Organic Social,linkedin.com / referral,/blog/team-extension-vs-outsourcing,10,5,0
+2026-08-24,Organic Social,linkedin.com / referral,/blog/onboarding-docs-that-get-read,5,3,0
+2026-08-24,Organic Social,linkedin.com / referral,/careers,5,3,0
+2026-08-24,Email,newsletter / email,/,6,4,0
+2026-08-24,Email,newsletter / email,/services/team-extension,1,1,0
+2026-08-24,Email,newsletter / email,/services/ai-integration,1,1,0
+2026-08-24,Email,newsletter / email,/industries/fintech,1,1,0
+2026-08-24,Email,newsletter / email,/blog/team-extension-vs-outsourcing,4,3,0
+2026-08-24,Email,newsletter / email,/blog/onboarding-docs-that-get-read,3,2,0
+2026-08-24,Email,newsletter / email,/careers,2,1,0
+2026-08-24,Referral,clutch.co / referral,/,6,4,0
+2026-08-24,Referral,clutch.co / referral,/services/team-extension,1,1,0
+2026-08-24,Referral,clutch.co / referral,/services/ai-integration,1,1,0
+2026-08-24,Referral,clutch.co / referral,/industries/fintech,0,0,0
+2026-08-24,Referral,clutch.co / referral,/blog/team-extension-vs-outsourcing,3,2,0
+2026-08-24,Referral,clutch.co / referral,/blog/onboarding-docs-that-get-read,2,1,0
+2026-08-24,Referral,clutch.co / referral,/careers,1,1,0
+2026-08-24,Direct,(direct) / (none),(not set),39,0,0
+2026-08-31,Organic Search,google / organic,/,472,285,4
+2026-08-31,Organic Search,google / organic,/services/team-extension,87,51,0
+2026-08-31,Organic Search,google / organic,/services/ai-integration,49,29,1
+2026-08-31,Organic Search,google / organic,/industries/fintech,41,28,2
+2026-08-31,Organic Search,google / organic,/blog/team-extension-vs-outsourcing,266,169,1
+2026-08-31,Organic Search,google / organic,/blog/onboarding-docs-that-get-read,168,100,2
+2026-08-31,Organic Search,google / organic,/careers,171,99,0
+2026-08-31,Paid Search,google / cpc,/,131,70,2
+2026-08-31,Paid Search,google / cpc,/services/team-extension,24,14,1
+2026-08-31,Paid Search,google / cpc,/services/ai-integration,15,8,1
+2026-08-31,Paid Search,google / cpc,/industries/fintech,12,7,0
+2026-08-31,Direct,(direct) / (none),/,144,88,1
+2026-08-31,Direct,(direct) / (none),/services/team-extension,28,16,0
+2026-08-31,Direct,(direct) / (none),/services/ai-integration,16,9,0
+2026-08-31,Direct,(direct) / (none),/industries/fintech,11,6,0
+2026-08-31,Direct,(direct) / (none),/blog/team-extension-vs-outsourcing,83,46,0
+2026-08-31,Direct,(direct) / (none),/blog/onboarding-docs-that-get-read,50,31,1
+2026-08-31,Direct,(direct) / (none),/careers,44,28,0
+2026-08-31,Organic Social,linkedin.com / referral,/,78,41,2
+2026-08-31,Organic Social,linkedin.com / referral,/services/team-extension,16,9,1
+2026-08-31,Organic Social,linkedin.com / referral,/services/ai-integration,9,4,0
+2026-08-31,Organic Social,linkedin.com / referral,/industries/fintech,8,4,0
+2026-08-31,Organic Social,linkedin.com / referral,/blog/team-extension-vs-outsourcing,49,23,0
+2026-08-31,Organic Social,linkedin.com / referral,/blog/onboarding-docs-that-get-read,34,19,0
+2026-08-31,Organic Social,linkedin.com / referral,/careers,30,15,0
+2026-08-31,Email,newsletter / email,/,45,33,0
+2026-08-31,Email,newsletter / email,/services/team-extension,8,6,1
+2026-08-31,Email,newsletter / email,/services/ai-integration,3,2,0
+2026-08-31,Email,newsletter / email,/industries/fintech,3,2,0
+2026-08-31,Email,newsletter / email,/blog/team-extension-vs-outsourcing,20,13,0
+2026-08-31,Email,newsletter / email,/blog/onboarding-docs-that-get-read,12,8,0
+2026-08-31,Email,newsletter / email,/careers,13,9,0
+2026-08-31,Referral,clutch.co / referral,/,26,18,0
+2026-08-31,Referral,clutch.co / referral,/services/team-extension,6,4,0
+2026-08-31,Referral,clutch.co / referral,/services/ai-integration,3,2,0
+2026-08-31,Referral,clutch.co / referral,/industries/fintech,2,1,0
+2026-08-31,Referral,clutch.co / referral,/blog/team-extension-vs-outsourcing,18,12,0
+2026-08-31,Referral,clutch.co / referral,/blog/onboarding-docs-that-get-read,12,7,0
+2026-08-31,Referral,clutch.co / referral,/careers,9,6,0
+2026-08-31,Direct,(direct) / (none),(not set),38,0,0
+2026-09-07,Organic Search,google / organic,/,525,305,8
+2026-09-07,Organic Search,google / organic,/services/team-extension,100,59,5
+2026-09-07,Organic Search,google / organic,/services/ai-integration,61,41,3
+2026-09-07,Organic Search,google / organic,/industries/fintech,48,29,0
+2026-09-07,Organic Search,google / organic,/blog/team-extension-vs-outsourcing,327,202,0
+2026-09-07,Organic Search,google / organic,/blog/onboarding-docs-that-get-read,202,129,0
+2026-09-07,Organic Search,google / organic,/careers,158,101,0
+2026-09-07,Paid Search,google / cpc,/,139,76,2
+2026-09-07,Paid Search,google / cpc,/services/team-extension,27,14,0
+2026-09-07,Paid Search,google / cpc,/services/ai-integration,12,6,0
+2026-09-07,Paid Search,google / cpc,/industries/fintech,11,6,0
+2026-09-07,Direct,(direct) / (none),/,182,107,2
+2026-09-07,Direct,(direct) / (none),/services/team-extension,27,17,1
+2026-09-07,Direct,(direct) / (none),/services/ai-integration,17,11,0
+2026-09-07,Direct,(direct) / (none),/industries/fintech,14,8,1
+2026-09-07,Direct,(direct) / (none),/blog/team-extension-vs-outsourcing,79,42,1
+2026-09-07,Direct,(direct) / (none),/blog/onboarding-docs-that-get-read,54,32,0
+2026-09-07,Direct,(direct) / (none),/careers,48,28,0
+2026-09-07,Organic Social,linkedin.com / referral,/,83,39,0
+2026-09-07,Organic Social,linkedin.com / referral,/services/team-extension,14,6,0
+2026-09-07,Organic Social,linkedin.com / referral,/services/ai-integration,10,5,0
+2026-09-07,Organic Social,linkedin.com / referral,/industries/fintech,7,3,0
+2026-09-07,Organic Social,linkedin.com / referral,/blog/team-extension-vs-outsourcing,52,25,0
+2026-09-07,Organic Social,linkedin.com / referral,/blog/onboarding-docs-that-get-read,29,16,1
+2026-09-07,Organic Social,linkedin.com / referral,/careers,28,14,0
+2026-09-07,Email,newsletter / email,/,44,29,2
+2026-09-07,Email,newsletter / email,/services/team-extension,8,6,0
+2026-09-07,Email,newsletter / email,/services/ai-integration,4,3,0
+2026-09-07,Email,newsletter / email,/industries/fintech,3,2,0
+2026-09-07,Email,newsletter / email,/blog/team-extension-vs-outsourcing,22,14,0
+2026-09-07,Email,newsletter / email,/blog/onboarding-docs-that-get-read,13,8,0
+2026-09-07,Email,newsletter / email,/careers,11,8,0
+2026-09-07,Referral,clutch.co / referral,/,27,17,1
+2026-09-07,Referral,clutch.co / referral,/services/team-extension,6,4,0
+2026-09-07,Referral,clutch.co / referral,/services/ai-integration,3,2,0
+2026-09-07,Referral,clutch.co / referral,/industries/fintech,2,1,0
+2026-09-07,Referral,clutch.co / referral,/blog/team-extension-vs-outsourcing,19,12,0
+2026-09-07,Referral,clutch.co / referral,/blog/onboarding-docs-that-get-read,9,6,0
+2026-09-07,Referral,clutch.co / referral,/careers,10,7,0
+2026-09-07,Direct,(direct) / (none),(not set),39,0,0
+2026-09-14,Organic Search,google / organic,/,595,396,4
+2026-09-14,Organic Search,google / organic,/services/team-extension,117,68,8
+2026-09-14,Organic Search,google / organic,/services/ai-integration,56,37,3
+2026-09-14,Organic Search,google / organic,/industries/fintech,45,27,3
+2026-09-14,Organic Search,google / organic,/blog/team-extension-vs-outsourcing,316,196,0
+2026-09-14,Organic Search,google / organic,/blog/onboarding-docs-that-get-read,224,130,1
+2026-09-14,Organic Search,google / organic,/careers,160,106,0
+2026-09-14,Paid Search,google / cpc,/,156,86,1
+2026-09-14,Paid Search,google / cpc,/services/team-extension,23,13,1
+2026-09-14,Paid Search,google / cpc,/services/ai-integration,13,8,0
+2026-09-14,Paid Search,google / cpc,/industries/fintech,12,7,0
+2026-09-14,Direct,(direct) / (none),/,151,89,1
+2026-09-14,Direct,(direct) / (none),/services/team-extension,31,17,1
+2026-09-14,Direct,(direct) / (none),/services/ai-integration,16,9,2
+2026-09-14,Direct,(direct) / (none),/industries/fintech,13,8,2
+2026-09-14,Direct,(direct) / (none),/blog/team-extension-vs-outsourcing,82,44,1
+2026-09-14,Direct,(direct) / (none),/blog/onboarding-docs-that-get-read,61,35,0
+2026-09-14,Direct,(direct) / (none),/careers,48,25,0
+2026-09-14,Organic Social,linkedin.com / referral,/,85,41,0
+2026-09-14,Organic Social,linkedin.com / referral,/services/team-extension,17,8,1
+2026-09-14,Organic Social,linkedin.com / referral,/services/ai-integration,8,4,1
+2026-09-14,Organic Social,linkedin.com / referral,/industries/fintech,7,4,0
+2026-09-14,Organic Social,linkedin.com / referral,/blog/team-extension-vs-outsourcing,57,27,1
+2026-09-14,Organic Social,linkedin.com / referral,/blog/onboarding-docs-that-get-read,27,14,0
+2026-09-14,Organic Social,linkedin.com / referral,/careers,25,14,0
+2026-09-14,Email,newsletter / email,/,44,31,1
+2026-09-14,Email,newsletter / email,/services/team-extension,7,5,0
+2026-09-14,Email,newsletter / email,/services/ai-integration,4,3,0
+2026-09-14,Email,newsletter / email,/industries/fintech,3,2,0
+2026-09-14,Email,newsletter / email,/blog/team-extension-vs-outsourcing,23,15,0
+2026-09-14,Email,newsletter / email,/blog/onboarding-docs-that-get-read,12,8,0
+2026-09-14,Email,newsletter / email,/careers,12,8,0
+2026-09-14,Referral,clutch.co / referral,/,28,18,0
+2026-09-14,Referral,clutch.co / referral,/services/team-extension,5,3,1
+2026-09-14,Referral,clutch.co / referral,/services/ai-integration,3,2,0
+2026-09-14,Referral,clutch.co / referral,/industries/fintech,3,2,0
+2026-09-14,Referral,clutch.co / referral,/blog/team-extension-vs-outsourcing,16,10,1
+2026-09-14,Referral,clutch.co / referral,/blog/onboarding-docs-that-get-read,9,6,0
+2026-09-14,Referral,clutch.co / referral,/careers,8,5,0
+2026-09-14,Direct,(direct) / (none),(not set),29,0,0
+2026-09-21,Organic Search,google / organic,/,635,363,8
+2026-09-21,Organic Search,google / organic,/services/team-extension,109,64,4
+2026-09-21,Organic Search,google / organic,/services/ai-integration,58,35,4
+2026-09-21,Organic Search,google / organic,/industries/fintech,49,29,3
+2026-09-21,Organic Search,google / organic,/blog/team-extension-vs-outsourcing,309,183,0
+2026-09-21,Organic Search,google / organic,/blog/onboarding-docs-that-get-read,213,124,1
+2026-09-21,Organic Search,google / organic,/careers,149,97,0
+2026-09-21,Paid Search,google / cpc,/,142,80,1
+2026-09-21,Paid Search,google / cpc,/services/team-extension,23,12,1
+2026-09-21,Paid Search,google / cpc,/services/ai-integration,15,8,1
+2026-09-21,Paid Search,google / cpc,/industries/fintech,10,5,0
+2026-09-21,Direct,(direct) / (none),/,156,93,3
+2026-09-21,Direct,(direct) / (none),/services/team-extension,30,16,3
+2026-09-21,Direct,(direct) / (none),/services/ai-integration,16,9,1
+2026-09-21,Direct,(direct) / (none),/industries/fintech,12,7,0
+2026-09-21,Direct,(direct) / (none),/blog/team-extension-vs-outsourcing,87,47,0
+2026-09-21,Direct,(direct) / (none),/blog/onboarding-docs-that-get-read,58,31,0
+2026-09-21,Direct,(direct) / (none),/careers,45,29,0
+2026-09-21,Organic Social,linkedin.com / referral,/,98,49,1
+2026-09-21,Organic Social,linkedin.com / referral,/services/team-extension,19,10,2
+2026-09-21,Organic Social,linkedin.com / referral,/services/ai-integration,10,5,0
+2026-09-21,Organic Social,linkedin.com / referral,/industries/fintech,8,4,1
+2026-09-21,Organic Social,linkedin.com / referral,/blog/team-extension-vs-outsourcing,45,21,1
+2026-09-21,Organic Social,linkedin.com / referral,/blog/onboarding-docs-that-get-read,33,17,0
+2026-09-21,Organic Social,linkedin.com / referral,/careers,27,13,0
+2026-09-21,Email,newsletter / email,/,43,28,1
+2026-09-21,Email,newsletter / email,/services/team-extension,8,5,1
+2026-09-21,Email,newsletter / email,/services/ai-integration,4,3,0
+2026-09-21,Email,newsletter / email,/industries/fintech,3,2,0
+2026-09-21,Email,newsletter / email,/blog/team-extension-vs-outsourcing,23,15,0
+2026-09-21,Email,newsletter / email,/blog/onboarding-docs-that-get-read,16,12,0
+2026-09-21,Email,newsletter / email,/careers,11,8,0
+2026-09-21,Referral,clutch.co / referral,/,29,20,1
+2026-09-21,Referral,clutch.co / referral,/services/team-extension,6,4,2
+2026-09-21,Referral,clutch.co / referral,/services/ai-integration,3,2,0
+2026-09-21,Referral,clutch.co / referral,/industries/fintech,2,1,0
+2026-09-21,Referral,clutch.co / referral,/blog/team-extension-vs-outsourcing,15,10,0
+2026-09-21,Referral,clutch.co / referral,/blog/onboarding-docs-that-get-read,10,6,0
+2026-09-21,Referral,clutch.co / referral,/careers,10,7,0
+2026-09-21,Direct,(direct) / (none),(not set),26,0,0
+2026-09-28,Organic Search,google / organic,/,521,351,7
+2026-09-28,Organic Search,google / organic,/services/team-extension,105,66,10
+2026-09-28,Organic Search,google / organic,/services/ai-integration,64,38,2
+2026-09-28,Organic Search,google / organic,/industries/fintech,53,34,1
+2026-09-28,Organic Search,google / organic,/blog/team-extension-vs-outsourcing,302,173,0
+2026-09-28,Organic Search,google / organic,/blog/onboarding-docs-that-get-read,188,118,0
+2026-09-28,Organic Search,google / organic,/careers,184,114,0
+2026-09-28,Paid Search,google / cpc,/,121,66,3
+2026-09-28,Paid Search,google / cpc,/services/team-extension,27,14,3
+2026-09-28,Paid Search,google / cpc,/services/ai-integration,13,7,0
+2026-09-28,Paid Search,google / cpc,/industries/fintech,10,6,0
+2026-09-28,Direct,(direct) / (none),/,140,76,2
+2026-09-28,Direct,(direct) / (none),/services/team-extension,29,18,2
+2026-09-28,Direct,(direct) / (none),/services/ai-integration,17,10,0
+2026-09-28,Direct,(direct) / (none),/industries/fintech,15,9,0
+2026-09-28,Direct,(direct) / (none),/blog/team-extension-vs-outsourcing,85,49,1
+2026-09-28,Direct,(direct) / (none),/blog/onboarding-docs-that-get-read,58,34,0
+2026-09-28,Direct,(direct) / (none),/careers,44,24,0
+2026-09-28,Organic Social,linkedin.com / referral,/,88,41,3
+2026-09-28,Organic Social,linkedin.com / referral,/services/team-extension,15,8,0
+2026-09-28,Organic Social,linkedin.com / referral,/services/ai-integration,10,5,0
+2026-09-28,Organic Social,linkedin.com / referral,/industries/fintech,6,3,0
+2026-09-28,Organic Social,linkedin.com / referral,/blog/team-extension-vs-outsourcing,55,28,0
+2026-09-28,Organic Social,linkedin.com / referral,/blog/onboarding-docs-that-get-read,32,16,0
+2026-09-28,Organic Social,linkedin.com / referral,/careers,30,16,0
+2026-09-28,Email,newsletter / email,/,41,31,2
+2026-09-28,Email,newsletter / email,/services/team-extension,7,4,0
+2026-09-28,Email,newsletter / email,/services/ai-integration,3,2,1
+2026-09-28,Email,newsletter / email,/industries/fintech,4,3,0
+2026-09-28,Email,newsletter / email,/blog/team-extension-vs-outsourcing,23,17,0
+2026-09-28,Email,newsletter / email,/blog/onboarding-docs-that-get-read,14,10,0
+2026-09-28,Email,newsletter / email,/careers,13,9,0
+2026-09-28,Referral,clutch.co / referral,/,28,18,0
+2026-09-28,Referral,clutch.co / referral,/services/team-extension,5,3,1
+2026-09-28,Referral,clutch.co / referral,/services/ai-integration,3,2,0
+2026-09-28,Referral,clutch.co / referral,/industries/fintech,2,1,0
+2026-09-28,Referral,clutch.co / referral,/blog/team-extension-vs-outsourcing,14,10,0
+2026-09-28,Referral,clutch.co / referral,/blog/onboarding-docs-that-get-read,10,7,0
+2026-09-28,Referral,clutch.co / referral,/careers,9,6,0
+2026-09-28,Direct,(direct) / (none),(not set),37,0,0

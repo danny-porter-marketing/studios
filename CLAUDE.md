@@ -112,6 +112,7 @@ prompt-library/                   Brief templates and mode instructions.
   02-pattern-mode.md
   03-pro-mode.md
   04-weekly-update.md
+  05-demo-briefs.md               Four ready-to-run demo briefs.
 .claude/
   skills/                         Layer 7. Each skill is <name>/SKILL.md.
     landing-page/

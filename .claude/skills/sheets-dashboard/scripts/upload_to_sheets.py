@@ -2,44 +2,83 @@
 """
 Upload an .xlsx to Google Drive and convert it to a native Google Sheet.
 
-Sends the file straight to the Drive API, so large datasets don't have to pass
-through Claude's context the way they do with the Drive connector.
+Sends the file straight to the Drive API, so large datasets never pass through
+Claude's context the way they do with the Drive connector.
 
-One-time setup (about 10 minutes):
-  1. Go to https://console.cloud.google.com, create a project (e.g. "studios-sheets").
-  2. APIs & Services > Library > enable "Google Drive API".
-  3. APIs & Services > OAuth consent screen > External, add your own Gmail as a test user.
-  4. APIs & Services > Credentials > Create credentials > OAuth client ID > "Desktop app".
-  5. Download the JSON and save it as  ~/.studios/google_credentials.json
-  6. pip install google-api-python-client google-auth-oauthlib
-  The first run opens a browser to sign in. After that a token is cached in
-  ~/.studios/google_token.json and runs are silent.
+Credentials, checked in this order:
+
+  1. Environment variables (cloud sessions, e.g. Claude Code on the web)
+       GOOGLE_CLIENT_ID
+       GOOGLE_CLIENT_SECRET
+       GOOGLE_REFRESH_TOKEN
+     Set them in the cloud environment's "Environment variables" box.
+     The refresh token comes from the OAuth Playground with your own client
+     (see docs/google-sheets-setup.md). Network: *.googleapis.com is in the
+     default Trusted allowlist, so no network change is needed.
+
+  2. Local files (running on your own computer)
+       ~/.studios/google_credentials.json   OAuth client JSON ("Desktop app")
+       ~/.studios/google_token.json         created on first run via browser sign-in
+
+Scope is drive.file: the credential can only see files this script creates,
+nothing else in your Drive.
 
 Usage:
     python upload_to_sheets.py dashboard.xlsx "Sheet title" [--folder FOLDER_ID]
+    python upload_to_sheets.py --check        # test the credential, upload nothing
 Prints the Google Sheets URL.
 """
 import argparse
+import os
 import sys
 from pathlib import Path
 
-SCOPES = ["https://www.googleapis.com/auth/drive.file"]  # only files this script creates
+SCOPES = ["https://www.googleapis.com/auth/drive.file"]
 HOME = Path.home() / ".studios"
 CREDS = HOME / "google_credentials.json"
 TOKEN = HOME / "google_token.json"
 XLSX = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+TOKEN_URI = "https://oauth2.googleapis.com/token"
 
 
-def service():
+def credentials():
     try:
         from google.auth.transport.requests import Request
         from google.oauth2.credentials import Credentials
-        from google_auth_oauthlib.flow import InstalledAppFlow
-        from googleapiclient.discovery import build
     except ImportError:
-        sys.exit("Missing libraries. Run: pip install google-api-python-client google-auth-oauthlib")
+        sys.exit("Missing libraries. Run: pip install google-api-python-client google-auth google-auth-oauthlib")
+
+    env = {k: os.environ.get(k) for k in ("GOOGLE_CLIENT_ID", "GOOGLE_CLIENT_SECRET", "GOOGLE_REFRESH_TOKEN")}
+    if all(env.values()):
+        creds = Credentials(
+            token=None,
+            refresh_token=env["GOOGLE_REFRESH_TOKEN"],
+            client_id=env["GOOGLE_CLIENT_ID"],
+            client_secret=env["GOOGLE_CLIENT_SECRET"],
+            token_uri=TOKEN_URI,
+            scopes=SCOPES,
+        )
+        try:
+            creds.refresh(Request())
+        except Exception as e:  # noqa: BLE001
+            sys.exit(
+                "Google rejected the stored credential. Usually the refresh token has expired "
+                "(tokens from an app left in 'Testing' last 7 days) or was copied incompletely. "
+                f"Get a new one from the OAuth Playground. Detail: {e}"
+            )
+        return creds
+    if any(env.values()):
+        missing = [k for k, v in env.items() if not v]
+        sys.exit(f"Some Google variables are set but these are missing: {', '.join(missing)}")
+
     if not CREDS.exists():
-        sys.exit(f"No credentials at {CREDS}. See setup steps at the top of this script.")
+        sys.exit(
+            "No Google credential found. In a cloud session, set GOOGLE_CLIENT_ID, "
+            "GOOGLE_CLIENT_SECRET and GOOGLE_REFRESH_TOKEN in the environment's variables. "
+            f"Locally, save an OAuth client JSON to {CREDS}. See docs/google-sheets-setup.md."
+        )
+    from google_auth_oauthlib.flow import InstalledAppFlow
+
     creds = Credentials.from_authorized_user_file(str(TOKEN), SCOPES) if TOKEN.exists() else None
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
@@ -48,22 +87,33 @@ def service():
             creds = InstalledAppFlow.from_client_secrets_file(str(CREDS), SCOPES).run_local_server(port=0)
         HOME.mkdir(exist_ok=True)
         TOKEN.write_text(creds.to_json())
-    return build("drive", "v3", credentials=creds)
+    return creds
 
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument("xlsx")
-    p.add_argument("title")
+    p.add_argument("xlsx", nargs="?")
+    p.add_argument("title", nargs="?")
     p.add_argument("--folder", help="Drive folder ID to put the sheet in")
+    p.add_argument("--check", action="store_true", help="Test the credential without uploading")
     a = p.parse_args()
+
+    creds = credentials()
+    if a.check:
+        print("Google credential OK.")
+        return
+    if not a.xlsx or not a.title:
+        p.error("xlsx and title are required unless --check is used")
+
+    from googleapiclient.discovery import build
     from googleapiclient.http import MediaFileUpload
 
     meta = {"name": a.title, "mimeType": "application/vnd.google-apps.spreadsheet"}
     if a.folder:
         meta["parents"] = [a.folder]
     media = MediaFileUpload(a.xlsx, mimetype=XLSX, resumable=True)
-    f = service().files().create(body=meta, media_body=media, fields="id,webViewLink").execute()
+    drive = build("drive", "v3", credentials=creds, cache_discovery=False)
+    f = drive.files().create(body=meta, media_body=media, fields="id,webViewLink").execute()
     print(f["webViewLink"])
 
 

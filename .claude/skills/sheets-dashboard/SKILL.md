@@ -82,7 +82,7 @@ Read the recalculated values with openpyxl (`data_only=True`) and confirm the KP
 
 Use the first option that works:
 
-1. **Direct upload (preferred):** `python <skill>/scripts/upload_to_sheets.py dashboard.xlsx "<title>"`. It prints the sheet URL.
+1. **Direct upload (preferred):** if `GOOGLE_REFRESH_TOKEN` is set in the environment (check with `test -n "$GOOGLE_REFRESH_TOKEN" && echo set`, never print the value), install the libraries if needed (`pip install --quiet google-api-python-client google-auth google-auth-oauthlib`), then run `python <skill>/scripts/upload_to_sheets.py dashboard.xlsx "<title>"`. It prints the sheet URL. If it fails, show the error message and move to option 2 or 3. Setup instructions: `docs/google-sheets-setup.md`.
 2. **Drive connector:** for small files only (roughly under 30 KB / a few hundred rows), base64 the .xlsx and call the Google Drive `create_file` tool with `contentMimeType` set to the xlsx mime type. Drive converts it to a native Sheet. Larger files are slow and costly this way because the whole file passes through the conversation.
 3. **Fallback:** give the operator the .xlsx path to drag into Google Drive. It opens as a Sheet.
 

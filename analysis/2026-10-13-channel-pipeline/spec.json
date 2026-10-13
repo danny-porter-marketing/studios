@@ -1,0 +1,126 @@
+{
+  "title": "Which channels and content produce pipeline, Jan to Sep 2026",
+  "clean_csv": "clean.csv",
+  "raw_csv": "raw.csv",
+  "extra_tables": [
+    {"name": "Spend by channel", "csv": "spend_by_channel.csv"},
+    {"name": "Spend by campaign", "csv": "spend_by_campaign.csv"}
+  ],
+  "kpis": [
+    {"label": "Pipeline created", "agg": "sum", "column": "pipeline_value_eur", "format": "eur"},
+    {"label": "Won revenue", "agg": "sum", "column": "won_value_eur", "format": "eur"},
+    {"label": "SQLs", "agg": "sum", "column": "is_sql"},
+    {"label": "Opportunities", "agg": "sum", "column": "is_opp"},
+    {"label": "Spend", "agg": "sum_table", "table": "Spend by channel", "column": "spend_eur", "format": "eur"},
+    {"label": "Pipeline per 1 EUR spent", "ratio": ["Pipeline created", "Spend"], "format": "dec"},
+    {"label": "Cost per SQL", "ratio": ["Spend", "SQLs"], "format": "eur"},
+    {"label": "Leads", "agg": "count"}
+  ],
+  "breakdowns": [
+    {
+      "title": "By channel",
+      "group_by": "channel",
+      "sort_by": "Pipeline",
+      "metrics": [
+        {"label": "Leads", "agg": "count"},
+        {"label": "MQLs", "agg": "sum", "column": "is_mql"},
+        {"label": "SQLs", "agg": "sum", "column": "is_sql"},
+        {"label": "Opps", "agg": "sum", "column": "is_opp"},
+        {"label": "Won", "agg": "sum", "column": "is_won"},
+        {"label": "Pipeline", "agg": "sum", "column": "pipeline_value_eur", "format": "eur"},
+        {"label": "Won revenue", "agg": "sum", "column": "won_value_eur", "format": "eur"},
+        {"label": "Spend", "agg": "lookup", "table": "Spend by channel", "key": "channel", "column": "spend_eur", "format": "eur"},
+        {"label": "SQL rate", "ratio": ["SQLs", "Leads"], "format": "pct", "highlight": "high_good"},
+        {"label": "Cost per SQL", "ratio": ["Spend", "SQLs"], "format": "eur", "highlight": "low_good"},
+        {"label": "Pipeline per EUR", "ratio": ["Pipeline", "Spend"], "format": "dec", "highlight": "high_good"}
+      ],
+      "chart": {"metric": "Pipeline per EUR"}
+    },
+    {
+      "title": "By paid campaign",
+      "group_by": "campaign",
+      "sort_by": "Pipeline",
+      "exclude": ["(none)"],
+      "metrics": [
+        {"label": "Leads", "agg": "count"},
+        {"label": "MQLs", "agg": "sum", "column": "is_mql"},
+        {"label": "SQLs", "agg": "sum", "column": "is_sql"},
+        {"label": "Won", "agg": "sum", "column": "is_won"},
+        {"label": "Pipeline", "agg": "sum", "column": "pipeline_value_eur", "format": "eur"},
+        {"label": "Spend", "agg": "lookup", "table": "Spend by campaign", "key": "campaign", "column": "spend_eur", "format": "eur"},
+        {"label": "Cost per SQL", "ratio": ["Spend", "SQLs"], "format": "eur", "highlight": "low_good"},
+        {"label": "Pipeline per EUR", "ratio": ["Pipeline", "Spend"], "format": "dec", "highlight": "high_good"}
+      ],
+      "chart": {"metric": "Pipeline per EUR"}
+    },
+    {
+      "title": "By first content asset",
+      "group_by": "first_asset",
+      "sort_by": "Pipeline",
+      "metrics": [
+        {"label": "Leads", "agg": "count"},
+        {"label": "MQLs", "agg": "sum", "column": "is_mql"},
+        {"label": "SQLs", "agg": "sum", "column": "is_sql"},
+        {"label": "Won", "agg": "sum", "column": "is_won"},
+        {"label": "Pipeline", "agg": "sum", "column": "pipeline_value_eur", "format": "eur"},
+        {"label": "SQL rate", "ratio": ["SQLs", "Leads"], "format": "pct", "highlight": "high_good"},
+        {"label": "MQL to SQL", "ratio": ["SQLs", "MQLs"], "format": "pct", "highlight": "high_good"}
+      ],
+      "chart": {"metric": "SQL rate"}
+    },
+    {
+      "title": "By job title",
+      "group_by": "job_title",
+      "sort_by": "Pipeline",
+      "metrics": [
+        {"label": "Leads", "agg": "count"},
+        {"label": "SQLs", "agg": "sum", "column": "is_sql"},
+        {"label": "Won", "agg": "sum", "column": "is_won"},
+        {"label": "Pipeline", "agg": "sum", "column": "pipeline_value_eur", "format": "eur"},
+        {"label": "SQL rate", "ratio": ["SQLs", "Leads"], "format": "pct", "highlight": "high_good"}
+      ],
+      "chart": {"metric": "SQL rate"}
+    },
+    {
+      "title": "By month created",
+      "group_by": "created_month",
+      "metrics": [
+        {"label": "Leads", "agg": "count"},
+        {"label": "SQLs", "agg": "sum", "column": "is_sql"},
+        {"label": "Opps", "agg": "sum", "column": "is_opp"},
+        {"label": "Pipeline", "agg": "sum", "column": "pipeline_value_eur", "format": "eur"},
+        {"label": "SQL rate", "ratio": ["SQLs", "Leads"], "format": "pct"}
+      ],
+      "chart": {"metric": "Pipeline", "type": "col"}
+    }
+  ],
+  "notes": {
+    "findings": [
+      "Partner referrals are 6% of leads and 4% of spend (EUR 8k), but 45% of pipeline (EUR 2.84m), 50% of won deals and 66% of won revenue. That is EUR 355 of pipeline per EUR spent.",
+      "LinkedIn Ads takes 35% of spend (EUR 78k) and returns 9% of pipeline. Cost per SQL is EUR 4,333, the worst of any channel.",
+      "LI_AI_Delivery_Q2 spent EUR 41k for 151 leads and 109 MQLs, and produced zero SQLs and zero pipeline.",
+      "Case studies are 24% of first touches but 45% of SQLs and 45% of pipeline, with a 15% SQL rate. Blogs and the AI webinar bring 541 leads and 310 MQLs but only 16 SQLs (3%).",
+      "The MQL count rewards the wrong content: the AI webinar produces the most MQLs (118) and one of the lowest MQL to SQL rates. CTOs and VPs of Engineering convert to SQL at about 13%; developers and marketing managers at under 3%."
+    ],
+    "cleaning": [
+      "Removed 12 exact duplicate rows (1,412 to 1,400). Lead IDs are unique after that.",
+      "Mapped 18 source spellings to 6 channels that match the spend file (e.g. 'linkedin ads', 'LinkedIn' and 'LinkedIn Ads' all become LinkedIn Ads).",
+      "Converted 204 dates from DD/MM/YYYY to ISO, and added a created_month column.",
+      "Converted 5 deal values stored as text (e.g. '€56,500') to numbers.",
+      "Standardised casing on 43 job titles and set 58 blank regions to 'Unknown'. Blank campaigns (organic, partner, events, outbound) are '(none)'.",
+      "Stage became cumulative 1/0 flags: is_mql (MQL or later), is_sql (SQL or later), is_opp (Opportunity, Closed Won or Closed Lost), is_won. Pipeline value is the deal value on every opportunity, open or closed; deal values only exist on those rows."
+    ],
+    "caveats": [
+      "Channel and content are first touch only. A partner lead may have read three case studies first; this data cannot show that.",
+      "Won-deal counts are small outside partners (3 to 5 per channel), so revenue by channel is directional. Pipeline and SQLs are the more stable comparison.",
+      "September has 70 leads and EUR 88k pipeline. August and September leads have not had time to progress, so recent months understate.",
+      "Spend is a Jan to Sep total per channel, so efficiency cannot be tracked by month. Partner spend of EUR 8k may not include partner fees or staff time.",
+      "Pipeline per EUR for organic and partners depends on how complete their spend figures are."
+    ],
+    "next_steps": [
+      "Pause LI_AI_Delivery_Q2 and GA_Outsourcing_Generic (EUR 75k combined, 5 SQLs) and move budget into the partner programme and case-study offers aimed at CTOs and VPs of Engineering.",
+      "Make the two case studies the default offer in LinkedIn retargeting and Google Brand, the two paid campaigns with the best pipeline per EUR.",
+      "Report on SQLs, pipeline and pipeline per EUR instead of MQLs, and add a multi-touch content field to the CRM so content gets credit beyond first touch."
+    ]
+  }
+}

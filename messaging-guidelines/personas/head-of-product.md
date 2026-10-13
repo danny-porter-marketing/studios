@@ -32,7 +32,7 @@ Influencer and champion more often than signer. Strong ally for Product Delivery
 
 They bring the problem to the CTO or VP Engineering and push for a decision. They respond to stories about outcomes shipped, clear scoping, and evidence that the vendor thinks about the user, not just the ticket.
 
-**Lesson from use-cases.md:** lead with roadmap delivery. AI is a second message for this persona, never the opener.
+**Proven rule (EXP-001):** lead with roadmap delivery. AI is a second message for this persona, never the opener. Roadmap-led openers booked 4.7% meetings vs 1.7% for AI-led (99% probability better, n = 817). See `experiments/EXP-001-hop-roadmap-vs-ai.md`.
 
 ---
 

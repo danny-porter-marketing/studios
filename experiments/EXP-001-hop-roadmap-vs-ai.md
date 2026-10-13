@@ -72,4 +72,4 @@ For Heads of Product, lead with roadmap delivery. Mention AI second, if at all.
 
 ## Rule change
 
-`messaging-guidelines/personas/head-of-product.md`, "How they buy" section, now cites EXP-001. Merged via pull request "learning: EXP-001 Head of Product leads with roadmap".
+`messaging-guidelines/personas/head-of-product.md`, "How they buy" section: the observation becomes a **Proven rule (EXP-001)**. Pull request: [#1 learning: EXP-001 Heads of Product respond to roadmap delivery, not AI](https://github.com/danny-porter-marketing/studios/pull/1).

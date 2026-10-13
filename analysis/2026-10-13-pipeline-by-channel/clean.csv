@@ -1,0 +1,1401 @@
+lead_id,created_date,channel,campaign,first_asset,job_title,company_size,region,stage,deal_value_eur,month,is_mql,is_sql,is_opp,is_won,pipeline_value_eur,won_value_eur
+L1669,2026-01-05,Google Ads,GA_Brand,Ebook: Scaling IT teams,Engineering Manager,11-50,Nordics,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1432,2026-01-06,Google Ads,GA_Brand,Blog: Ruby vs Node,Engineering Manager,1000+,Poland,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1718,2026-01-06,Google Ads,GA_Brand,Webinar: AI in delivery,Engineering Manager,51-200,US,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1947,2026-01-06,Organic Search,(none),Contact form only,VP Engineering,201-1000,DACH,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1207,2026-01-07,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,Procurement,201-1000,Poland,SQL,,2026-01,1,1,0,0,0.0,0.0
+L2039,2026-01-07,Partner Referral,(none),Ebook: Scaling IT teams,VP Engineering,11-50,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L2168,2026-01-07,Outbound Email,(none),Ebook: Scaling IT teams,CTO,201-1000,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2202,2026-01-07,Outbound Email,(none),Blog: Outsourcing checklist,Marketing Manager,11-50,US,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2206,2026-01-07,Outbound Email,(none),Pricing page,Head of Product,11-50,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1151,2026-01-08,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,VP Engineering,51-200,DACH,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1265,2026-01-08,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,Procurement,11-50,Nordics,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1347,2026-01-08,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,CTO,51-200,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1375,2026-01-08,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,Developer,201-1000,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1715,2026-01-08,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,Engineering Manager,201-1000,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1783,2026-01-08,Organic Search,(none),Webinar: AI in delivery,Marketing Manager,51-200,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1857,2026-01-08,Organic Search,(none),Webinar: AI in delivery,Developer,51-200,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1867,2026-01-08,Organic Search,(none),Blog: Outsourcing checklist,Head of Product,51-200,DACH,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2034,2026-01-08,Partner Referral,(none),Case study: SaaS migration,CTO,51-200,Benelux,Closed Lost,99500.0,2026-01,1,1,1,0,99500.0,0.0
+L1042,2026-01-09,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: SaaS migration,CEO,51-200,US,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2101,2026-01-09,Outbound Email,(none),Case study: SaaS migration,VP Engineering,11-50,US,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2239,2026-01-09,Outbound Email,(none),Ebook: Scaling IT teams,CTO,11-50,DACH,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1011,2026-01-10,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,CEO,51-200,US,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1204,2026-01-10,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: fintech team scale-up,Engineering Manager,51-200,US,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1292,2026-01-10,LinkedIn Ads,LI_ScaleUp_CTO,Pricing page,VP Engineering,11-50,DACH,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1482,2026-01-10,Google Ads,GA_Brand,Webinar: AI in delivery,CTO,51-200,Poland,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1518,2026-01-10,Google Ads,GA_Brand,Webinar: AI in delivery,Developer,11-50,Nordics,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1632,2026-01-10,Google Ads,GA_Brand,Blog: Ruby vs Node,CTO,11-50,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1732,2026-01-10,Organic Search,(none),Case study: SaaS migration,VP Engineering,201-1000,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1797,2026-01-10,Organic Search,(none),Contact form only,Developer,201-1000,Poland,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1381,2026-01-11,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Developer,11-50,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1570,2026-01-11,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,CTO,11-50,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1655,2026-01-11,Google Ads,GA_Ruby_Dev,Case study: fintech team scale-up,Developer,11-50,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1690,2026-01-11,Google Ads,GA_Brand,Case study: fintech team scale-up,Procurement,11-50,Poland,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1741,2026-01-11,Organic Search,(none),Webinar: AI in delivery,Marketing Manager,201-1000,Benelux,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1516,2026-01-12,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,VP Engineering,51-200,Nordics,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1582,2026-01-12,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,Marketing Manager,51-200,DACH,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2187,2026-01-12,Outbound Email,(none),Blog: Outsourcing checklist,Developer,1000+,DACH,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1427,2026-01-13,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,Procurement,201-1000,Benelux,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1440,2026-01-13,Google Ads,GA_Brand,Blog: Ruby vs Node,CTO,201-1000,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L2140,2026-01-13,Outbound Email,(none),Webinar: AI in delivery,Engineering Manager,201-1000,Unknown,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2310,2026-01-13,Events,(none),Case study: fintech team scale-up,CTO,51-200,Benelux,Closed Won,72800.0,2026-01,1,1,1,1,72800.0,72800.0
+L1246,2026-01-14,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,Engineering Manager,201-1000,DACH,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1309,2026-01-14,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,Developer,11-50,Nordics,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1503,2026-01-14,Google Ads,GA_Brand,Blog: Outsourcing checklist,VP Engineering,11-50,US,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1650,2026-01-14,Google Ads,GA_Outsourcing_Generic,Case study: SaaS migration,VP Engineering,1000+,US,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1008,2026-01-15,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,Engineering Manager,11-50,Poland,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1036,2026-01-15,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,Engineering Manager,51-200,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1100,2026-01-15,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,CTO,11-50,US,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1112,2026-01-15,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Outsourcing checklist,CTO,11-50,Nordics,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1544,2026-01-15,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,CEO,201-1000,Nordics,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1871,2026-01-15,Organic Search,(none),Ebook: Scaling IT teams,CEO,51-200,Nordics,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1996,2026-01-15,Partner Referral,(none),Pricing page,Engineering Manager,201-1000,Nordics,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1312,2026-01-16,LinkedIn Ads,LI_Retarget,Blog: Ruby vs Node,Engineering Manager,201-1000,Unknown,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1814,2026-01-16,Organic Search,(none),Ebook: Scaling IT teams,CEO,1000+,Benelux,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1882,2026-01-16,Organic Search,(none),Contact form only,Head of Product,1000+,Nordics,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2081,2026-01-16,Outbound Email,(none),Pricing page,Developer,51-200,Poland,MQL,,2026-01,1,0,0,0,0.0,0.0
+L2391,2026-01-16,Events,(none),Ebook: Scaling IT teams,Procurement,201-1000,DACH,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1340,2026-01-17,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,Marketing Manager,11-50,Nordics,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1418,2026-01-17,LinkedIn Ads,LI_Retarget,Contact form only,CTO,1000+,DACH,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1448,2026-01-17,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,Head of Product,201-1000,US,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1534,2026-01-17,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,Developer,201-1000,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1899,2026-01-17,Organic Search,(none),Pricing page,CTO,51-200,Poland,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1415,2026-01-18,LinkedIn Ads,LI_ScaleUp_CTO,Pricing page,Engineering Manager,51-200,Poland,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1235,2026-01-19,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,Engineering Manager,201-1000,DACH,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1537,2026-01-19,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,Engineering Manager,51-200,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1677,2026-01-19,Google Ads,GA_Brand,Case study: fintech team scale-up,VP Engineering,51-200,DACH,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1849,2026-01-19,Organic Search,(none),Blog: Outsourcing checklist,CTO,51-200,Nordics,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1987,2026-01-19,Partner Referral,(none),Case study: SaaS migration,CTO,201-1000,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L2096,2026-01-19,Outbound Email,(none),Blog: Outsourcing checklist,Developer,11-50,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1210,2026-01-20,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,Marketing Manager,1000+,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1356,2026-01-20,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,Head of Product,51-200,Poland,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1538,2026-01-20,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,VP Engineering,51-200,US,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1660,2026-01-20,Google Ads,GA_Brand,Contact form only,CEO,51-200,Poland,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1707,2026-01-20,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,Head of Product,1000+,Poland,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1819,2026-01-20,Organic Search,(none),Ebook: Scaling IT teams,CEO,11-50,DACH,MQL,,2026-01,1,0,0,0,0.0,0.0
+L2214,2026-01-20,Outbound Email,(none),Pricing page,Procurement,11-50,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1143,2026-01-21,LinkedIn Ads,LI_AI_Delivery_Q2,Ebook: Scaling IT teams,CEO,11-50,Poland,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1486,2026-01-21,Google Ads,GA_Brand,Case study: SaaS migration,CTO,51-200,Unknown,Opportunity,37500.0,2026-01,1,1,1,0,37500.0,0.0
+L1689,2026-01-21,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,Engineering Manager,201-1000,Benelux,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1477,2026-01-22,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,Engineering Manager,11-50,Benelux,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1680,2026-01-22,Google Ads,GA_Outsourcing_Generic,Case study: SaaS migration,Head of Product,11-50,Nordics,Closed Won,56500.0,2026-01,1,1,1,1,56500.0,56500.0
+L2042,2026-01-22,Partner Referral,(none),Pricing page,CTO,51-200,Benelux,Closed Won,88800.0,2026-01,1,1,1,1,88800.0,88800.0
+L2125,2026-01-22,Outbound Email,(none),Case study: SaaS migration,VP Engineering,201-1000,Benelux,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2363,2026-01-22,Events,(none),Pricing page,Developer,51-200,DACH,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1052,2026-01-23,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,VP Engineering,201-1000,Poland,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1085,2026-01-23,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,Developer,1000+,US,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1757,2026-01-23,Organic Search,(none),Contact form only,Engineering Manager,1000+,Benelux,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1833,2026-01-23,Organic Search,(none),Case study: SaaS migration,CEO,11-50,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1997,2026-01-24,Partner Referral,(none),Case study: SaaS migration,VP Engineering,11-50,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L2008,2026-01-24,Partner Referral,(none),Blog: Outsourcing checklist,Head of Product,11-50,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L2055,2026-01-24,Partner Referral,(none),Contact form only,Developer,51-200,Benelux,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2077,2026-01-24,Outbound Email,(none),Pricing page,Head of Product,1000+,Benelux,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2178,2026-01-24,Outbound Email,(none),Blog: Ruby vs Node,Developer,201-1000,DACH,MQL,,2026-01,1,0,0,0,0.0,0.0
+L2277,2026-01-24,Outbound Email,(none),Pricing page,Marketing Manager,11-50,Poland,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2313,2026-01-24,Events,(none),Ebook: Scaling IT teams,CEO,201-1000,Unknown,MQL,,2026-01,1,0,0,0,0.0,0.0
+L2324,2026-01-24,Events,(none),Case study: SaaS migration,CTO,51-200,US,Closed Lost,55400.0,2026-01,1,1,1,0,55400.0,0.0
+L1337,2026-01-25,LinkedIn Ads,LI_Retarget,Blog: Ruby vs Node,Developer,201-1000,US,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1924,2026-01-25,Organic Search,(none),Blog: Outsourcing checklist,Engineering Manager,201-1000,Poland,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2177,2026-01-25,Outbound Email,(none),Blog: Ruby vs Node,CEO,1000+,Nordics,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2332,2026-01-25,Events,(none),Webinar: AI in delivery,VP Engineering,201-1000,US,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1043,2026-01-26,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,Developer,51-200,Nordics,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1187,2026-01-26,LinkedIn Ads,LI_Retarget,Blog: Ruby vs Node,Marketing Manager,1000+,Benelux,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1225,2026-01-26,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,Engineering Manager,11-50,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1636,2026-01-26,Google Ads,GA_Ruby_Dev,Webinar: AI in delivery,CTO,11-50,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1687,2026-01-26,Google Ads,GA_Brand,Ebook: Scaling IT teams,VP Engineering,11-50,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2059,2026-01-26,Partner Referral,(none),Webinar: AI in delivery,Developer,51-200,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1157,2026-01-27,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Engineering Manager,201-1000,Poland,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1199,2026-01-27,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Engineering Manager,51-200,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1219,2026-01-27,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Outsourcing checklist,Marketing Manager,201-1000,Benelux,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1327,2026-01-27,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,Engineering Manager,1000+,UK,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1452,2026-01-27,Google Ads,GA_Brand,Pricing page,Developer,11-50,Nordics,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1581,2026-01-27,Google Ads,GA_Brand,Blog: Ruby vs Node,Engineering Manager,11-50,Nordics,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1870,2026-01-27,Organic Search,(none),Webinar: AI in delivery,Engineering Manager,1000+,Benelux,MQL,,2026-01,1,0,0,0,0.0,0.0
+L2012,2026-01-27,Partner Referral,(none),Case study: fintech team scale-up,Developer,11-50,DACH,Closed Won,145400.0,2026-01,1,1,1,1,145400.0,145400.0
+L2147,2026-01-27,Outbound Email,(none),Case study: SaaS migration,Head of Product,201-1000,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1056,2026-01-28,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,CTO,201-1000,Nordics,Closed Won,41700.0,2026-01,1,1,1,1,41700.0,41700.0
+L1295,2026-01-28,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,Developer,51-200,DACH,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1443,2026-01-28,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,Head of Product,201-1000,Poland,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1576,2026-01-28,Google Ads,GA_Brand,Case study: fintech team scale-up,Engineering Manager,51-200,Poland,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1589,2026-01-28,Google Ads,GA_Brand,Pricing page,Developer,1000+,Unknown,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1694,2026-01-28,Google Ads,GA_Ruby_Dev,Webinar: AI in delivery,CTO,11-50,Poland,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1712,2026-01-28,Google Ads,GA_Outsourcing_Generic,Contact form only,VP Engineering,51-200,Benelux,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1382,2026-01-29,LinkedIn Ads,LI_Retarget,Pricing page,Head of Product,51-200,DACH,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1473,2026-01-29,Google Ads,GA_Brand,Case study: SaaS migration,Head of Product,201-1000,Benelux,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1555,2026-01-29,Google Ads,GA_Brand,Case study: fintech team scale-up,Developer,51-200,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1587,2026-01-29,Google Ads,GA_Ruby_Dev,Ebook: Scaling IT teams,CTO,1000+,Poland,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1981,2026-01-29,Partner Referral,(none),Webinar: AI in delivery,Engineering Manager,1000+,Benelux,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1202,2026-01-30,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,CTO,11-50,Poland,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1363,2026-01-30,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,CTO,11-50,DACH,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1539,2026-01-30,Google Ads,GA_Brand,Contact form only,Engineering Manager,51-200,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1608,2026-01-30,Google Ads,GA_Ruby_Dev,Case study: fintech team scale-up,CEO,201-1000,DACH,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1624,2026-01-30,Google Ads,GA_Outsourcing_Generic,Pricing page,Head of Product,201-1000,Nordics,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2068,2026-01-30,Outbound Email,(none),Case study: SaaS migration,Engineering Manager,51-200,Nordics,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2181,2026-01-30,Outbound Email,(none),Webinar: AI in delivery,Developer,51-200,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2182,2026-01-30,Outbound Email,(none),Blog: Outsourcing checklist,Engineering Manager,201-1000,Benelux,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2204,2026-01-30,Outbound Email,(none),Case study: SaaS migration,CEO,1000+,Nordics,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2291,2026-01-30,Events,(none),Case study: SaaS migration,Marketing Manager,51-200,DACH,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2362,2026-01-30,Events,(none),Ebook: Scaling IT teams,CEO,51-200,UK,Closed Lost,61600.0,2026-01,1,1,1,0,61600.0,0.0
+L1398,2026-01-31,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,Developer,51-200,Nordics,MQL,,2026-01,1,0,0,0,0.0,0.0
+L1671,2026-01-31,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,VP Engineering,1000+,DACH,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1752,2026-01-31,Organic Search,(none),Blog: Ruby vs Node,Procurement,201-1000,US,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1773,2026-01-31,Organic Search,(none),Case study: fintech team scale-up,Engineering Manager,51-200,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1963,2026-01-31,Organic Search,(none),Ebook: Scaling IT teams,Procurement,51-200,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2013,2026-01-31,Partner Referral,(none),Webinar: AI in delivery,CEO,11-50,Nordics,MQL,,2026-01,1,0,0,0,0.0,0.0
+L2224,2026-01-31,Outbound Email,(none),Blog: Outsourcing checklist,Developer,201-1000,DACH,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2238,2026-01-31,Outbound Email,(none),Case study: SaaS migration,Engineering Manager,201-1000,UK,Lead,,2026-01,0,0,0,0,0.0,0.0
+L2303,2026-01-31,Events,(none),Case study: fintech team scale-up,Engineering Manager,51-200,Poland,Closed Won,65700.0,2026-01,1,1,1,1,65700.0,65700.0
+L2360,2026-01-31,Events,(none),Contact form only,Engineering Manager,1000+,Benelux,Lead,,2026-01,0,0,0,0,0.0,0.0
+L1097,2026-02-01,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,CTO,11-50,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1171,2026-02-01,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,VP Engineering,1000+,Poland,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1181,2026-02-01,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Outsourcing checklist,Head of Product,51-200,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2328,2026-02-01,Events,(none),Blog: Outsourcing checklist,CEO,201-1000,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2346,2026-02-01,Events,(none),Pricing page,CEO,11-50,Benelux,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1335,2026-02-02,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,VP Engineering,1000+,DACH,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1535,2026-02-02,Google Ads,GA_Brand,Pricing page,Engineering Manager,51-200,US,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1637,2026-02-02,Google Ads,GA_Brand,Webinar: AI in delivery,VP Engineering,11-50,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2086,2026-02-02,Outbound Email,(none),Blog: Ruby vs Node,VP Engineering,11-50,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2112,2026-02-02,Outbound Email,(none),Blog: Ruby vs Node,VP Engineering,51-200,Benelux,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2129,2026-02-02,Outbound Email,(none),Case study: SaaS migration,Engineering Manager,201-1000,US,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1345,2026-02-03,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,CTO,51-200,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1755,2026-02-03,Organic Search,(none),Case study: SaaS migration,CTO,1000+,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1765,2026-02-03,Organic Search,(none),Ebook: Scaling IT teams,CTO,201-1000,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L2090,2026-02-03,Outbound Email,(none),Case study: SaaS migration,Head of Product,11-50,Poland,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1247,2026-02-04,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,Developer,201-1000,Nordics,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1408,2026-02-04,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,CTO,11-50,UK,Closed Lost,31700.0,2026-02,1,1,1,0,31700.0,0.0
+L1541,2026-02-04,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,Engineering Manager,1000+,Poland,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1638,2026-02-04,Google Ads,GA_Ruby_Dev,Contact form only,Head of Product,51-200,US,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1903,2026-02-04,Organic Search,(none),Blog: Ruby vs Node,Engineering Manager,11-50,Nordics,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1252,2026-02-05,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,CTO,51-200,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1479,2026-02-05,Google Ads,GA_Brand,Pricing page,Marketing Manager,1000+,Nordics,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1509,2026-02-05,Google Ads,GA_Ruby_Dev,Pricing page,VP Engineering,201-1000,Poland,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1520,2026-02-05,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,Engineering Manager,11-50,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1852,2026-02-05,Organic Search,(none),Pricing page,Head of Product,11-50,UK,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1913,2026-02-05,Organic Search,(none),Ebook: Scaling IT teams,VP Engineering,51-200,Nordics,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2161,2026-02-05,Outbound Email,(none),Case study: fintech team scale-up,Developer,11-50,Poland,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2371,2026-02-05,Events,(none),Case study: fintech team scale-up,Head of Product,11-50,Poland,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1084,2026-02-06,LinkedIn Ads,LI_ScaleUp_CTO,Contact form only,Marketing Manager,51-200,UK,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1184,2026-02-06,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Developer,51-200,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1270,2026-02-06,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,CTO,1000+,US,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1764,2026-02-06,Organic Search,(none),Ebook: Scaling IT teams,VP Engineering,201-1000,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1774,2026-02-06,Organic Search,(none),Blog: Outsourcing checklist,CTO,11-50,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1919,2026-02-06,Organic Search,(none),Blog: Outsourcing checklist,Developer,1000+,Nordics,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1985,2026-02-06,Partner Referral,(none),Webinar: AI in delivery,Head of Product,201-1000,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2027,2026-02-06,Partner Referral,(none),Blog: Outsourcing checklist,Marketing Manager,201-1000,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L2036,2026-02-06,Partner Referral,(none),Contact form only,Engineering Manager,51-200,Benelux,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2319,2026-02-06,Events,(none),Case study: SaaS migration,CEO,1000+,Benelux,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1916,2026-02-07,Organic Search,(none),Ebook: Scaling IT teams,VP Engineering,201-1000,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2083,2026-02-07,Outbound Email,(none),Webinar: AI in delivery,VP Engineering,1000+,Benelux,MQL,,2026-02,1,0,0,0,0.0,0.0
+L2192,2026-02-07,Outbound Email,(none),Ebook: Scaling IT teams,VP Engineering,1000+,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2201,2026-02-07,Outbound Email,(none),Ebook: Scaling IT teams,Engineering Manager,51-200,UK,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2334,2026-02-07,Events,(none),Case study: fintech team scale-up,CTO,1000+,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1357,2026-02-08,LinkedIn Ads,LI_ScaleUp_CTO,Contact form only,Developer,11-50,DACH,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1934,2026-02-08,Organic Search,(none),Webinar: AI in delivery,VP Engineering,51-200,Benelux,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2400,2026-02-08,Events,(none),Pricing page,Head of Product,51-200,Poland,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1233,2026-02-09,LinkedIn Ads,LI_Retarget,Pricing page,Developer,1000+,Unknown,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1314,2026-02-09,LinkedIn Ads,LI_Retarget,Contact form only,Engineering Manager,201-1000,DACH,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1869,2026-02-09,Organic Search,(none),Webinar: AI in delivery,CEO,51-200,DACH,MQL,,2026-02,1,0,0,0,0.0,0.0
+L2033,2026-02-09,Partner Referral,(none),Contact form only,Procurement,51-200,DACH,Closed Won,137300.0,2026-02,1,1,1,1,137300.0,137300.0
+L1285,2026-02-10,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,CEO,11-50,Benelux,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1501,2026-02-10,Google Ads,GA_Brand,Case study: SaaS migration,CEO,1000+,UK,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1642,2026-02-10,Google Ads,GA_Ruby_Dev,Case study: fintech team scale-up,Head of Product,11-50,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1896,2026-02-10,Organic Search,(none),Contact form only,Engineering Manager,201-1000,Benelux,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1154,2026-02-11,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,CTO,11-50,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1420,2026-02-11,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,CTO,11-50,Poland,SQL,,2026-02,1,1,0,0,0.0,0.0
+L1673,2026-02-11,Google Ads,GA_Outsourcing_Generic,Case study: fintech team scale-up,CEO,51-200,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1865,2026-02-11,Organic Search,(none),Pricing page,Marketing Manager,51-200,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L2005,2026-02-11,Partner Referral,(none),Contact form only,VP Engineering,51-200,UK,SQL,,2026-02,1,1,0,0,0.0,0.0
+L2066,2026-02-11,Outbound Email,(none),Blog: Outsourcing checklist,CEO,11-50,Benelux,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1017,2026-02-12,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,Head of Product,11-50,Benelux,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1423,2026-02-12,Google Ads,GA_Brand,Case study: fintech team scale-up,Head of Product,1000+,Poland,SQL,,2026-02,1,1,0,0,0.0,0.0
+L1424,2026-02-12,Google Ads,GA_Brand,Pricing page,Head of Product,11-50,Unknown,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1552,2026-02-12,Google Ads,GA_Brand,Webinar: AI in delivery,CTO,1000+,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1771,2026-02-12,Organic Search,(none),Case study: fintech team scale-up,VP Engineering,1000+,Nordics,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1950,2026-02-12,Organic Search,(none),Pricing page,Marketing Manager,51-200,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L2126,2026-02-12,Outbound Email,(none),Case study: fintech team scale-up,Developer,51-200,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2232,2026-02-12,Outbound Email,(none),Contact form only,VP Engineering,51-200,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L2307,2026-02-12,Events,(none),Blog: Ruby vs Node,Procurement,1000+,US,MQL,,2026-02,1,0,0,0,0.0,0.0
+L2323,2026-02-12,Events,(none),Case study: fintech team scale-up,VP Engineering,1000+,Poland,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1086,2026-02-13,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,CEO,51-200,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1117,2026-02-13,LinkedIn Ads,LI_ScaleUp_CTO,Pricing page,CEO,51-200,Poland,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1169,2026-02-13,LinkedIn Ads,LI_AI_Delivery_Q2,Webinar: AI in delivery,VP Engineering,11-50,Poland,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1433,2026-02-13,Google Ads,GA_Ruby_Dev,Webinar: AI in delivery,Engineering Manager,51-200,US,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1770,2026-02-13,Organic Search,(none),Webinar: AI in delivery,CEO,51-200,US,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1798,2026-02-13,Organic Search,(none),Blog: Ruby vs Node,Head of Product,51-200,Benelux,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1840,2026-02-13,Organic Search,(none),Webinar: AI in delivery,CTO,51-200,Nordics,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1915,2026-02-13,Organic Search,(none),Blog: Ruby vs Node,Engineering Manager,51-200,Unknown,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2267,2026-02-13,Outbound Email,(none),Blog: Ruby vs Node,Engineering Manager,201-1000,Benelux,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1296,2026-02-14,LinkedIn Ads,LI_Retarget,Pricing page,Marketing Manager,51-200,Nordics,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1609,2026-02-14,Google Ads,GA_Outsourcing_Generic,Pricing page,CTO,201-1000,US,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1735,2026-02-14,Organic Search,(none),Case study: SaaS migration,VP Engineering,51-200,Poland,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2058,2026-02-14,Partner Referral,(none),Case study: SaaS migration,CEO,51-200,Nordics,SQL,,2026-02,1,1,0,0,0.0,0.0
+L2063,2026-02-14,Partner Referral,(none),Ebook: Scaling IT teams,CEO,1000+,Benelux,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1121,2026-02-15,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,CTO,11-50,Unknown,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1212,2026-02-15,LinkedIn Ads,LI_Retarget,Contact form only,Engineering Manager,201-1000,Poland,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1568,2026-02-15,Google Ads,GA_Brand,Case study: fintech team scale-up,Developer,201-1000,UK,Closed Lost,42900.0,2026-02,1,1,1,0,42900.0,0.0
+L1661,2026-02-15,Google Ads,GA_Brand,Pricing page,Engineering Manager,201-1000,Benelux,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1663,2026-02-15,Google Ads,GA_Brand,Case study: SaaS migration,Head of Product,1000+,Nordics,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1722,2026-02-15,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,Developer,11-50,US,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1749,2026-02-15,Organic Search,(none),Contact form only,VP Engineering,201-1000,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2003,2026-02-15,Partner Referral,(none),Webinar: AI in delivery,Engineering Manager,11-50,US,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1249,2026-02-16,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,Engineering Manager,51-200,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1454,2026-02-16,Google Ads,GA_Ruby_Dev,Pricing page,Developer,51-200,DACH,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1489,2026-02-16,Google Ads,GA_Ruby_Dev,Case study: fintech team scale-up,CTO,201-1000,Nordics,Closed Won,40700.0,2026-02,1,1,1,1,40700.0,40700.0
+L1523,2026-02-16,Google Ads,GA_Outsourcing_Generic,Pricing page,VP Engineering,1000+,Poland,Closed Lost,43100.0,2026-02,1,1,1,0,43100.0,0.0
+L1078,2026-02-17,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,VP Engineering,51-200,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1161,2026-02-17,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,VP Engineering,11-50,US,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1286,2026-02-17,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Engineering Manager,51-200,Benelux,MQL,,2026-02,1,0,0,0,0.0,0.0
+L2361,2026-02-17,Events,(none),Case study: SaaS migration,CEO,201-1000,US,Closed Won,86100.0,2026-02,1,1,1,1,86100.0,86100.0
+L1280,2026-02-18,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,VP Engineering,201-1000,UK,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1428,2026-02-18,Google Ads,GA_Brand,Webinar: AI in delivery,Engineering Manager,51-200,Nordics,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1666,2026-02-18,Google Ads,GA_Brand,Ebook: Scaling IT teams,VP Engineering,11-50,Nordics,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1891,2026-02-18,Organic Search,(none),Blog: Ruby vs Node,Head of Product,201-1000,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1138,2026-02-19,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,CTO,201-1000,Benelux,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1474,2026-02-19,Google Ads,GA_Ruby_Dev,Pricing page,Marketing Manager,201-1000,Poland,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1791,2026-02-19,Organic Search,(none),Blog: Outsourcing checklist,Developer,11-50,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2195,2026-02-19,Outbound Email,(none),Webinar: AI in delivery,CTO,1000+,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2382,2026-02-19,Events,(none),Contact form only,Engineering Manager,51-200,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1045,2026-02-20,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,VP Engineering,1000+,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1048,2026-02-20,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,CEO,1000+,DACH,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1984,2026-02-20,Partner Referral,(none),Contact form only,Procurement,51-200,Poland,Closed Won,114500.0,2026-02,1,1,1,1,114500.0,114500.0
+L2084,2026-02-20,Outbound Email,(none),Case study: SaaS migration,VP Engineering,1000+,Nordics,Closed Lost,55000.0,2026-02,1,1,1,0,55000.0,0.0
+L2143,2026-02-20,Outbound Email,(none),Ebook: Scaling IT teams,Developer,51-200,Unknown,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2196,2026-02-20,Outbound Email,(none),Case study: fintech team scale-up,CEO,51-200,US,Closed Lost,61400.0,2026-02,1,1,1,0,61400.0,0.0
+L1241,2026-02-21,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,Developer,51-200,Nordics,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1257,2026-02-21,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,VP Engineering,51-200,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1785,2026-02-21,Organic Search,(none),Pricing page,Engineering Manager,201-1000,US,Opportunity,58000.0,2026-02,1,1,1,0,58000.0,0.0
+L1075,2026-02-22,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,Engineering Manager,201-1000,Nordics,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1321,2026-02-22,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,Head of Product,51-200,Benelux,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1455,2026-02-22,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,CTO,51-200,DACH,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1593,2026-02-22,Google Ads,GA_Brand,Blog: Outsourcing checklist,Developer,51-200,Poland,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1710,2026-02-22,Google Ads,GA_Brand,Blog: Outsourcing checklist,CEO,11-50,DACH,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1875,2026-02-22,Organic Search,(none),Ebook: Scaling IT teams,CTO,201-1000,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1881,2026-02-22,Organic Search,(none),Case study: SaaS migration,Head of Product,201-1000,Benelux,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2296,2026-02-22,Events,(none),Blog: Outsourcing checklist,CEO,201-1000,DACH,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1099,2026-02-23,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: fintech team scale-up,Developer,51-200,Nordics,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1152,2026-02-23,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,VP Engineering,51-200,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1591,2026-02-23,Google Ads,GA_Brand,Webinar: AI in delivery,Developer,11-50,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1708,2026-02-23,Google Ads,GA_Brand,Case study: SaaS migration,Head of Product,201-1000,DACH,Opportunity,73400.0,2026-02,1,1,1,0,73400.0,0.0
+L1441,2026-02-24,Google Ads,GA_Outsourcing_Generic,Case study: SaaS migration,Marketing Manager,201-1000,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1447,2026-02-24,Google Ads,GA_Ruby_Dev,Contact form only,VP Engineering,51-200,Benelux,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1754,2026-02-24,Organic Search,(none),Case study: SaaS migration,VP Engineering,11-50,DACH,Closed Lost,68600.0,2026-02,1,1,1,0,68600.0,0.0
+L1927,2026-02-24,Organic Search,(none),Ebook: Scaling IT teams,CEO,201-1000,Unknown,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1995,2026-02-24,Partner Referral,(none),Blog: Outsourcing checklist,CTO,51-200,Poland,Opportunity,92600.0,2026-02,1,1,1,0,92600.0,0.0
+L1407,2026-02-25,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,Developer,51-200,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1426,2026-02-25,Google Ads,GA_Ruby_Dev,Case study: SaaS migration,VP Engineering,51-200,US,Opportunity,27000.0,2026-02,1,1,1,0,27000.0,0.0
+L1809,2026-02-25,Organic Search,(none),Case study: SaaS migration,CTO,51-200,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1879,2026-02-25,Organic Search,(none),Case study: SaaS migration,Developer,51-200,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1005,2026-02-26,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,Engineering Manager,201-1000,US,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1116,2026-02-26,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,Engineering Manager,201-1000,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1318,2026-02-26,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,VP Engineering,11-50,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1396,2026-02-26,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Head of Product,11-50,Benelux,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1651,2026-02-26,Google Ads,GA_Ruby_Dev,Pricing page,Procurement,1000+,Benelux,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2119,2026-02-26,Outbound Email,(none),Case study: SaaS migration,Head of Product,11-50,UK,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1702,2026-02-27,Google Ads,GA_Ruby_Dev,Ebook: Scaling IT teams,Engineering Manager,1000+,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1975,2026-02-27,Organic Search,(none),Blog: Outsourcing checklist,VP Engineering,201-1000,UK,MQL,,2026-02,1,0,0,0,0.0,0.0
+L2165,2026-02-27,Outbound Email,(none),Ebook: Scaling IT teams,Marketing Manager,201-1000,Benelux,MQL,,2026-02,1,0,0,0,0.0,0.0
+L1182,2026-02-28,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,Marketing Manager,11-50,DACH,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1759,2026-02-28,Organic Search,(none),Blog: Outsourcing checklist,VP Engineering,11-50,Poland,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1921,2026-02-28,Organic Search,(none),Webinar: AI in delivery,Engineering Manager,201-1000,UK,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2070,2026-02-28,Outbound Email,(none),Webinar: AI in delivery,VP Engineering,1000+,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2103,2026-02-28,Outbound Email,(none),Case study: SaaS migration,CTO,11-50,US,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2128,2026-02-28,Outbound Email,(none),Blog: Ruby vs Node,Engineering Manager,51-200,Unknown,Lead,,2026-02,0,0,0,0,0.0,0.0
+L2183,2026-02-28,Outbound Email,(none),Case study: fintech team scale-up,CTO,201-1000,Poland,Lead,,2026-02,0,0,0,0,0.0,0.0
+L1051,2026-03-01,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Developer,51-200,DACH,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1114,2026-03-01,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,CTO,51-200,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1453,2026-03-01,Google Ads,GA_Brand,Blog: Ruby vs Node,Head of Product,201-1000,Poland,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1615,2026-03-01,Google Ads,GA_Ruby_Dev,Case study: fintech team scale-up,CTO,201-1000,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1954,2026-03-01,Organic Search,(none),Webinar: AI in delivery,CTO,11-50,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2235,2026-03-01,Outbound Email,(none),Blog: Ruby vs Node,Marketing Manager,11-50,DACH,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1305,2026-03-02,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Head of Product,201-1000,Poland,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1697,2026-03-02,Google Ads,GA_Brand,Case study: fintech team scale-up,Engineering Manager,51-200,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1858,2026-03-02,Organic Search,(none),Contact form only,CEO,11-50,Nordics,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2024,2026-03-02,Partner Referral,(none),Case study: SaaS migration,Engineering Manager,51-200,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2041,2026-03-02,Partner Referral,(none),Case study: SaaS migration,CTO,201-1000,DACH,Closed Won,126400.0,2026-03,1,1,1,1,126400.0,126400.0
+L2104,2026-03-02,Outbound Email,(none),Contact form only,VP Engineering,201-1000,UK,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2261,2026-03-02,Outbound Email,(none),Pricing page,VP Engineering,51-200,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1089,2026-03-03,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,Engineering Manager,11-50,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1484,2026-03-03,Google Ads,GA_Ruby_Dev,Webinar: AI in delivery,Head of Product,201-1000,Nordics,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1530,2026-03-03,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,CTO,11-50,UK,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1549,2026-03-03,Google Ads,GA_Brand,Pricing page,VP Engineering,11-50,Nordics,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1740,2026-03-03,Organic Search,(none),Webinar: AI in delivery,Procurement,11-50,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2021,2026-03-03,Partner Referral,(none),Contact form only,CTO,51-200,US,SQL,,2026-03,1,1,0,0,0.0,0.0
+L2028,2026-03-03,Partner Referral,(none),Pricing page,CTO,51-200,US,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2188,2026-03-03,Outbound Email,(none),Case study: SaaS migration,Engineering Manager,11-50,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2369,2026-03-03,Events,(none),Blog: Ruby vs Node,CEO,51-200,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1336,2026-03-04,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,Engineering Manager,51-200,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1449,2026-03-04,Google Ads,GA_Brand,Pricing page,Developer,201-1000,Poland,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1827,2026-03-04,Organic Search,(none),Ebook: Scaling IT teams,Developer,11-50,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1894,2026-03-04,Organic Search,(none),Case study: SaaS migration,VP Engineering,11-50,UK,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2251,2026-03-04,Outbound Email,(none),Blog: Ruby vs Node,CTO,201-1000,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2398,2026-03-04,Events,(none),Contact form only,Head of Product,201-1000,DACH,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1014,2026-03-05,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Engineering Manager,11-50,Poland,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1070,2026-03-05,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,Engineering Manager,1000+,US,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1111,2026-03-05,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: fintech team scale-up,CEO,201-1000,Unknown,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1166,2026-03-05,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: fintech team scale-up,CEO,11-50,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1168,2026-03-05,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,CEO,51-200,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1553,2026-03-05,Google Ads,GA_Outsourcing_Generic,Contact form only,CEO,11-50,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1906,2026-03-05,Organic Search,(none),Webinar: AI in delivery,Developer,201-1000,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1952,2026-03-05,Organic Search,(none),Contact form only,CEO,201-1000,Nordics,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2087,2026-03-05,Outbound Email,(none),Contact form only,Developer,201-1000,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2121,2026-03-05,Outbound Email,(none),Case study: fintech team scale-up,CEO,11-50,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2136,2026-03-05,Outbound Email,(none),Case study: fintech team scale-up,Head of Product,1000+,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2352,2026-03-05,Events,(none),Case study: SaaS migration,CTO,51-200,US,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1362,2026-03-06,LinkedIn Ads,LI_Retarget,Contact form only,CTO,11-50,Poland,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1816,2026-03-06,Organic Search,(none),Case study: fintech team scale-up,Developer,51-200,Unknown,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1873,2026-03-06,Organic Search,(none),Blog: Outsourcing checklist,CTO,1000+,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1982,2026-03-06,Partner Referral,(none),Pricing page,Developer,51-200,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2029,2026-03-06,Partner Referral,(none),Case study: SaaS migration,VP Engineering,1000+,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1239,2026-03-07,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,VP Engineering,11-50,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1316,2026-03-07,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,CTO,201-1000,Nordics,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1334,2026-03-07,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,VP Engineering,51-200,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1390,2026-03-07,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Procurement,51-200,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1402,2026-03-07,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,CTO,1000+,Nordics,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2011,2026-03-07,Partner Referral,(none),Webinar: AI in delivery,CTO,11-50,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2116,2026-03-07,Outbound Email,(none),Contact form only,Developer,51-200,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2199,2026-03-07,Outbound Email,(none),Ebook: Scaling IT teams,Developer,51-200,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2388,2026-03-07,Events,(none),Case study: SaaS migration,VP Engineering,51-200,DACH,Closed Won,87400.0,2026-03,1,1,1,1,87400.0,87400.0
+L1291,2026-03-08,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,Marketing Manager,51-200,Poland,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1344,2026-03-08,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,Marketing Manager,51-200,Nordics,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1831,2026-03-08,Organic Search,(none),Case study: SaaS migration,CEO,201-1000,Poland,SQL,,2026-03,1,1,0,0,0.0,0.0
+L1888,2026-03-08,Organic Search,(none),Ebook: Scaling IT teams,CEO,11-50,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2330,2026-03-08,Events,(none),Contact form only,Developer,51-200,Nordics,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2339,2026-03-08,Events,(none),Ebook: Scaling IT teams,Developer,201-1000,Poland,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2396,2026-03-08,Events,(none),Blog: Outsourcing checklist,Engineering Manager,1000+,Poland,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1006,2026-03-09,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,VP Engineering,201-1000,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1236,2026-03-09,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,Engineering Manager,11-50,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1304,2026-03-09,LinkedIn Ads,LI_Retarget,Blog: Ruby vs Node,CEO,51-200,US,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1699,2026-03-09,Google Ads,GA_Outsourcing_Generic,Pricing page,Engineering Manager,1000+,Poland,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1049,2026-03-10,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Outsourcing checklist,Marketing Manager,11-50,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1062,2026-03-10,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Outsourcing checklist,VP Engineering,1000+,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1371,2026-03-10,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,CTO,51-200,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1456,2026-03-10,Google Ads,GA_Outsourcing_Generic,Pricing page,CTO,51-200,Poland,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1658,2026-03-10,Google Ads,GA_Brand,Ebook: Scaling IT teams,VP Engineering,1000+,Nordics,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1753,2026-03-10,Organic Search,(none),Case study: fintech team scale-up,Developer,201-1000,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1912,2026-03-10,Organic Search,(none),Webinar: AI in delivery,VP Engineering,1000+,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1918,2026-03-10,Organic Search,(none),Blog: Outsourcing checklist,Engineering Manager,1000+,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2207,2026-03-10,Outbound Email,(none),Contact form only,Procurement,201-1000,DACH,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2393,2026-03-10,Events,(none),Ebook: Scaling IT teams,VP Engineering,1000+,US,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1307,2026-03-11,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,Engineering Manager,201-1000,US,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2184,2026-03-11,Outbound Email,(none),Case study: fintech team scale-up,Marketing Manager,201-1000,DACH,Closed Lost,66900.0,2026-03,1,1,1,0,66900.0,0.0
+L1024,2026-03-12,LinkedIn Ads,LI_Retarget,Contact form only,Procurement,201-1000,DACH,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1170,2026-03-12,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,VP Engineering,1000+,Poland,Closed Lost,31100.0,2026-03,1,1,1,0,31100.0,0.0
+L1250,2026-03-12,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,CEO,1000+,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1522,2026-03-12,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,Procurement,201-1000,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1761,2026-03-12,Organic Search,(none),Blog: Outsourcing checklist,CTO,51-200,Poland,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1054,2026-03-13,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,Procurement,1000+,Nordics,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1411,2026-03-13,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,VP Engineering,51-200,UK,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1572,2026-03-13,Google Ads,GA_Outsourcing_Generic,Ebook: Scaling IT teams,CTO,11-50,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1633,2026-03-13,Google Ads,GA_Ruby_Dev,Case study: SaaS migration,Marketing Manager,201-1000,UK,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1744,2026-03-13,Organic Search,(none),Ebook: Scaling IT teams,CTO,51-200,Nordics,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2133,2026-03-13,Outbound Email,(none),Case study: fintech team scale-up,Developer,11-50,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2211,2026-03-13,Outbound Email,(none),Webinar: AI in delivery,CTO,201-1000,US,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2263,2026-03-13,Outbound Email,(none),Webinar: AI in delivery,Developer,201-1000,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2365,2026-03-13,Events,(none),Pricing page,Head of Product,51-200,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1686,2026-03-14,Google Ads,GA_Brand,Pricing page,VP Engineering,201-1000,Poland,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2093,2026-03-14,Outbound Email,(none),Blog: Ruby vs Node,CTO,51-200,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2137,2026-03-14,Outbound Email,(none),Case study: SaaS migration,Procurement,201-1000,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2353,2026-03-14,Events,(none),Blog: Outsourcing checklist,Engineering Manager,11-50,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1352,2026-03-15,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Engineering Manager,51-200,US,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1481,2026-03-15,Google Ads,GA_Brand,Case study: SaaS migration,VP Engineering,11-50,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1703,2026-03-15,Google Ads,GA_Ruby_Dev,Case study: fintech team scale-up,Head of Product,11-50,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1705,2026-03-15,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,CTO,11-50,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1887,2026-03-15,Organic Search,(none),Blog: Outsourcing checklist,CTO,11-50,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1416,2026-03-16,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,VP Engineering,201-1000,DACH,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1483,2026-03-16,Google Ads,GA_Brand,Case study: fintech team scale-up,Engineering Manager,11-50,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1781,2026-03-16,Organic Search,(none),Pricing page,Developer,1000+,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1856,2026-03-16,Organic Search,(none),Webinar: AI in delivery,Developer,11-50,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1956,2026-03-16,Organic Search,(none),Ebook: Scaling IT teams,Engineering Manager,11-50,Unknown,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2019,2026-03-16,Partner Referral,(none),Contact form only,CEO,51-200,Benelux,Closed Won,76500.0,2026-03,1,1,1,1,76500.0,76500.0
+L2079,2026-03-16,Outbound Email,(none),Blog: Ruby vs Node,Engineering Manager,51-200,Poland,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2094,2026-03-16,Outbound Email,(none),Ebook: Scaling IT teams,Developer,11-50,DACH,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2095,2026-03-16,Outbound Email,(none),Blog: Ruby vs Node,VP Engineering,201-1000,UK,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1013,2026-03-17,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Head of Product,51-200,Poland,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1074,2026-03-17,LinkedIn Ads,LI_Retarget,Blog: Ruby vs Node,CEO,11-50,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1109,2026-03-17,LinkedIn Ads,LI_AI_Delivery_Q2,Ebook: Scaling IT teams,VP Engineering,51-200,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1739,2026-03-17,Organic Search,(none),Blog: Outsourcing checklist,Developer,201-1000,Nordics,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1892,2026-03-17,Organic Search,(none),Webinar: AI in delivery,CTO,11-50,Nordics,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2009,2026-03-17,Partner Referral,(none),Pricing page,Engineering Manager,51-200,DACH,Closed Lost,143700.0,2026-03,1,1,1,0,143700.0,0.0
+L1302,2026-03-18,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Developer,51-200,Nordics,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1388,2026-03-18,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,Head of Product,51-200,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1485,2026-03-18,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,CTO,51-200,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1944,2026-03-18,Organic Search,(none),Case study: SaaS migration,VP Engineering,1000+,Benelux,Opportunity,29900.0,2026-03,1,1,1,0,29900.0,0.0
+L2295,2026-03-18,Events,(none),Case study: SaaS migration,Marketing Manager,51-200,UK,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2350,2026-03-18,Events,(none),Blog: Outsourcing checklist,Engineering Manager,51-200,Poland,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1007,2026-03-19,LinkedIn Ads,LI_ScaleUp_CTO,Pricing page,CTO,1000+,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1272,2026-03-19,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Head of Product,51-200,Poland,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1904,2026-03-19,Organic Search,(none),Blog: Outsourcing checklist,Developer,201-1000,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2032,2026-03-19,Partner Referral,(none),Case study: SaaS migration,Procurement,1000+,UK,SQL,,2026-03,1,1,0,0,0.0,0.0
+L2180,2026-03-19,Outbound Email,(none),Blog: Ruby vs Node,VP Engineering,1000+,Unknown,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1213,2026-03-20,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,Procurement,11-50,Nordics,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2312,2026-03-20,Events,(none),Ebook: Scaling IT teams,Procurement,51-200,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2375,2026-03-20,Events,(none),Contact form only,Marketing Manager,1000+,UK,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2378,2026-03-20,Events,(none),Ebook: Scaling IT teams,CTO,11-50,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2384,2026-03-20,Events,(none),Case study: fintech team scale-up,Engineering Manager,201-1000,Poland,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1266,2026-03-21,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,VP Engineering,201-1000,UK,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1323,2026-03-21,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,CEO,11-50,Nordics,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1102,2026-03-22,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,CEO,201-1000,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1147,2026-03-22,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,Developer,11-50,Poland,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1297,2026-03-22,LinkedIn Ads,LI_Retarget,Contact form only,VP Engineering,51-200,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2046,2026-03-22,Partner Referral,(none),Ebook: Scaling IT teams,VP Engineering,201-1000,Nordics,Opportunity,100300.0,2026-03,1,1,1,0,100300.0,0.0
+L2057,2026-03-22,Partner Referral,(none),Pricing page,Engineering Manager,11-50,Poland,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2145,2026-03-22,Outbound Email,(none),Ebook: Scaling IT teams,Developer,201-1000,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2399,2026-03-22,Events,(none),Case study: fintech team scale-up,CTO,1000+,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1525,2026-03-23,Google Ads,GA_Outsourcing_Generic,Case study: fintech team scale-up,CTO,11-50,UK,Opportunity,20500.0,2026-03,1,1,1,0,20500.0,0.0
+L1595,2026-03-23,Google Ads,GA_Ruby_Dev,Ebook: Scaling IT teams,Head of Product,201-1000,Nordics,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1793,2026-03-23,Organic Search,(none),Case study: fintech team scale-up,Head of Product,51-200,Unknown,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1877,2026-03-23,Organic Search,(none),Case study: SaaS migration,Head of Product,51-200,Unknown,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1883,2026-03-23,Organic Search,(none),Blog: Ruby vs Node,VP Engineering,201-1000,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1932,2026-03-23,Organic Search,(none),Case study: SaaS migration,Developer,201-1000,Nordics,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2139,2026-03-23,Outbound Email,(none),Case study: fintech team scale-up,Developer,201-1000,Nordics,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2299,2026-03-23,Events,(none),Pricing page,CTO,51-200,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1413,2026-03-24,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,VP Engineering,11-50,DACH,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1492,2026-03-24,Google Ads,GA_Brand,Webinar: AI in delivery,VP Engineering,11-50,UK,Closed Lost,55400.0,2026-03,1,1,1,0,55400.0,0.0
+L1737,2026-03-24,Organic Search,(none),Contact form only,CEO,1000+,UK,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1846,2026-03-24,Organic Search,(none),Pricing page,Marketing Manager,11-50,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2097,2026-03-24,Outbound Email,(none),Blog: Ruby vs Node,VP Engineering,201-1000,DACH,Closed Lost,71800.0,2026-03,1,1,1,0,71800.0,0.0
+L2320,2026-03-24,Events,(none),Contact form only,Engineering Manager,51-200,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1067,2026-03-25,LinkedIn Ads,LI_ScaleUp_CTO,Contact form only,CTO,1000+,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1466,2026-03-25,Google Ads,GA_Brand,Webinar: AI in delivery,Procurement,201-1000,UK,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1467,2026-03-25,Google Ads,GA_Outsourcing_Generic,Contact form only,Head of Product,11-50,US,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1579,2026-03-25,Google Ads,GA_Ruby_Dev,Case study: fintech team scale-up,CTO,1000+,Poland,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1583,2026-03-25,Google Ads,GA_Outsourcing_Generic,Pricing page,CTO,11-50,UK,Opportunity,42400.0,2026-03,1,1,1,0,42400.0,0.0
+L1676,2026-03-25,Google Ads,GA_Brand,Contact form only,CTO,51-200,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2061,2026-03-25,Partner Referral,(none),Contact form only,Engineering Manager,1000+,Nordics,Closed Won,84300.0,2026-03,1,1,1,1,84300.0,84300.0
+L2091,2026-03-25,Outbound Email,(none),Case study: fintech team scale-up,Procurement,1000+,Nordics,Opportunity,77700.0,2026-03,1,1,1,0,77700.0,0.0
+L2262,2026-03-25,Outbound Email,(none),Blog: Outsourcing checklist,Developer,11-50,Poland,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2287,2026-03-25,Outbound Email,(none),Case study: SaaS migration,CTO,51-200,DACH,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1290,2026-03-26,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,Developer,1000+,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1546,2026-03-26,Google Ads,GA_Brand,Case study: fintech team scale-up,CTO,11-50,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1566,2026-03-26,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,Marketing Manager,201-1000,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1745,2026-03-26,Organic Search,(none),Ebook: Scaling IT teams,Developer,201-1000,US,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1811,2026-03-26,Organic Search,(none),Pricing page,CEO,1000+,UK,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2268,2026-03-26,Outbound Email,(none),Contact form only,CEO,51-200,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2306,2026-03-26,Events,(none),Ebook: Scaling IT teams,Engineering Manager,51-200,US,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2397,2026-03-26,Events,(none),Case study: SaaS migration,Engineering Manager,1000+,DACH,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1237,2026-03-27,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,CTO,1000+,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1468,2026-03-27,Google Ads,GA_Outsourcing_Generic,Case study: SaaS migration,Engineering Manager,201-1000,US,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1571,2026-03-27,Google Ads,GA_Outsourcing_Generic,Ebook: Scaling IT teams,Engineering Manager,51-200,Nordics,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1974,2026-03-27,Organic Search,(none),Blog: Outsourcing checklist,VP Engineering,11-50,UK,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2073,2026-03-27,Outbound Email,(none),Blog: Ruby vs Node,Engineering Manager,51-200,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2098,2026-03-27,Outbound Email,(none),Case study: fintech team scale-up,CTO,201-1000,Unknown,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2249,2026-03-27,Outbound Email,(none),Case study: SaaS migration,VP Engineering,11-50,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2260,2026-03-27,Outbound Email,(none),Ebook: Scaling IT teams,CTO,51-200,Unknown,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2354,2026-03-27,Events,(none),Webinar: AI in delivery,CTO,51-200,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1001,2026-03-28,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: SaaS migration,CTO,51-200,DACH,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1133,2026-03-28,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,Developer,51-200,Unknown,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1220,2026-03-28,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,VP Engineering,51-200,US,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1274,2026-03-28,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,Procurement,1000+,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1410,2026-03-28,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,Procurement,11-50,Nordics,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2035,2026-03-28,Partner Referral,(none),Webinar: AI in delivery,Marketing Manager,201-1000,UK,MQL,,2026-03,1,0,0,0,0.0,0.0
+L2314,2026-03-28,Events,(none),Pricing page,CTO,51-200,Benelux,SQL,,2026-03,1,1,0,0,0.0,0.0
+L1035,2026-03-29,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: SaaS migration,Engineering Manager,51-200,Poland,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1377,2026-03-29,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,VP Engineering,201-1000,US,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1862,2026-03-29,Organic Search,(none),Ebook: Scaling IT teams,Marketing Manager,201-1000,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1976,2026-03-29,Organic Search,(none),Blog: Ruby vs Node,Engineering Manager,51-200,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2175,2026-03-29,Outbound Email,(none),Ebook: Scaling IT teams,Developer,11-50,Nordics,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1369,2026-03-30,LinkedIn Ads,LI_Retarget,Contact form only,VP Engineering,201-1000,DACH,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1900,2026-03-30,Organic Search,(none),Blog: Outsourcing checklist,CTO,201-1000,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1961,2026-03-30,Organic Search,(none),Blog: Ruby vs Node,VP Engineering,51-200,Poland,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2045,2026-03-30,Partner Referral,(none),Webinar: AI in delivery,VP Engineering,11-50,Nordics,Closed Won,62200.0,2026-03,1,1,1,1,62200.0,62200.0
+L2253,2026-03-30,Outbound Email,(none),Ebook: Scaling IT teams,Head of Product,51-200,UK,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1149,2026-03-31,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,Developer,1000+,Poland,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1366,2026-03-31,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,Head of Product,1000+,US,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1451,2026-03-31,Google Ads,GA_Outsourcing_Generic,Contact form only,Head of Product,11-50,Benelux,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1528,2026-03-31,Google Ads,GA_Brand,Case study: SaaS migration,Developer,201-1000,Nordics,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1714,2026-03-31,Google Ads,GA_Outsourcing_Generic,Ebook: Scaling IT teams,CEO,11-50,Benelux,MQL,,2026-03,1,0,0,0,0.0,0.0
+L1804,2026-03-31,Organic Search,(none),Contact form only,Procurement,1000+,DACH,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2022,2026-03-31,Partner Referral,(none),Case study: SaaS migration,Procurement,11-50,Poland,Lead,,2026-03,0,0,0,0,0.0,0.0
+L2387,2026-03-31,Events,(none),Case study: SaaS migration,CTO,1000+,Unknown,Lead,,2026-03,0,0,0,0,0.0,0.0
+L1041,2026-04-01,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,Head of Product,11-50,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1438,2026-04-01,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,CEO,11-50,UK,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1646,2026-04-01,Google Ads,GA_Brand,Ebook: Scaling IT teams,Engineering Manager,51-200,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1940,2026-04-01,Organic Search,(none),Webinar: AI in delivery,Engineering Manager,51-200,Nordics,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2223,2026-04-01,Outbound Email,(none),Blog: Outsourcing checklist,CTO,1000+,Benelux,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2248,2026-04-01,Outbound Email,(none),Blog: Ruby vs Node,VP Engineering,11-50,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1179,2026-04-02,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Engineering Manager,201-1000,US,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1279,2026-04-02,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Developer,51-200,Poland,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1364,2026-04-02,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: fintech team scale-up,VP Engineering,11-50,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1393,2026-04-02,LinkedIn Ads,LI_ScaleUp_CTO,Pricing page,Head of Product,51-200,Benelux,Opportunity,40500.0,2026-04,1,1,1,0,40500.0,0.0
+L1527,2026-04-02,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,CTO,201-1000,Nordics,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1910,2026-04-02,Organic Search,(none),Contact form only,Head of Product,51-200,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1971,2026-04-02,Organic Search,(none),Ebook: Scaling IT teams,Developer,51-200,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2052,2026-04-02,Partner Referral,(none),Webinar: AI in delivery,Developer,11-50,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2067,2026-04-02,Outbound Email,(none),Webinar: AI in delivery,Developer,1000+,UK,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1160,2026-04-03,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,Engineering Manager,201-1000,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1939,2026-04-03,Organic Search,(none),Contact form only,Developer,201-1000,Nordics,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1874,2026-04-04,Organic Search,(none),Blog: Outsourcing checklist,CTO,51-200,US,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2144,2026-04-04,Outbound Email,(none),Contact form only,VP Engineering,11-50,US,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1183,2026-04-05,LinkedIn Ads,LI_Retarget,Pricing page,Developer,201-1000,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1360,2026-04-05,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Marketing Manager,51-200,US,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2049,2026-04-05,Partner Referral,(none),Contact form only,CTO,11-50,DACH,Closed Won,116900.0,2026-04,1,1,1,1,116900.0,116900.0
+L2132,2026-04-05,Outbound Email,(none),Pricing page,Developer,1000+,Poland,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2169,2026-04-05,Outbound Email,(none),Blog: Outsourcing checklist,VP Engineering,51-200,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2217,2026-04-05,Outbound Email,(none),Webinar: AI in delivery,Head of Product,51-200,US,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2265,2026-04-05,Outbound Email,(none),Contact form only,CTO,11-50,UK,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1055,2026-04-06,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,Head of Product,11-50,DACH,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1180,2026-04-06,LinkedIn Ads,LI_Retarget,Pricing page,VP Engineering,11-50,Poland,Opportunity,37000.0,2026-04,1,1,1,0,37000.0,0.0
+L2234,2026-04-06,Outbound Email,(none),Ebook: Scaling IT teams,Developer,201-1000,Nordics,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1101,2026-04-07,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,Procurement,51-200,Nordics,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1221,2026-04-07,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,Head of Product,51-200,Benelux,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1380,2026-04-07,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,Developer,201-1000,UK,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2185,2026-04-07,Outbound Email,(none),Contact form only,Head of Product,11-50,Benelux,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2209,2026-04-07,Outbound Email,(none),Contact form only,Engineering Manager,1000+,Benelux,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2215,2026-04-07,Outbound Email,(none),Blog: Outsourcing checklist,VP Engineering,201-1000,UK,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1373,2026-04-08,LinkedIn Ads,LI_Retarget,Blog: Ruby vs Node,VP Engineering,11-50,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1400,2026-04-08,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,VP Engineering,51-200,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1459,2026-04-08,Google Ads,GA_Outsourcing_Generic,Case study: SaaS migration,CTO,1000+,Poland,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1627,2026-04-08,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,Developer,1000+,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1948,2026-04-08,Organic Search,(none),Contact form only,Marketing Manager,1000+,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2069,2026-04-08,Outbound Email,(none),Blog: Outsourcing checklist,Developer,1000+,Nordics,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2279,2026-04-08,Outbound Email,(none),Case study: fintech team scale-up,VP Engineering,11-50,Nordics,Opportunity,27900.0,2026-04,1,1,1,0,27900.0,0.0
+L1203,2026-04-09,LinkedIn Ads,LI_AI_Delivery_Q2,Ebook: Scaling IT teams,Engineering Manager,201-1000,Unknown,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1511,2026-04-09,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,Marketing Manager,51-200,Nordics,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1563,2026-04-09,Google Ads,GA_Brand,Contact form only,Head of Product,201-1000,Poland,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1602,2026-04-09,Google Ads,GA_Outsourcing_Generic,Case study: fintech team scale-up,Engineering Manager,201-1000,UK,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1073,2026-04-10,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,Procurement,51-200,UK,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1231,2026-04-10,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Engineering Manager,51-200,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1550,2026-04-10,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,Developer,11-50,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1853,2026-04-10,Organic Search,(none),Contact form only,VP Engineering,1000+,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2023,2026-04-10,Partner Referral,(none),Webinar: AI in delivery,VP Engineering,201-1000,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2114,2026-04-10,Outbound Email,(none),Blog: Ruby vs Node,Engineering Manager,201-1000,UK,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2146,2026-04-10,Outbound Email,(none),Webinar: AI in delivery,Procurement,51-200,Benelux,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1215,2026-04-11,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,VP Engineering,201-1000,Benelux,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1839,2026-04-11,Organic Search,(none),Case study: SaaS migration,CEO,11-50,Poland,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1946,2026-04-11,Organic Search,(none),Pricing page,CTO,1000+,Benelux,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1980,2026-04-11,Organic Search,(none),Contact form only,Developer,11-50,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2269,2026-04-11,Outbound Email,(none),Case study: SaaS migration,Head of Product,201-1000,Poland,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1098,2026-04-12,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,VP Engineering,201-1000,Nordics,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1273,2026-04-12,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Engineering Manager,51-200,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1559,2026-04-12,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,Procurement,1000+,DACH,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1738,2026-04-12,Organic Search,(none),Contact form only,Head of Product,51-200,Poland,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1794,2026-04-12,Organic Search,(none),Pricing page,Developer,11-50,US,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1082,2026-04-13,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,VP Engineering,201-1000,Unknown,Closed Lost,34900.0,2026-04,1,1,1,0,34900.0,0.0
+L1574,2026-04-13,Google Ads,GA_Brand,Case study: SaaS migration,VP Engineering,201-1000,Nordics,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1659,2026-04-13,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,Procurement,201-1000,Benelux,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1068,2026-04-14,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: SaaS migration,Developer,1000+,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1860,2026-04-14,Organic Search,(none),Blog: Outsourcing checklist,VP Engineering,201-1000,Poland,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1957,2026-04-14,Organic Search,(none),Blog: Ruby vs Node,Marketing Manager,201-1000,Benelux,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2278,2026-04-14,Outbound Email,(none),Webinar: AI in delivery,Developer,201-1000,US,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1012,2026-04-15,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,Engineering Manager,11-50,Unknown,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1016,2026-04-15,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,CTO,51-200,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1227,2026-04-15,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,VP Engineering,51-200,DACH,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1349,2026-04-15,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,CEO,1000+,DACH,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1430,2026-04-15,Google Ads,GA_Outsourcing_Generic,Case study: SaaS migration,CTO,11-50,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1502,2026-04-15,Google Ads,GA_Brand,Case study: fintech team scale-up,Developer,201-1000,Benelux,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1226,2026-04-16,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,CTO,201-1000,UK,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1808,2026-04-16,Organic Search,(none),Webinar: AI in delivery,Engineering Manager,201-1000,UK,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1917,2026-04-16,Organic Search,(none),Pricing page,Developer,201-1000,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1926,2026-04-16,Organic Search,(none),Ebook: Scaling IT teams,Marketing Manager,201-1000,Poland,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1124,2026-04-17,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Head of Product,11-50,Benelux,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1475,2026-04-17,Google Ads,GA_Brand,Blog: Ruby vs Node,Head of Product,51-200,US,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1784,2026-04-17,Organic Search,(none),Ebook: Scaling IT teams,CEO,11-50,US,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1787,2026-04-17,Organic Search,(none),Blog: Ruby vs Node,Head of Product,51-200,Benelux,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2117,2026-04-17,Outbound Email,(none),Contact form only,Engineering Manager,1000+,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2164,2026-04-17,Outbound Email,(none),Blog: Ruby vs Node,Head of Product,1000+,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2241,2026-04-17,Outbound Email,(none),Blog: Outsourcing checklist,Head of Product,51-200,Poland,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1071,2026-04-18,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Head of Product,201-1000,Nordics,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1079,2026-04-18,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Engineering Manager,11-50,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1119,2026-04-18,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,Engineering Manager,1000+,DACH,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1145,2026-04-18,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: SaaS migration,CTO,11-50,DACH,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1628,2026-04-18,Google Ads,GA_Outsourcing_Generic,Case study: fintech team scale-up,CTO,11-50,Poland,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1644,2026-04-19,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,Procurement,1000+,Nordics,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1909,2026-04-19,Organic Search,(none),Case study: SaaS migration,Marketing Manager,51-200,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2335,2026-04-19,Events,(none),Case study: SaaS migration,CEO,51-200,DACH,Closed Won,88200.0,2026-04,1,1,1,1,88200.0,88200.0
+L1842,2026-04-20,Organic Search,(none),Contact form only,CTO,1000+,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2020,2026-04-20,Partner Referral,(none),Blog: Ruby vs Node,Developer,201-1000,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2302,2026-04-20,Events,(none),Case study: SaaS migration,Head of Product,1000+,UK,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1271,2026-04-21,LinkedIn Ads,LI_Retarget,Pricing page,CEO,1000+,Nordics,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1457,2026-04-21,Google Ads,GA_Outsourcing_Generic,Ebook: Scaling IT teams,Head of Product,51-200,UK,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1619,2026-04-21,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,VP Engineering,51-200,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1670,2026-04-21,Google Ads,GA_Brand,Blog: Ruby vs Node,CEO,1000+,Nordics,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1993,2026-04-21,Partner Referral,(none),Blog: Ruby vs Node,Developer,201-1000,Poland,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2172,2026-04-21,Outbound Email,(none),Pricing page,Engineering Manager,51-200,US,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1091,2026-04-22,LinkedIn Ads,LI_AI_Delivery_Q2,Webinar: AI in delivery,CEO,51-200,UK,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1584,2026-04-22,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,Engineering Manager,51-200,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1706,2026-04-22,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,Procurement,51-200,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1847,2026-04-22,Organic Search,(none),Pricing page,Developer,11-50,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2082,2026-04-22,Outbound Email,(none),Ebook: Scaling IT teams,Engineering Manager,51-200,Nordics,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2219,2026-04-22,Outbound Email,(none),Case study: SaaS migration,CEO,201-1000,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2272,2026-04-22,Outbound Email,(none),Blog: Ruby vs Node,Developer,11-50,Benelux,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1158,2026-04-23,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,VP Engineering,11-50,Nordics,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1165,2026-04-23,LinkedIn Ads,LI_AI_Delivery_Q2,Ebook: Scaling IT teams,VP Engineering,11-50,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1368,2026-04-23,LinkedIn Ads,LI_Retarget,Blog: Ruby vs Node,CEO,51-200,Unknown,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1635,2026-04-23,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,Marketing Manager,201-1000,UK,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1955,2026-04-23,Organic Search,(none),Blog: Outsourcing checklist,Procurement,1000+,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2014,2026-04-23,Partner Referral,(none),Blog: Ruby vs Node,Developer,51-200,Benelux,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1185,2026-04-24,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,CTO,11-50,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1224,2026-04-24,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Marketing Manager,1000+,UK,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1330,2026-04-24,LinkedIn Ads,LI_Retarget,Pricing page,Developer,1000+,Benelux,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1536,2026-04-24,Google Ads,GA_Outsourcing_Generic,Ebook: Scaling IT teams,VP Engineering,11-50,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1648,2026-04-24,Google Ads,GA_Brand,Blog: Ruby vs Node,CTO,1000+,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1843,2026-04-24,Organic Search,(none),Blog: Outsourcing checklist,Head of Product,51-200,UK,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2060,2026-04-24,Partner Referral,(none),Blog: Ruby vs Node,VP Engineering,201-1000,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2105,2026-04-24,Outbound Email,(none),Pricing page,CEO,51-200,Benelux,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2349,2026-04-24,Events,(none),Case study: fintech team scale-up,CTO,201-1000,DACH,Opportunity,101000.0,2026-04,1,1,1,0,101000.0,0.0
+L2383,2026-04-24,Events,(none),Blog: Ruby vs Node,Developer,11-50,Nordics,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1404,2026-04-25,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,VP Engineering,201-1000,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1488,2026-04-25,Google Ads,GA_Brand,Contact form only,Developer,1000+,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2229,2026-04-25,Outbound Email,(none),Blog: Outsourcing checklist,CEO,1000+,UK,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1088,2026-04-26,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,CTO,201-1000,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1255,2026-04-26,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Developer,201-1000,Benelux,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1621,2026-04-26,Google Ads,GA_Outsourcing_Generic,Contact form only,CEO,51-200,Nordics,Closed Lost,47500.0,2026-04,1,1,1,0,47500.0,0.0
+L1747,2026-04-26,Organic Search,(none),Pricing page,CEO,51-200,US,Closed Lost,44100.0,2026-04,1,1,1,0,44100.0,0.0
+L1836,2026-04-26,Organic Search,(none),Contact form only,VP Engineering,51-200,Nordics,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1889,2026-04-26,Organic Search,(none),Case study: SaaS migration,Engineering Manager,201-1000,US,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2102,2026-04-26,Outbound Email,(none),Contact form only,Head of Product,11-50,Benelux,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2237,2026-04-26,Outbound Email,(none),Blog: Ruby vs Node,CEO,201-1000,Nordics,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1127,2026-04-27,LinkedIn Ads,LI_Retarget,Contact form only,CEO,11-50,DACH,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1329,2026-04-27,LinkedIn Ads,LI_Retarget,Blog: Ruby vs Node,Developer,201-1000,UK,Opportunity,26300.0,2026-04,1,1,1,0,26300.0,0.0
+L1776,2026-04-27,Organic Search,(none),Case study: fintech team scale-up,VP Engineering,201-1000,Nordics,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1902,2026-04-27,Organic Search,(none),Contact form only,CTO,51-200,UK,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2150,2026-04-27,Outbound Email,(none),Contact form only,CTO,11-50,Unknown,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1315,2026-04-28,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Head of Product,1000+,DACH,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1374,2026-04-28,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Developer,11-50,US,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1392,2026-04-28,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,Engineering Manager,201-1000,Benelux,MQL,,2026-04,1,0,0,0,0.0,0.0
+L2347,2026-04-28,Events,(none),Case study: SaaS migration,Developer,201-1000,UK,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1333,2026-04-29,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,CEO,11-50,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1399,2026-04-29,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,CEO,11-50,Poland,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1830,2026-04-29,Organic Search,(none),Blog: Ruby vs Node,CEO,201-1000,Nordics,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1905,2026-04-29,Organic Search,(none),Contact form only,Developer,201-1000,Nordics,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2281,2026-04-29,Outbound Email,(none),Case study: fintech team scale-up,VP Engineering,201-1000,Poland,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1234,2026-04-30,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: SaaS migration,VP Engineering,51-200,Nordics,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1545,2026-04-30,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,VP Engineering,1000+,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1701,2026-04-30,Google Ads,GA_Ruby_Dev,Case study: SaaS migration,Engineering Manager,201-1000,Nordics,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1802,2026-04-30,Organic Search,(none),Case study: SaaS migration,Engineering Manager,51-200,US,Lead,,2026-04,0,0,0,0,0.0,0.0
+L1968,2026-04-30,Organic Search,(none),Ebook: Scaling IT teams,Developer,1000+,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2151,2026-04-30,Outbound Email,(none),Blog: Ruby vs Node,Developer,11-50,Poland,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2189,2026-04-30,Outbound Email,(none),Contact form only,Marketing Manager,1000+,DACH,Lead,,2026-04,0,0,0,0,0.0,0.0
+L2233,2026-04-30,Outbound Email,(none),Pricing page,Head of Product,51-200,Nordics,MQL,,2026-04,1,0,0,0,0.0,0.0
+L1174,2026-05-01,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: SaaS migration,CEO,51-200,US,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1417,2026-05-01,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,Engineering Manager,1000+,US,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1551,2026-05-01,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,Marketing Manager,51-200,US,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1733,2026-05-01,Organic Search,(none),Webinar: AI in delivery,VP Engineering,11-50,Benelux,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1577,2026-05-02,Google Ads,GA_Brand,Webinar: AI in delivery,Engineering Manager,201-1000,DACH,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2166,2026-05-02,Outbound Email,(none),Blog: Ruby vs Node,CEO,51-200,UK,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1028,2026-05-03,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,CTO,201-1000,US,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1406,2026-05-03,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,Engineering Manager,201-1000,Unknown,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2256,2026-05-03,Outbound Email,(none),Case study: SaaS migration,CEO,201-1000,Poland,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2338,2026-05-03,Events,(none),Blog: Ruby vs Node,Marketing Manager,1000+,US,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1096,2026-05-04,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,Marketing Manager,51-200,UK,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1319,2026-05-04,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,VP Engineering,51-200,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1832,2026-05-04,Organic Search,(none),Webinar: AI in delivery,CTO,11-50,Unknown,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2200,2026-05-04,Outbound Email,(none),Pricing page,VP Engineering,201-1000,Nordics,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2356,2026-05-04,Events,(none),Webinar: AI in delivery,CTO,201-1000,Benelux,SQL,,2026-05,1,1,0,0,0.0,0.0
+L1264,2026-05-05,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,Head of Product,11-50,Nordics,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1662,2026-05-05,Google Ads,GA_Ruby_Dev,Case study: SaaS migration,Engineering Manager,1000+,US,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1711,2026-05-05,Google Ads,GA_Ruby_Dev,Case study: SaaS migration,Developer,201-1000,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1743,2026-05-05,Organic Search,(none),Blog: Outsourcing checklist,Developer,11-50,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2026,2026-05-05,Partner Referral,(none),Ebook: Scaling IT teams,Engineering Manager,1000+,UK,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2138,2026-05-05,Outbound Email,(none),Contact form only,Engineering Manager,201-1000,Unknown,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1196,2026-05-06,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Developer,51-200,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1561,2026-05-06,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,Marketing Manager,201-1000,Nordics,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1841,2026-05-07,Organic Search,(none),Ebook: Scaling IT teams,CTO,1000+,Benelux,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2222,2026-05-07,Outbound Email,(none),Ebook: Scaling IT teams,CTO,1000+,Nordics,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1019,2026-05-08,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,CTO,11-50,Nordics,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1332,2026-05-08,LinkedIn Ads,LI_AI_Delivery_Q2,Webinar: AI in delivery,VP Engineering,201-1000,Poland,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2250,2026-05-08,Outbound Email,(none),Webinar: AI in delivery,Developer,201-1000,Benelux,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2309,2026-05-08,Events,(none),Case study: SaaS migration,Engineering Manager,201-1000,DACH,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1186,2026-05-09,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,CTO,201-1000,US,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2274,2026-05-09,Outbound Email,(none),Blog: Ruby vs Node,Marketing Manager,11-50,Poland,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1343,2026-05-10,LinkedIn Ads,LI_AI_Delivery_Q2,Webinar: AI in delivery,Head of Product,201-1000,UK,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1450,2026-05-10,Google Ads,GA_Outsourcing_Generic,Contact form only,CTO,11-50,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1618,2026-05-10,Google Ads,GA_Ruby_Dev,Case study: SaaS migration,CTO,51-200,UK,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2376,2026-05-10,Events,(none),Blog: Outsourcing checklist,CTO,201-1000,Nordics,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1629,2026-05-11,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,Developer,51-200,Nordics,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1951,2026-05-11,Organic Search,(none),Case study: SaaS migration,Engineering Manager,1000+,UK,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2230,2026-05-11,Outbound Email,(none),Webinar: AI in delivery,VP Engineering,51-200,Nordics,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1192,2026-05-12,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,Developer,51-200,DACH,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1193,2026-05-12,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Engineering Manager,51-200,Poland,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1442,2026-05-12,Google Ads,GA_Outsourcing_Generic,Case study: SaaS migration,Developer,201-1000,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1725,2026-05-12,Google Ads,GA_Brand,Blog: Ruby vs Node,VP Engineering,51-200,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1812,2026-05-12,Organic Search,(none),Case study: SaaS migration,CTO,51-200,Benelux,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1813,2026-05-12,Organic Search,(none),Case study: fintech team scale-up,Engineering Manager,51-200,Unknown,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1872,2026-05-12,Organic Search,(none),Ebook: Scaling IT teams,VP Engineering,1000+,Nordics,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2159,2026-05-12,Outbound Email,(none),Case study: fintech team scale-up,VP Engineering,1000+,UK,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2300,2026-05-12,Events,(none),Ebook: Scaling IT teams,Engineering Manager,1000+,Poland,Opportunity,57100.0,2026-05,1,1,1,0,57100.0,0.0
+L1159,2026-05-13,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: fintech team scale-up,CEO,1000+,US,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1386,2026-05-13,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: SaaS migration,Developer,51-200,UK,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1573,2026-05-13,Google Ads,GA_Ruby_Dev,Case study: fintech team scale-up,CEO,11-50,US,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1688,2026-05-13,Google Ads,GA_Outsourcing_Generic,Contact form only,VP Engineering,51-200,Unknown,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1434,2026-05-14,Google Ads,GA_Brand,Pricing page,VP Engineering,51-200,Nordics,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1683,2026-05-14,Google Ads,GA_Brand,Blog: Outsourcing checklist,CTO,51-200,UK,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1826,2026-05-14,Organic Search,(none),Case study: SaaS migration,Developer,51-200,DACH,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2359,2026-05-14,Events,(none),Contact form only,Head of Product,11-50,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1129,2026-05-15,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,CEO,11-50,Poland,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1130,2026-05-15,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Engineering Manager,11-50,UK,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1506,2026-05-15,Google Ads,GA_Brand,Case study: fintech team scale-up,CTO,1000+,US,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1623,2026-05-15,Google Ads,GA_Brand,Webinar: AI in delivery,VP Engineering,51-200,DACH,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1719,2026-05-15,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,Head of Product,51-200,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1779,2026-05-15,Organic Search,(none),Webinar: AI in delivery,Engineering Manager,11-50,UK,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1838,2026-05-15,Organic Search,(none),Pricing page,CTO,11-50,US,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2135,2026-05-15,Outbound Email,(none),Ebook: Scaling IT teams,CEO,51-200,DACH,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2153,2026-05-15,Outbound Email,(none),Ebook: Scaling IT teams,Procurement,51-200,Benelux,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2368,2026-05-15,Events,(none),Case study: SaaS migration,Head of Product,51-200,DACH,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1037,2026-05-16,LinkedIn Ads,LI_Retarget,Contact form only,Engineering Manager,201-1000,DACH,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1140,2026-05-16,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,CTO,1000+,Nordics,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1592,2026-05-16,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,Marketing Manager,201-1000,US,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1020,2026-05-17,LinkedIn Ads,LI_AI_Delivery_Q2,Webinar: AI in delivery,Procurement,11-50,UK,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1146,2026-05-17,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,CEO,201-1000,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1223,2026-05-17,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,CTO,11-50,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1901,2026-05-17,Organic Search,(none),Ebook: Scaling IT teams,VP Engineering,11-50,US,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2221,2026-05-17,Outbound Email,(none),Case study: fintech team scale-up,Developer,11-50,Benelux,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2380,2026-05-17,Events,(none),Case study: SaaS migration,CTO,11-50,US,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2392,2026-05-17,Events,(none),Pricing page,VP Engineering,201-1000,DACH,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1260,2026-05-18,LinkedIn Ads,LI_AI_Delivery_Q2,Ebook: Scaling IT teams,Procurement,51-200,UK,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1395,2026-05-18,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,VP Engineering,51-200,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1513,2026-05-18,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,Head of Product,51-200,US,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1767,2026-05-18,Organic Search,(none),Pricing page,Procurement,51-200,US,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2171,2026-05-18,Outbound Email,(none),Blog: Ruby vs Node,Head of Product,201-1000,UK,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2333,2026-05-18,Events,(none),Case study: fintech team scale-up,Developer,51-200,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1254,2026-05-19,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,Developer,51-200,UK,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1792,2026-05-19,Organic Search,(none),Webinar: AI in delivery,Engineering Manager,11-50,DACH,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1991,2026-05-19,Partner Referral,(none),Contact form only,Marketing Manager,1000+,US,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2141,2026-05-19,Outbound Email,(none),Blog: Outsourcing checklist,CEO,1000+,Poland,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2212,2026-05-19,Outbound Email,(none),Contact form only,Procurement,51-200,Benelux,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1588,2026-05-20,Google Ads,GA_Ruby_Dev,Pricing page,Head of Product,201-1000,UK,Closed Lost,47600.0,2026-05,1,1,1,0,47600.0,0.0
+L1823,2026-05-20,Organic Search,(none),Case study: SaaS migration,CTO,201-1000,Nordics,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1876,2026-05-20,Organic Search,(none),Blog: Ruby vs Node,CEO,1000+,Unknown,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1885,2026-05-20,Organic Search,(none),Blog: Ruby vs Node,CTO,1000+,Poland,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1935,2026-05-20,Organic Search,(none),Case study: SaaS migration,Engineering Manager,201-1000,Nordics,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1949,2026-05-20,Organic Search,(none),Contact form only,CTO,1000+,Unknown,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1999,2026-05-20,Partner Referral,(none),Blog: Outsourcing checklist,Head of Product,201-1000,DACH,Closed Won,144300.0,2026-05,1,1,1,1,144300.0,144300.0
+L2123,2026-05-20,Outbound Email,(none),Blog: Ruby vs Node,CTO,51-200,DACH,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2288,2026-05-20,Outbound Email,(none),Webinar: AI in delivery,VP Engineering,11-50,Poland,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2337,2026-05-20,Events,(none),Pricing page,Engineering Manager,1000+,UK,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1022,2026-05-21,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,Head of Product,201-1000,Benelux,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1674,2026-05-21,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,Head of Product,51-200,Poland,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1696,2026-05-21,Google Ads,GA_Ruby_Dev,Webinar: AI in delivery,VP Engineering,51-200,DACH,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1698,2026-05-21,Google Ads,GA_Ruby_Dev,Contact form only,Marketing Manager,51-200,Nordics,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1893,2026-05-21,Organic Search,(none),Blog: Ruby vs Node,Engineering Manager,11-50,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1964,2026-05-21,Organic Search,(none),Webinar: AI in delivery,Engineering Manager,11-50,UK,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1967,2026-05-21,Organic Search,(none),Case study: SaaS migration,CTO,51-200,Poland,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2018,2026-05-21,Partner Referral,(none),Case study: SaaS migration,Engineering Manager,51-200,Nordics,Closed Won,126100.0,2026-05,1,1,1,1,126100.0,126100.0
+L2044,2026-05-21,Partner Referral,(none),Case study: SaaS migration,Developer,51-200,Benelux,Closed Lost,90400.0,2026-05,1,1,1,0,90400.0,0.0
+L2078,2026-05-21,Outbound Email,(none),Contact form only,Engineering Manager,201-1000,DACH,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2289,2026-05-21,Events,(none),Contact form only,Engineering Manager,51-200,DACH,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2170,2026-05-22,Outbound Email,(none),Ebook: Scaling IT teams,Head of Product,51-200,Poland,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1531,2026-05-23,Google Ads,GA_Ruby_Dev,Ebook: Scaling IT teams,Head of Product,11-50,Poland,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1600,2026-05-23,Google Ads,GA_Outsourcing_Generic,Contact form only,Developer,1000+,Poland,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1032,2026-05-24,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,CTO,1000+,US,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1313,2026-05-24,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,CTO,11-50,Nordics,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1510,2026-05-24,Google Ads,GA_Brand,Blog: Outsourcing checklist,CTO,51-200,Benelux,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1675,2026-05-24,Google Ads,GA_Brand,Case study: SaaS migration,CTO,11-50,DACH,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1728,2026-05-24,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,Developer,201-1000,Benelux,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1777,2026-05-24,Organic Search,(none),Case study: SaaS migration,CEO,51-200,Poland,Opportunity,42700.0,2026-05,1,1,1,0,42700.0,0.0
+L2216,2026-05-24,Outbound Email,(none),Pricing page,CTO,201-1000,Poland,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2322,2026-05-24,Events,(none),Case study: fintech team scale-up,Developer,1000+,Benelux,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1030,2026-05-25,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,CTO,11-50,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1080,2026-05-25,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,Head of Product,51-200,DACH,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1090,2026-05-25,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Head of Product,11-50,DACH,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1409,2026-05-25,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Developer,201-1000,Poland,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1625,2026-05-25,Google Ads,GA_Ruby_Dev,Contact form only,Marketing Manager,11-50,UK,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1727,2026-05-25,Google Ads,GA_Ruby_Dev,Case study: SaaS migration,Engineering Manager,11-50,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1861,2026-05-25,Organic Search,(none),Case study: fintech team scale-up,Engineering Manager,201-1000,Benelux,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2329,2026-05-25,Events,(none),Contact form only,VP Engineering,201-1000,US,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1150,2026-05-26,LinkedIn Ads,LI_AI_Delivery_Q2,Ebook: Scaling IT teams,Marketing Manager,51-200,Poland,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1294,2026-05-26,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,Engineering Manager,51-200,DACH,Closed Lost,61100.0,2026-05,1,1,1,0,61100.0,0.0
+L1306,2026-05-26,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,Developer,201-1000,Nordics,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1746,2026-05-26,Organic Search,(none),Blog: Ruby vs Node,Developer,51-200,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1775,2026-05-26,Organic Search,(none),Ebook: Scaling IT teams,CTO,201-1000,DACH,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1930,2026-05-26,Organic Search,(none),Contact form only,Head of Product,11-50,DACH,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1936,2026-05-26,Organic Search,(none),Ebook: Scaling IT teams,CTO,51-200,Poland,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2100,2026-05-26,Outbound Email,(none),Blog: Ruby vs Node,CTO,11-50,Poland,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2284,2026-05-26,Outbound Email,(none),Pricing page,Marketing Manager,51-200,Poland,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2343,2026-05-26,Events,(none),Pricing page,CEO,11-50,Nordics,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1061,2026-05-27,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,CEO,201-1000,UK,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1081,2026-05-27,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,Head of Product,51-200,UK,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1401,2026-05-27,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,VP Engineering,11-50,DACH,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1788,2026-05-27,Organic Search,(none),Case study: SaaS migration,CTO,11-50,US,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2304,2026-05-27,Events,(none),Case study: fintech team scale-up,Marketing Manager,201-1000,Benelux,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2317,2026-05-27,Events,(none),Case study: fintech team scale-up,Head of Product,1000+,Nordics,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1004,2026-05-28,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,CEO,11-50,Poland,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1238,2026-05-28,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Outsourcing checklist,CTO,1000+,US,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1293,2026-05-28,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Engineering Manager,11-50,Nordics,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1497,2026-05-28,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,CEO,51-200,Unknown,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1507,2026-05-28,Google Ads,GA_Ruby_Dev,Case study: SaaS migration,Developer,201-1000,Benelux,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2148,2026-05-28,Outbound Email,(none),Webinar: AI in delivery,VP Engineering,201-1000,Poland,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1275,2026-05-29,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Engineering Manager,51-200,US,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2130,2026-05-29,Outbound Email,(none),Webinar: AI in delivery,VP Engineering,51-200,Poland,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2160,2026-05-29,Outbound Email,(none),Webinar: AI in delivery,Developer,201-1000,Poland,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2210,2026-05-29,Outbound Email,(none),Pricing page,Developer,11-50,Nordics,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1087,2026-05-30,LinkedIn Ads,LI_Retarget,Blog: Ruby vs Node,VP Engineering,201-1000,UK,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1141,2026-05-30,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,Engineering Manager,51-200,Nordics,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1263,2026-05-30,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,VP Engineering,201-1000,DACH,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1729,2026-05-30,Organic Search,(none),Contact form only,Head of Product,201-1000,DACH,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2191,2026-05-30,Outbound Email,(none),Blog: Ruby vs Node,CTO,201-1000,Benelux,Lead,,2026-05,0,0,0,0,0.0,0.0
+L2203,2026-05-30,Outbound Email,(none),Case study: SaaS migration,VP Engineering,1000+,DACH,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1354,2026-05-31,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,Developer,11-50,Poland,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1478,2026-05-31,Google Ads,GA_Brand,Blog: Ruby vs Node,Developer,51-200,Poland,MQL,,2026-05,1,0,0,0,0.0,0.0
+L1970,2026-05-31,Organic Search,(none),Case study: fintech team scale-up,Procurement,11-50,DACH,MQL,,2026-05,1,0,0,0,0.0,0.0
+L2285,2026-05-31,Outbound Email,(none),Pricing page,VP Engineering,51-200,US,Lead,,2026-05,0,0,0,0,0.0,0.0
+L1205,2026-06-01,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,Engineering Manager,1000+,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1262,2026-06-01,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Marketing Manager,51-200,Nordics,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1778,2026-06-01,Organic Search,(none),Webinar: AI in delivery,Engineering Manager,11-50,US,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1845,2026-06-01,Organic Search,(none),Pricing page,Developer,1000+,Poland,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2197,2026-06-01,Outbound Email,(none),Case study: SaaS migration,VP Engineering,51-200,Benelux,SQL,,2026-06,1,1,0,0,0.0,0.0
+L2254,2026-06-01,Outbound Email,(none),Pricing page,Procurement,51-200,UK,Closed Lost,39600.0,2026-06,1,1,1,0,39600.0,0.0
+L2282,2026-06-01,Outbound Email,(none),Webinar: AI in delivery,Engineering Manager,11-50,Nordics,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1437,2026-06-02,Google Ads,GA_Brand,Case study: fintech team scale-up,CEO,11-50,DACH,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1796,2026-06-02,Organic Search,(none),Ebook: Scaling IT teams,VP Engineering,51-200,Poland,Closed Won,55500.0,2026-06,1,1,1,1,55500.0,55500.0
+L1884,2026-06-02,Organic Search,(none),Case study: SaaS migration,Marketing Manager,11-50,US,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1966,2026-06-02,Organic Search,(none),Contact form only,Marketing Manager,11-50,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2099,2026-06-02,Outbound Email,(none),Pricing page,Developer,11-50,Nordics,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1664,2026-06-03,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,Head of Product,1000+,Nordics,Closed Won,38800.0,2026-06,1,1,1,1,38800.0,38800.0
+L2043,2026-06-03,Partner Referral,(none),Blog: Ruby vs Node,CTO,51-200,Nordics,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2085,2026-06-03,Outbound Email,(none),Pricing page,CEO,51-200,Benelux,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2163,2026-06-03,Outbound Email,(none),Ebook: Scaling IT teams,Developer,51-200,UK,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2226,2026-06-03,Outbound Email,(none),Contact form only,CTO,11-50,DACH,SQL,,2026-06,1,1,0,0,0.0,0.0
+L2276,2026-06-03,Outbound Email,(none),Blog: Outsourcing checklist,CTO,201-1000,Poland,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1350,2026-06-04,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,VP Engineering,11-50,Benelux,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1358,2026-06-04,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Marketing Manager,11-50,UK,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1462,2026-06-04,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,CEO,1000+,Poland,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1575,2026-06-04,Google Ads,GA_Brand,Contact form only,Marketing Manager,11-50,DACH,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1682,2026-06-04,Google Ads,GA_Brand,Blog: Ruby vs Node,Procurement,51-200,UK,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1962,2026-06-04,Organic Search,(none),Webinar: AI in delivery,Procurement,51-200,UK,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2155,2026-06-04,Outbound Email,(none),Ebook: Scaling IT teams,Developer,1000+,Benelux,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1134,2026-06-05,LinkedIn Ads,LI_AI_Delivery_Q2,Webinar: AI in delivery,VP Engineering,201-1000,Nordics,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1942,2026-06-05,Organic Search,(none),Case study: SaaS migration,CTO,51-200,Nordics,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1298,2026-06-06,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,Head of Product,201-1000,US,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1384,2026-06-06,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: fintech team scale-up,Marketing Manager,51-200,DACH,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2275,2026-06-06,Outbound Email,(none),Blog: Outsourcing checklist,Head of Product,201-1000,Benelux,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2373,2026-06-06,Events,(none),Case study: fintech team scale-up,Developer,51-200,Poland,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2381,2026-06-06,Events,(none),Contact form only,CTO,1000+,DACH,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1317,2026-06-07,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Outsourcing checklist,Head of Product,1000+,US,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1790,2026-06-07,Organic Search,(none),Blog: Ruby vs Node,Developer,1000+,Nordics,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1282,2026-06-08,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: fintech team scale-up,Procurement,51-200,UK,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1734,2026-06-08,Organic Search,(none),Case study: SaaS migration,Head of Product,11-50,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1736,2026-06-08,Organic Search,(none),Case study: fintech team scale-up,CTO,51-200,Nordics,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1960,2026-06-08,Organic Search,(none),Webinar: AI in delivery,CEO,51-200,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2198,2026-06-08,Outbound Email,(none),Case study: fintech team scale-up,CEO,11-50,DACH,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1034,2026-06-09,LinkedIn Ads,LI_Retarget,Blog: Ruby vs Node,CTO,201-1000,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1046,2026-06-09,LinkedIn Ads,LI_ScaleUp_CTO,Contact form only,Developer,11-50,DACH,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1190,2026-06-09,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Developer,201-1000,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1200,2026-06-09,LinkedIn Ads,LI_Retarget,Pricing page,Engineering Manager,11-50,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1594,2026-06-09,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,Procurement,1000+,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2157,2026-06-09,Outbound Email,(none),Contact form only,CTO,51-200,Unknown,Closed Won,50500.0,2026-06,1,1,1,1,50500.0,50500.0
+L2244,2026-06-09,Outbound Email,(none),Case study: fintech team scale-up,Head of Product,201-1000,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2273,2026-06-09,Outbound Email,(none),Contact form only,Procurement,51-200,US,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2374,2026-06-09,Events,(none),Pricing page,CEO,51-200,Benelux,SQL,,2026-06,1,1,0,0,0.0,0.0
+L1379,2026-06-10,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: fintech team scale-up,VP Engineering,1000+,Benelux,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1077,2026-06-11,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,VP Engineering,201-1000,DACH,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1131,2026-06-11,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,CTO,201-1000,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1324,2026-06-11,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,CEO,51-200,Nordics,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1508,2026-06-11,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,CEO,51-200,Nordics,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1720,2026-06-11,Google Ads,GA_Ruby_Dev,Case study: SaaS migration,VP Engineering,51-200,Benelux,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1772,2026-06-11,Organic Search,(none),Contact form only,Developer,201-1000,Unknown,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2131,2026-06-11,Outbound Email,(none),Webinar: AI in delivery,Marketing Manager,51-200,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1058,2026-06-12,LinkedIn Ads,LI_Retarget,Pricing page,Developer,11-50,Unknown,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1403,2026-06-12,LinkedIn Ads,LI_ScaleUp_CTO,Pricing page,Marketing Manager,1000+,Nordics,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2007,2026-06-12,Partner Referral,(none),Blog: Outsourcing checklist,CEO,51-200,US,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1047,2026-06-13,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,Marketing Manager,11-50,DACH,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1065,2026-06-13,LinkedIn Ads,LI_Retarget,Contact form only,Engineering Manager,11-50,Benelux,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1107,2026-06-13,LinkedIn Ads,LI_ScaleUp_CTO,Contact form only,Engineering Manager,11-50,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1259,2026-06-13,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,Developer,201-1000,Nordics,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1341,2026-06-13,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,Developer,51-200,DACH,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1640,2026-06-13,Google Ads,GA_Brand,Case study: fintech team scale-up,Marketing Manager,1000+,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1989,2026-06-13,Partner Referral,(none),Blog: Ruby vs Node,CEO,51-200,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2109,2026-06-13,Outbound Email,(none),Contact form only,CTO,11-50,DACH,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2208,2026-06-13,Outbound Email,(none),Blog: Ruby vs Node,Engineering Manager,11-50,UK,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2213,2026-06-13,Outbound Email,(none),Blog: Ruby vs Node,Engineering Manager,201-1000,Nordics,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2308,2026-06-13,Events,(none),Blog: Ruby vs Node,Procurement,1000+,UK,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1164,2026-06-14,LinkedIn Ads,LI_Retarget,Pricing page,Head of Product,51-200,Nordics,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1394,2026-06-14,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Developer,201-1000,Benelux,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1943,2026-06-14,Organic Search,(none),Pricing page,CEO,201-1000,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1978,2026-06-14,Organic Search,(none),Case study: SaaS migration,Developer,51-200,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2227,2026-06-14,Outbound Email,(none),Blog: Outsourcing checklist,Engineering Manager,201-1000,US,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1083,2026-06-15,LinkedIn Ads,LI_ScaleUp_CTO,Pricing page,Developer,11-50,DACH,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1281,2026-06-15,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,Developer,51-200,DACH,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1614,2026-06-15,Google Ads,GA_Brand,Ebook: Scaling IT teams,Engineering Manager,201-1000,US,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1805,2026-06-15,Organic Search,(none),Contact form only,CTO,201-1000,DACH,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1018,2026-06-16,LinkedIn Ads,LI_ScaleUp_CTO,Contact form only,CEO,1000+,Nordics,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1194,2026-06-16,LinkedIn Ads,LI_AI_Delivery_Q2,Webinar: AI in delivery,CEO,11-50,Poland,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1258,2026-06-16,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,Developer,201-1000,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1641,2026-06-16,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,Engineering Manager,201-1000,Nordics,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1817,2026-06-16,Organic Search,(none),Contact form only,CTO,51-200,Poland,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1828,2026-06-16,Organic Search,(none),Webinar: AI in delivery,Procurement,201-1000,Benelux,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1863,2026-06-16,Organic Search,(none),Blog: Outsourcing checklist,CEO,201-1000,US,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2127,2026-06-16,Outbound Email,(none),Blog: Ruby vs Node,Engineering Manager,1000+,Nordics,Closed Won,52000.0,2026-06,1,1,1,1,52000.0,52000.0
+L2305,2026-06-16,Events,(none),Blog: Ruby vs Node,CTO,11-50,Unknown,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1123,2026-06-17,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,CEO,201-1000,DACH,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1504,2026-06-17,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,VP Engineering,1000+,Benelux,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1564,2026-06-17,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,CTO,1000+,DACH,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1585,2026-06-17,Google Ads,GA_Brand,Blog: Ruby vs Node,Developer,11-50,Nordics,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2193,2026-06-17,Outbound Email,(none),Case study: fintech team scale-up,CTO,1000+,US,Closed Won,35100.0,2026-06,1,1,1,1,35100.0,35100.0
+L2245,2026-06-17,Outbound Email,(none),Ebook: Scaling IT teams,Marketing Manager,51-200,US,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2364,2026-06-17,Events,(none),Case study: SaaS migration,CEO,11-50,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2377,2026-06-17,Events,(none),Ebook: Scaling IT teams,CTO,1000+,DACH,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1064,2026-06-18,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,CTO,11-50,DACH,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1748,2026-06-18,Organic Search,(none),Blog: Ruby vs Node,CTO,51-200,US,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1010,2026-06-19,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Developer,1000+,Benelux,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1173,2026-06-19,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,CEO,1000+,US,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1565,2026-06-19,Google Ads,GA_Ruby_Dev,Webinar: AI in delivery,Engineering Manager,51-200,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1657,2026-06-19,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,VP Engineering,1000+,DACH,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2370,2026-06-19,Events,(none),Webinar: AI in delivery,Marketing Manager,51-200,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1106,2026-06-20,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Engineering Manager,51-200,UK,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1126,2026-06-20,LinkedIn Ads,LI_ScaleUp_CTO,Pricing page,VP Engineering,51-200,US,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1370,2026-06-20,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,Engineering Manager,1000+,Benelux,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1500,2026-06-20,Google Ads,GA_Outsourcing_Generic,Contact form only,Procurement,1000+,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1533,2026-06-20,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,Marketing Manager,1000+,DACH,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1983,2026-06-20,Partner Referral,(none),Webinar: AI in delivery,Head of Product,11-50,DACH,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1986,2026-06-20,Partner Referral,(none),Blog: Outsourcing checklist,Developer,11-50,Benelux,Closed Won,92500.0,2026-06,1,1,1,1,92500.0,92500.0
+L2246,2026-06-20,Outbound Email,(none),Case study: SaaS migration,Procurement,11-50,US,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1367,2026-06-21,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,CEO,11-50,Nordics,SQL,,2026-06,1,1,0,0,0.0,0.0
+L1446,2026-06-21,Google Ads,GA_Brand,Ebook: Scaling IT teams,Procurement,11-50,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1923,2026-06-21,Organic Search,(none),Blog: Ruby vs Node,CTO,11-50,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2050,2026-06-21,Partner Referral,(none),Contact form only,CTO,51-200,Benelux,Closed Won,103400.0,2026-06,1,1,1,1,103400.0,103400.0
+L1050,2026-06-22,LinkedIn Ads,LI_ScaleUp_CTO,Pricing page,Engineering Manager,51-200,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1057,2026-06-22,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,CEO,201-1000,Poland,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1188,2026-06-22,LinkedIn Ads,LI_AI_Delivery_Q2,Ebook: Scaling IT teams,CTO,11-50,UK,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1267,2026-06-22,LinkedIn Ads,LI_AI_Delivery_Q2,Webinar: AI in delivery,Developer,51-200,UK,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1586,2026-06-22,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,CEO,1000+,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1763,2026-06-22,Organic Search,(none),Webinar: AI in delivery,Engineering Manager,11-50,Nordics,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2311,2026-06-22,Events,(none),Case study: SaaS migration,Engineering Manager,201-1000,DACH,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1167,2026-06-23,LinkedIn Ads,LI_ScaleUp_CTO,Contact form only,VP Engineering,201-1000,Unknown,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1458,2026-06-23,Google Ads,GA_Outsourcing_Generic,Case study: fintech team scale-up,Head of Product,201-1000,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1470,2026-06-23,Google Ads,GA_Outsourcing_Generic,Case study: SaaS migration,Head of Product,1000+,Benelux,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1529,2026-06-23,Google Ads,GA_Ruby_Dev,Case study: fintech team scale-up,VP Engineering,51-200,Benelux,Opportunity,40600.0,2026-06,1,1,1,0,40600.0,0.0
+L1554,2026-06-23,Google Ads,GA_Ruby_Dev,Ebook: Scaling IT teams,Procurement,1000+,DACH,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1685,2026-06-23,Google Ads,GA_Outsourcing_Generic,Ebook: Scaling IT teams,Head of Product,11-50,US,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2010,2026-06-23,Partner Referral,(none),Blog: Outsourcing checklist,Marketing Manager,11-50,Poland,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2231,2026-06-23,Outbound Email,(none),Case study: fintech team scale-up,CEO,1000+,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1118,2026-06-24,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,CTO,51-200,Nordics,Opportunity,47500.0,2026-06,1,1,1,0,47500.0,0.0
+L1543,2026-06-24,Google Ads,GA_Outsourcing_Generic,Pricing page,Head of Product,11-50,Benelux,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1723,2026-06-24,Google Ads,GA_Brand,Blog: Outsourcing checklist,Head of Product,51-200,Benelux,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1786,2026-06-24,Organic Search,(none),Ebook: Scaling IT teams,Procurement,51-200,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2001,2026-06-24,Partner Referral,(none),Webinar: AI in delivery,Developer,51-200,Poland,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2120,2026-06-24,Outbound Email,(none),Ebook: Scaling IT teams,Head of Product,1000+,Nordics,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2174,2026-06-24,Outbound Email,(none),Pricing page,Marketing Manager,51-200,US,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1053,2026-06-25,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,Marketing Manager,201-1000,Nordics,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1284,2026-06-25,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Engineering Manager,11-50,UK,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1346,2026-06-25,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,CEO,1000+,US,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1668,2026-06-25,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,Developer,201-1000,UK,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1684,2026-06-25,Google Ads,GA_Ruby_Dev,Case study: SaaS migration,CEO,51-200,DACH,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1066,2026-06-26,LinkedIn Ads,LI_Retarget,Contact form only,Engineering Manager,51-200,US,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1176,2026-06-26,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,VP Engineering,1000+,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2340,2026-06-26,Events,(none),Webinar: AI in delivery,Marketing Manager,11-50,Benelux,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1135,2026-06-27,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,VP Engineering,1000+,Nordics,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1299,2026-06-27,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Developer,11-50,Benelux,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2255,2026-06-27,Outbound Email,(none),Contact form only,Engineering Manager,11-50,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2372,2026-06-27,Events,(none),Webinar: AI in delivery,VP Engineering,201-1000,US,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1060,2026-06-28,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: fintech team scale-up,CTO,201-1000,Poland,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1342,2026-06-28,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,CTO,201-1000,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1412,2026-06-28,LinkedIn Ads,LI_Retarget,Pricing page,VP Engineering,51-200,UK,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1580,2026-06-28,Google Ads,GA_Ruby_Dev,Webinar: AI in delivery,VP Engineering,201-1000,Poland,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1800,2026-06-28,Organic Search,(none),Case study: SaaS migration,Engineering Manager,11-50,Nordics,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1972,2026-06-28,Organic Search,(none),Blog: Ruby vs Node,Engineering Manager,201-1000,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2367,2026-06-28,Events,(none),Ebook: Scaling IT teams,Engineering Manager,11-50,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1421,2026-06-29,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,CTO,11-50,US,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1681,2026-06-29,Google Ads,GA_Outsourcing_Generic,Case study: SaaS migration,Engineering Manager,11-50,DACH,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2065,2026-06-29,Outbound Email,(none),Contact form only,Engineering Manager,51-200,Nordics,MQL,,2026-06,1,0,0,0,0.0,0.0
+L2318,2026-06-29,Events,(none),Blog: Ruby vs Node,Developer,201-1000,UK,Lead,,2026-06,0,0,0,0,0.0,0.0
+L2325,2026-06-29,Events,(none),Ebook: Scaling IT teams,Developer,11-50,UK,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1311,2026-06-30,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,Engineering Manager,201-1000,Poland,MQL,,2026-06,1,0,0,0,0.0,0.0
+L1464,2026-06-30,Google Ads,GA_Ruby_Dev,Contact form only,Developer,51-200,Nordics,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1521,2026-06-30,Google Ads,GA_Brand,Ebook: Scaling IT teams,VP Engineering,11-50,Poland,Lead,,2026-06,0,0,0,0,0.0,0.0
+L1155,2026-07-01,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,Marketing Manager,201-1000,Poland,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2366,2026-07-01,Events,(none),Webinar: AI in delivery,Engineering Manager,51-200,US,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1201,2026-07-02,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,CEO,201-1000,Poland,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1353,2026-07-02,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,Developer,1000+,UK,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1569,2026-07-02,Google Ads,GA_Brand,Ebook: Scaling IT teams,VP Engineering,11-50,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1665,2026-07-02,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,Developer,51-200,Nordics,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1672,2026-07-02,Google Ads,GA_Outsourcing_Generic,Pricing page,Developer,11-50,UK,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2176,2026-07-02,Outbound Email,(none),Case study: fintech team scale-up,Procurement,11-50,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2326,2026-07-02,Events,(none),Blog: Ruby vs Node,Head of Product,11-50,Poland,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1977,2026-07-03,Organic Search,(none),Blog: Ruby vs Node,Developer,51-200,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2048,2026-07-03,Partner Referral,(none),Ebook: Scaling IT teams,Engineering Manager,51-200,US,Closed Won,97300.0,2026-07,1,1,1,1,97300.0,97300.0
+L1387,2026-07-04,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,VP Engineering,11-50,DACH,Closed Lost,55700.0,2026-07,1,1,1,0,55700.0,0.0
+L1480,2026-07-04,Google Ads,GA_Ruby_Dev,Case study: SaaS migration,Developer,51-200,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1499,2026-07-04,Google Ads,GA_Brand,Case study: fintech team scale-up,Engineering Manager,201-1000,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1557,2026-07-04,Google Ads,GA_Ruby_Dev,Contact form only,Engineering Manager,51-200,Benelux,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1766,2026-07-04,Organic Search,(none),Pricing page,CEO,201-1000,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1818,2026-07-04,Organic Search,(none),Webinar: AI in delivery,CTO,1000+,Nordics,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2056,2026-07-04,Partner Referral,(none),Blog: Ruby vs Node,Developer,201-1000,DACH,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2266,2026-07-04,Outbound Email,(none),Webinar: AI in delivery,CTO,201-1000,Nordics,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1209,2026-07-05,LinkedIn Ads,LI_AI_Delivery_Q2,Ebook: Scaling IT teams,Developer,51-200,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1218,2026-07-05,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,CEO,1000+,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1229,2026-07-05,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: fintech team scale-up,Procurement,201-1000,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1283,2026-07-05,LinkedIn Ads,LI_Retarget,Pricing page,Developer,51-200,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1300,2026-07-05,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,Marketing Manager,201-1000,UK,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1414,2026-07-05,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,Developer,11-50,Benelux,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2167,2026-07-05,Outbound Email,(none),Contact form only,Developer,11-50,Benelux,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1175,2026-07-06,LinkedIn Ads,LI_ScaleUp_CTO,Contact form only,Developer,11-50,Poland,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1242,2026-07-06,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,CTO,11-50,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1338,2026-07-06,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,Procurement,201-1000,UK,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1692,2026-07-06,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,Engineering Manager,11-50,Nordics,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1941,2026-07-06,Organic Search,(none),Webinar: AI in delivery,CEO,51-200,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1990,2026-07-06,Partner Referral,(none),Contact form only,Engineering Manager,51-200,Poland,Closed Won,135100.0,2026-07,1,1,1,1,135100.0,135100.0
+L2134,2026-07-06,Outbound Email,(none),Contact form only,Engineering Manager,51-200,UK,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2357,2026-07-06,Events,(none),Case study: SaaS migration,Head of Product,1000+,US,Opportunity,79000.0,2026-07,1,1,1,0,79000.0,0.0
+L1251,2026-07-07,LinkedIn Ads,LI_ScaleUp_CTO,Contact form only,CTO,11-50,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1607,2026-07-07,Google Ads,GA_Ruby_Dev,Ebook: Scaling IT teams,CTO,51-200,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1907,2026-07-07,Organic Search,(none),Pricing page,Procurement,1000+,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1491,2026-07-08,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,VP Engineering,201-1000,Poland,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1617,2026-07-08,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,Engineering Manager,11-50,Poland,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2236,2026-07-08,Outbound Email,(none),Blog: Ruby vs Node,Marketing Manager,51-200,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2252,2026-07-08,Outbound Email,(none),Contact form only,CTO,1000+,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1578,2026-07-09,Google Ads,GA_Brand,Contact form only,VP Engineering,11-50,UK,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1898,2026-07-09,Organic Search,(none),Blog: Ruby vs Node,CEO,201-1000,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1908,2026-07-09,Organic Search,(none),Blog: Ruby vs Node,Engineering Manager,201-1000,US,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2149,2026-07-09,Outbound Email,(none),Webinar: AI in delivery,CEO,201-1000,UK,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2394,2026-07-09,Events,(none),Blog: Outsourcing checklist,Head of Product,51-200,Nordics,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1276,2026-07-10,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,Engineering Manager,51-200,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1435,2026-07-10,Google Ads,GA_Brand,Case study: fintech team scale-up,Developer,51-200,Benelux,Closed Lost,41800.0,2026-07,1,1,1,0,41800.0,0.0
+L1656,2026-07-10,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,Developer,51-200,Nordics,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1864,2026-07-10,Organic Search,(none),Case study: fintech team scale-up,Head of Product,1000+,DACH,Closed Lost,66900.0,2026-07,1,1,1,0,66900.0,0.0
+L1911,2026-07-10,Organic Search,(none),Case study: SaaS migration,Procurement,51-200,Unknown,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2355,2026-07-10,Events,(none),Pricing page,VP Engineering,11-50,Benelux,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1095,2026-07-11,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,Developer,1000+,UK,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1244,2026-07-11,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,Marketing Manager,51-200,Benelux,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1326,2026-07-11,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: SaaS migration,CEO,1000+,DACH,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1610,2026-07-11,Google Ads,GA_Brand,Case study: fintech team scale-up,Marketing Manager,51-200,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1742,2026-07-11,Organic Search,(none),Blog: Ruby vs Node,CTO,1000+,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1844,2026-07-11,Organic Search,(none),Blog: Outsourcing checklist,Procurement,11-50,UK,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1848,2026-07-11,Organic Search,(none),Blog: Outsourcing checklist,Engineering Manager,11-50,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1998,2026-07-11,Partner Referral,(none),Blog: Ruby vs Node,VP Engineering,201-1000,Unknown,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1172,2026-07-12,LinkedIn Ads,LI_Retarget,Pricing page,VP Engineering,11-50,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1476,2026-07-12,Google Ads,GA_Brand,Ebook: Scaling IT teams,Developer,51-200,Benelux,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2016,2026-07-12,Partner Referral,(none),Pricing page,Marketing Manager,11-50,Poland,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1023,2026-07-13,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,Engineering Manager,11-50,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1092,2026-07-13,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,Engineering Manager,11-50,Benelux,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1191,2026-07-13,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,CTO,201-1000,US,Closed Lost,32800.0,2026-07,1,1,1,0,32800.0,0.0
+L1268,2026-07-13,LinkedIn Ads,LI_Retarget,Blog: Ruby vs Node,CEO,51-200,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1654,2026-07-13,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,Developer,51-200,DACH,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2259,2026-07-13,Outbound Email,(none),Ebook: Scaling IT teams,CTO,51-200,Benelux,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2283,2026-07-13,Outbound Email,(none),Pricing page,VP Engineering,1000+,Nordics,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1148,2026-07-14,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,CEO,11-50,US,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1208,2026-07-14,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Head of Product,1000+,Unknown,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1820,2026-07-14,Organic Search,(none),Webinar: AI in delivery,Procurement,201-1000,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1040,2026-07-15,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,Engineering Manager,51-200,UK,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1230,2026-07-15,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,Engineering Manager,201-1000,Nordics,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1253,2026-07-15,LinkedIn Ads,LI_Retarget,Pricing page,Developer,11-50,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1320,2026-07-15,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,Marketing Manager,51-200,Unknown,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1490,2026-07-15,Google Ads,GA_Brand,Case study: fintech team scale-up,Marketing Manager,1000+,UK,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1616,2026-07-15,Google Ads,GA_Brand,Blog: Ruby vs Node,VP Engineering,51-200,DACH,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2118,2026-07-15,Outbound Email,(none),Webinar: AI in delivery,VP Engineering,201-1000,US,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2351,2026-07-15,Events,(none),Webinar: AI in delivery,CTO,51-200,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1027,2026-07-16,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,VP Engineering,51-200,DACH,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1248,2026-07-16,LinkedIn Ads,LI_Retarget,Contact form only,CTO,51-200,UK,Closed Won,38200.0,2026-07,1,1,1,1,38200.0,38200.0
+L1460,2026-07-16,Google Ads,GA_Brand,Contact form only,Marketing Manager,1000+,Benelux,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1556,2026-07-16,Google Ads,GA_Ruby_Dev,Pricing page,Head of Product,1000+,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1925,2026-07-16,Organic Search,(none),Ebook: Scaling IT teams,Developer,51-200,Nordics,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1195,2026-07-17,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,Marketing Manager,11-50,DACH,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1596,2026-07-17,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,Engineering Manager,201-1000,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2088,2026-07-17,Outbound Email,(none),Contact form only,CTO,11-50,Nordics,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2390,2026-07-17,Events,(none),Case study: SaaS migration,CEO,201-1000,Poland,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1093,2026-07-18,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,CEO,11-50,Nordics,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1243,2026-07-18,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,CTO,11-50,Nordics,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1505,2026-07-18,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,CTO,11-50,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1652,2026-07-18,Google Ads,GA_Ruby_Dev,Pricing page,Developer,51-200,Unknown,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2225,2026-07-18,Outbound Email,(none),Contact form only,VP Engineering,51-200,US,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1289,2026-07-19,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,CEO,51-200,UK,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1866,2026-07-19,Organic Search,(none),Webinar: AI in delivery,Developer,201-1000,Poland,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2089,2026-07-19,Outbound Email,(none),Webinar: AI in delivery,Marketing Manager,51-200,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2315,2026-07-19,Events,(none),Case study: SaaS migration,CTO,11-50,DACH,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1512,2026-07-20,Google Ads,GA_Ruby_Dev,Case study: SaaS migration,CTO,11-50,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1620,2026-07-20,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,VP Engineering,11-50,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1622,2026-07-20,Google Ads,GA_Outsourcing_Generic,Contact form only,Developer,51-200,Benelux,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1758,2026-07-20,Organic Search,(none),Blog: Ruby vs Node,Engineering Manager,201-1000,Benelux,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2173,2026-07-20,Outbound Email,(none),Case study: fintech team scale-up,Head of Product,11-50,Nordics,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1287,2026-07-21,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,Marketing Manager,51-200,Benelux,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1444,2026-07-21,Google Ads,GA_Ruby_Dev,Ebook: Scaling IT teams,VP Engineering,51-200,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1920,2026-07-21,Organic Search,(none),Pricing page,CEO,51-200,Benelux,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2345,2026-07-21,Events,(none),Ebook: Scaling IT teams,Engineering Manager,1000+,Nordics,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1189,2026-07-22,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,CTO,51-200,US,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1495,2026-07-22,Google Ads,GA_Brand,Pricing page,VP Engineering,201-1000,Poland,Closed Lost,61700.0,2026-07,1,1,1,0,61700.0,0.0
+L1880,2026-07-22,Organic Search,(none),Webinar: AI in delivery,Marketing Manager,11-50,Unknown,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2156,2026-07-22,Outbound Email,(none),Contact form only,CTO,201-1000,Nordics,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1493,2026-07-23,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,CTO,51-200,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1496,2026-07-23,Google Ads,GA_Outsourcing_Generic,Case study: SaaS migration,Engineering Manager,11-50,UK,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1756,2026-07-23,Organic Search,(none),Case study: fintech team scale-up,VP Engineering,1000+,UK,Closed Lost,68100.0,2026-07,1,1,1,0,68100.0,0.0
+L1807,2026-07-23,Organic Search,(none),Ebook: Scaling IT teams,VP Engineering,201-1000,UK,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1928,2026-07-23,Organic Search,(none),Blog: Ruby vs Node,Head of Product,11-50,UK,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2113,2026-07-23,Outbound Email,(none),Case study: SaaS migration,CEO,51-200,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1039,2026-07-24,LinkedIn Ads,LI_ScaleUp_CTO,Webinar: AI in delivery,CTO,1000+,UK,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1601,2026-07-24,Google Ads,GA_Brand,Webinar: AI in delivery,VP Engineering,1000+,Poland,SQL,,2026-07,1,1,0,0,0.0,0.0
+L1709,2026-07-24,Google Ads,GA_Ruby_Dev,Webinar: AI in delivery,CTO,201-1000,UK,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2076,2026-07-24,Outbound Email,(none),Case study: fintech team scale-up,Procurement,51-200,DACH,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1429,2026-07-25,Google Ads,GA_Brand,Contact form only,Marketing Manager,201-1000,Nordics,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1799,2026-07-25,Organic Search,(none),Blog: Outsourcing checklist,CEO,201-1000,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1878,2026-07-25,Organic Search,(none),Case study: fintech team scale-up,Marketing Manager,11-50,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2242,2026-07-25,Outbound Email,(none),Case study: SaaS migration,Developer,201-1000,DACH,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1645,2026-07-26,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,Developer,201-1000,Poland,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1992,2026-07-26,Partner Referral,(none),Blog: Outsourcing checklist,Head of Product,51-200,UK,Opportunity,81500.0,2026-07,1,1,1,0,81500.0,0.0
+L2002,2026-07-26,Partner Referral,(none),Blog: Outsourcing checklist,CTO,11-50,Poland,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2038,2026-07-26,Partner Referral,(none),Contact form only,VP Engineering,1000+,US,SQL,,2026-07,1,1,0,0,0.0,0.0
+L2040,2026-07-26,Partner Referral,(none),Case study: fintech team scale-up,Engineering Manager,1000+,Nordics,Closed Lost,105800.0,2026-07,1,1,1,0,105800.0,0.0
+L2075,2026-07-26,Outbound Email,(none),Case study: SaaS migration,Developer,51-200,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1162,2026-07-27,LinkedIn Ads,LI_AI_Delivery_Q2,Ebook: Scaling IT teams,CEO,1000+,DACH,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1519,2026-07-27,Google Ads,GA_Brand,Webinar: AI in delivery,CTO,51-200,UK,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1933,2026-07-27,Organic Search,(none),Ebook: Scaling IT teams,Engineering Manager,201-1000,US,Closed Lost,39400.0,2026-07,1,1,1,0,39400.0,0.0
+L1938,2026-07-27,Organic Search,(none),Ebook: Scaling IT teams,CTO,51-200,Nordics,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2025,2026-07-27,Partner Referral,(none),Ebook: Scaling IT teams,Engineering Manager,1000+,UK,Closed Won,103500.0,2026-07,1,1,1,1,103500.0,103500.0
+L2152,2026-07-27,Outbound Email,(none),Case study: fintech team scale-up,Engineering Manager,201-1000,Nordics,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2336,2026-07-27,Events,(none),Case study: fintech team scale-up,Head of Product,11-50,Nordics,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2379,2026-07-27,Events,(none),Contact form only,CTO,201-1000,UK,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1009,2026-07-28,LinkedIn Ads,LI_AI_Delivery_Q2,Ebook: Scaling IT teams,CTO,11-50,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1137,2026-07-28,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,Procurement,51-200,Nordics,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1217,2026-07-28,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Outsourcing checklist,Marketing Manager,11-50,US,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1232,2026-07-28,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,Developer,11-50,UK,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1303,2026-07-28,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,Developer,201-1000,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1419,2026-07-28,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,CEO,51-200,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2017,2026-07-28,Partner Referral,(none),Contact form only,CEO,51-200,Poland,SQL,,2026-07,1,1,0,0,0.0,0.0
+L2080,2026-07-28,Outbound Email,(none),Blog: Ruby vs Node,CTO,51-200,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2321,2026-07-28,Events,(none),Ebook: Scaling IT teams,Developer,51-200,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1515,2026-07-29,Google Ads,GA_Outsourcing_Generic,Contact form only,Developer,11-50,UK,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1558,2026-07-29,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,Procurement,1000+,Nordics,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1603,2026-07-29,Google Ads,GA_Outsourcing_Generic,Contact form only,VP Engineering,1000+,US,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1691,2026-07-29,Google Ads,GA_Outsourcing_Generic,Ebook: Scaling IT teams,VP Engineering,11-50,Nordics,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1704,2026-07-29,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,Engineering Manager,51-200,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1822,2026-07-29,Organic Search,(none),Ebook: Scaling IT teams,Engineering Manager,11-50,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1897,2026-07-29,Organic Search,(none),Blog: Outsourcing checklist,CTO,1000+,Unknown,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2015,2026-07-29,Partner Referral,(none),Ebook: Scaling IT teams,CTO,1000+,Poland,Closed Won,92500.0,2026-07,1,1,1,1,92500.0,92500.0
+L2108,2026-07-29,Outbound Email,(none),Pricing page,Head of Product,51-200,Benelux,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2122,2026-07-29,Outbound Email,(none),Blog: Ruby vs Node,Engineering Manager,51-200,Benelux,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1029,2026-07-30,LinkedIn Ads,LI_ScaleUp_CTO,Contact form only,Developer,11-50,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1301,2026-07-30,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,VP Engineering,201-1000,Benelux,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1540,2026-07-30,Google Ads,GA_Outsourcing_Generic,Ebook: Scaling IT teams,CTO,201-1000,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2115,2026-07-30,Outbound Email,(none),Blog: Ruby vs Node,Developer,51-200,DACH,MQL,,2026-07,1,0,0,0,0.0,0.0
+L2341,2026-07-30,Events,(none),Pricing page,VP Engineering,11-50,US,Closed Lost,66900.0,2026-07,1,1,1,0,66900.0,0.0
+L1216,2026-07-31,LinkedIn Ads,LI_Retarget,Contact form only,Procurement,11-50,Benelux,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1331,2026-07-31,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,Head of Product,201-1000,UK,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1439,2026-07-31,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,VP Engineering,201-1000,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1471,2026-07-31,Google Ads,GA_Brand,Contact form only,CTO,1000+,Nordics,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1542,2026-07-31,Google Ads,GA_Brand,Case study: fintech team scale-up,CEO,1000+,Benelux,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1590,2026-07-31,Google Ads,GA_Brand,Blog: Outsourcing checklist,Head of Product,201-1000,Nordics,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1631,2026-07-31,Google Ads,GA_Ruby_Dev,Webinar: AI in delivery,VP Engineering,51-200,Poland,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1726,2026-07-31,Google Ads,GA_Outsourcing_Generic,Blog: Ruby vs Node,Marketing Manager,51-200,Poland,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1803,2026-07-31,Organic Search,(none),Blog: Ruby vs Node,CEO,11-50,UK,MQL,,2026-07,1,0,0,0,0.0,0.0
+L1855,2026-07-31,Organic Search,(none),Ebook: Scaling IT teams,CTO,201-1000,US,Lead,,2026-07,0,0,0,0,0.0,0.0
+L2218,2026-07-31,Outbound Email,(none),Contact form only,Engineering Manager,201-1000,DACH,Lead,,2026-07,0,0,0,0,0.0,0.0
+L1033,2026-08-01,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Developer,51-200,Benelux,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1724,2026-08-01,Google Ads,GA_Ruby_Dev,Webinar: AI in delivery,Head of Product,11-50,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2004,2026-08-01,Partner Referral,(none),Blog: Ruby vs Node,Developer,201-1000,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1044,2026-08-02,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,Engineering Manager,51-200,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1156,2026-08-02,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,CTO,1000+,Benelux,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1348,2026-08-02,LinkedIn Ads,LI_Retarget,Contact form only,Head of Product,201-1000,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1851,2026-08-02,Organic Search,(none),Webinar: AI in delivery,CTO,51-200,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1969,2026-08-02,Organic Search,(none),Ebook: Scaling IT teams,Marketing Manager,51-200,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2389,2026-08-02,Events,(none),Blog: Outsourcing checklist,Developer,201-1000,US,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1560,2026-08-03,Google Ads,GA_Brand,Contact form only,CTO,201-1000,UK,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1730,2026-08-03,Organic Search,(none),Case study: fintech team scale-up,CTO,201-1000,UK,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1002,2026-08-04,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,VP Engineering,11-50,Benelux,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1031,2026-08-04,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Outsourcing checklist,VP Engineering,11-50,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1197,2026-08-04,LinkedIn Ads,LI_Retarget,Pricing page,Developer,51-200,Unknown,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1472,2026-08-04,Google Ads,GA_Brand,Webinar: AI in delivery,Head of Product,51-200,Poland,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1815,2026-08-04,Organic Search,(none),Contact form only,VP Engineering,1000+,US,Closed Lost,29000.0,2026-08,1,1,1,0,29000.0,0.0
+L1922,2026-08-04,Organic Search,(none),Case study: fintech team scale-up,CEO,201-1000,Nordics,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2074,2026-08-04,Outbound Email,(none),Contact form only,Marketing Manager,1000+,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2106,2026-08-04,Outbound Email,(none),Ebook: Scaling IT teams,CEO,201-1000,Benelux,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2286,2026-08-04,Outbound Email,(none),Blog: Ruby vs Node,Procurement,11-50,Benelux,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2386,2026-08-04,Events,(none),Blog: Ruby vs Node,CTO,11-50,US,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1142,2026-08-05,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Outsourcing checklist,CTO,11-50,US,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1214,2026-08-05,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,VP Engineering,201-1000,Unknown,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1310,2026-08-05,LinkedIn Ads,LI_Retarget,Pricing page,CTO,51-200,DACH,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1700,2026-08-05,Google Ads,GA_Brand,Webinar: AI in delivery,VP Engineering,11-50,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2037,2026-08-05,Partner Referral,(none),Case study: SaaS migration,CTO,201-1000,Nordics,Closed Lost,77800.0,2026-08,1,1,1,0,77800.0,0.0
+L2264,2026-08-05,Outbound Email,(none),Pricing page,Procurement,1000+,DACH,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1445,2026-08-06,Google Ads,GA_Ruby_Dev,Ebook: Scaling IT teams,Engineering Manager,201-1000,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1567,2026-08-06,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,CEO,201-1000,Benelux,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1678,2026-08-06,Google Ads,GA_Brand,Contact form only,Engineering Manager,201-1000,US,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1679,2026-08-06,Google Ads,GA_Brand,Case study: fintech team scale-up,Engineering Manager,51-200,UK,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1769,2026-08-06,Organic Search,(none),Ebook: Scaling IT teams,CEO,201-1000,UK,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1780,2026-08-06,Organic Search,(none),Blog: Outsourcing checklist,VP Engineering,51-200,Benelux,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1789,2026-08-06,Organic Search,(none),Contact form only,VP Engineering,1000+,Nordics,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1824,2026-08-06,Organic Search,(none),Webinar: AI in delivery,Marketing Manager,201-1000,Benelux,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1988,2026-08-06,Partner Referral,(none),Case study: fintech team scale-up,Head of Product,201-1000,Unknown,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2064,2026-08-06,Partner Referral,(none),Webinar: AI in delivery,Head of Product,51-200,DACH,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1072,2026-08-07,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,Developer,11-50,US,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1128,2026-08-07,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: SaaS migration,Head of Product,201-1000,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1325,2026-08-07,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,CTO,11-50,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1431,2026-08-07,Google Ads,GA_Brand,Blog: Ruby vs Node,Marketing Manager,11-50,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1469,2026-08-07,Google Ads,GA_Ruby_Dev,Webinar: AI in delivery,Marketing Manager,201-1000,US,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1598,2026-08-07,Google Ads,GA_Brand,Webinar: AI in delivery,Engineering Manager,11-50,Nordics,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2092,2026-08-07,Outbound Email,(none),Webinar: AI in delivery,CTO,11-50,US,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2342,2026-08-07,Events,(none),Case study: SaaS migration,CEO,51-200,Benelux,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1026,2026-08-08,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: SaaS migration,CEO,51-200,UK,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1125,2026-08-08,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,Developer,11-50,Poland,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1391,2026-08-08,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,Developer,201-1000,Benelux,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1436,2026-08-08,Google Ads,GA_Brand,Case study: SaaS migration,Engineering Manager,1000+,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1721,2026-08-08,Google Ads,GA_Brand,Webinar: AI in delivery,Procurement,51-200,UK,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1890,2026-08-08,Organic Search,(none),Blog: Ruby vs Node,Head of Product,1000+,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2110,2026-08-08,Outbound Email,(none),Blog: Outsourcing checklist,Developer,11-50,DACH,MQL,,2026-08,1,0,0,0,0.0,0.0
+L2162,2026-08-08,Outbound Email,(none),Pricing page,VP Engineering,201-1000,DACH,Closed Won,96800.0,2026-08,1,1,1,1,96800.0,96800.0
+L2205,2026-08-08,Outbound Email,(none),Webinar: AI in delivery,Marketing Manager,11-50,UK,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1063,2026-08-09,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Developer,11-50,US,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1178,2026-08-09,LinkedIn Ads,LI_ScaleUp_CTO,Contact form only,VP Engineering,51-200,Unknown,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1695,2026-08-09,Google Ads,GA_Ruby_Dev,Contact form only,Developer,201-1000,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2053,2026-08-09,Partner Referral,(none),Webinar: AI in delivery,Developer,51-200,Benelux,MQL,,2026-08,1,0,0,0,0.0,0.0
+L2142,2026-08-09,Outbound Email,(none),Case study: SaaS migration,Marketing Manager,1000+,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2190,2026-08-09,Outbound Email,(none),Ebook: Scaling IT teams,VP Engineering,11-50,UK,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2290,2026-08-09,Events,(none),Ebook: Scaling IT teams,Head of Product,51-200,UK,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1269,2026-08-10,LinkedIn Ads,LI_Retarget,Contact form only,Engineering Manager,201-1000,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1494,2026-08-10,Google Ads,GA_Ruby_Dev,Pricing page,VP Engineering,51-200,UK,SQL,,2026-08,1,1,0,0,0.0,0.0
+L1751,2026-08-10,Organic Search,(none),Blog: Ruby vs Node,CEO,201-1000,Nordics,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2179,2026-08-10,Outbound Email,(none),Blog: Ruby vs Node,VP Engineering,201-1000,Benelux,MQL,,2026-08,1,0,0,0,0.0,0.0
+L2316,2026-08-10,Events,(none),Pricing page,Procurement,51-200,US,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1328,2026-08-11,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,VP Engineering,51-200,Benelux,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1959,2026-08-11,Organic Search,(none),Blog: Ruby vs Node,Engineering Manager,201-1000,Poland,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1979,2026-08-11,Organic Search,(none),Pricing page,CEO,11-50,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2030,2026-08-11,Partner Referral,(none),Blog: Outsourcing checklist,CEO,51-200,UK,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1288,2026-08-12,LinkedIn Ads,LI_ScaleUp_CTO,Pricing page,VP Engineering,11-50,Benelux,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1810,2026-08-12,Organic Search,(none),Case study: SaaS migration,Procurement,201-1000,US,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1958,2026-08-12,Organic Search,(none),Webinar: AI in delivery,CTO,51-200,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L2047,2026-08-12,Partner Referral,(none),Contact form only,CEO,51-200,UK,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2270,2026-08-12,Outbound Email,(none),Ebook: Scaling IT teams,Engineering Manager,1000+,US,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1105,2026-08-13,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: SaaS migration,Marketing Manager,51-200,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1606,2026-08-13,Google Ads,GA_Outsourcing_Generic,Contact form only,Engineering Manager,201-1000,UK,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2385,2026-08-13,Events,(none),Case study: SaaS migration,VP Engineering,51-200,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1113,2026-08-14,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,VP Engineering,51-200,DACH,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1222,2026-08-14,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,Engineering Manager,51-200,UK,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1245,2026-08-14,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,Head of Product,11-50,US,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1693,2026-08-14,Google Ads,GA_Brand,Ebook: Scaling IT teams,CTO,201-1000,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1760,2026-08-14,Organic Search,(none),Pricing page,Head of Product,11-50,UK,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1365,2026-08-15,LinkedIn Ads,LI_AI_Delivery_Q2,Webinar: AI in delivery,Engineering Manager,11-50,Poland,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1397,2026-08-15,LinkedIn Ads,LI_ScaleUp_CTO,Pricing page,Head of Product,51-200,UK,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1612,2026-08-15,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,Developer,51-200,Benelux,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1895,2026-08-15,Organic Search,(none),Pricing page,Marketing Manager,201-1000,Poland,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1422,2026-08-16,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,Marketing Manager,201-1000,Benelux,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1532,2026-08-16,Google Ads,GA_Brand,Pricing page,VP Engineering,1000+,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1604,2026-08-16,Google Ads,GA_Outsourcing_Generic,Case study: SaaS migration,CTO,51-200,Nordics,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1649,2026-08-16,Google Ads,GA_Outsourcing_Generic,Ebook: Scaling IT teams,Marketing Manager,51-200,US,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1762,2026-08-16,Organic Search,(none),Blog: Outsourcing checklist,CEO,51-200,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1834,2026-08-16,Organic Search,(none),Pricing page,CTO,201-1000,US,Opportunity,27900.0,2026-08,1,1,1,0,27900.0,0.0
+L2280,2026-08-16,Outbound Email,(none),Ebook: Scaling IT teams,Marketing Manager,1000+,US,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1835,2026-08-17,Organic Search,(none),Ebook: Scaling IT teams,Head of Product,11-50,US,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1937,2026-08-17,Organic Search,(none),Case study: SaaS migration,Head of Product,51-200,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L2301,2026-08-17,Events,(none),Contact form only,CTO,11-50,UK,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1383,2026-08-18,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,CTO,1000+,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1498,2026-08-18,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,Developer,11-50,UK,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1605,2026-08-18,Google Ads,GA_Ruby_Dev,Webinar: AI in delivery,VP Engineering,11-50,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1973,2026-08-18,Organic Search,(none),Case study: fintech team scale-up,CTO,11-50,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1110,2026-08-19,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,CTO,11-50,Benelux,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1120,2026-08-19,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: fintech team scale-up,VP Engineering,51-200,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1806,2026-08-19,Organic Search,(none),Case study: SaaS migration,Engineering Manager,201-1000,US,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1597,2026-08-20,Google Ads,GA_Outsourcing_Generic,Ebook: Scaling IT teams,CTO,11-50,Poland,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1108,2026-08-21,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,Engineering Manager,11-50,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1144,2026-08-21,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,Engineering Manager,201-1000,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1465,2026-08-21,Google Ads,GA_Brand,Case study: fintech team scale-up,Developer,11-50,DACH,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1931,2026-08-21,Organic Search,(none),Case study: SaaS migration,CTO,51-200,Benelux,SQL,,2026-08,1,1,0,0,0.0,0.0
+L2006,2026-08-21,Partner Referral,(none),Case study: SaaS migration,Engineering Manager,11-50,DACH,Closed Won,126400.0,2026-08,1,1,1,1,126400.0,126400.0
+L2293,2026-08-21,Events,(none),Webinar: AI in delivery,Engineering Manager,51-200,US,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1139,2026-08-22,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Outsourcing checklist,Marketing Manager,201-1000,Unknown,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1599,2026-08-22,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,Developer,1000+,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1868,2026-08-22,Organic Search,(none),Ebook: Scaling IT teams,Developer,11-50,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L2071,2026-08-22,Outbound Email,(none),Case study: SaaS migration,CTO,51-200,Benelux,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2194,2026-08-22,Outbound Email,(none),Webinar: AI in delivery,Developer,201-1000,Benelux,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1308,2026-08-23,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,CEO,1000+,UK,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1361,2026-08-23,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,VP Engineering,51-200,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1526,2026-08-23,Google Ads,GA_Brand,Blog: Ruby vs Node,Head of Product,51-200,UK,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1613,2026-08-23,Google Ads,GA_Brand,Blog: Ruby vs Node,Engineering Manager,1000+,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1639,2026-08-23,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,Developer,11-50,DACH,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1713,2026-08-23,Google Ads,GA_Outsourcing_Generic,Blog: Outsourcing checklist,Procurement,11-50,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1850,2026-08-23,Organic Search,(none),Case study: SaaS migration,CTO,51-200,Benelux,Closed Won,41500.0,2026-08,1,1,1,1,41500.0,41500.0
+L1914,2026-08-23,Organic Search,(none),Ebook: Scaling IT teams,Developer,51-200,Benelux,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2054,2026-08-23,Partner Referral,(none),Blog: Outsourcing checklist,Developer,201-1000,US,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2072,2026-08-23,Outbound Email,(none),Case study: fintech team scale-up,Engineering Manager,51-200,Poland,MQL,,2026-08,1,0,0,0,0.0,0.0
+L2294,2026-08-23,Events,(none),Blog: Outsourcing checklist,Developer,11-50,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1548,2026-08-24,Google Ads,GA_Outsourcing_Generic,Ebook: Scaling IT teams,Engineering Manager,11-50,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2051,2026-08-24,Partner Referral,(none),Case study: SaaS migration,VP Engineering,51-200,UK,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1059,2026-08-25,LinkedIn Ads,LI_Retarget,Case study: fintech team scale-up,Engineering Manager,201-1000,Unknown,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1177,2026-08-25,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Ruby vs Node,Engineering Manager,11-50,UK,MQL,,2026-08,1,0,0,0,0.0,0.0
+L2062,2026-08-25,Partner Referral,(none),Blog: Outsourcing checklist,VP Engineering,201-1000,UK,MQL,,2026-08,1,0,0,0,0.0,0.0
+L2292,2026-08-25,Events,(none),Contact form only,VP Engineering,51-200,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1076,2026-08-26,LinkedIn Ads,LI_ScaleUp_CTO,Case study: fintech team scale-up,Marketing Manager,51-200,Benelux,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1094,2026-08-26,LinkedIn Ads,LI_Retarget,Pricing page,CEO,11-50,Poland,Opportunity,42200.0,2026-08,1,1,1,0,42200.0,0.0
+L1115,2026-08-26,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,Developer,201-1000,DACH,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1514,2026-08-26,Google Ads,GA_Brand,Case study: fintech team scale-up,Marketing Manager,1000+,UK,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2258,2026-08-27,Outbound Email,(none),Case study: fintech team scale-up,Procurement,11-50,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1829,2026-08-28,Organic Search,(none),Blog: Ruby vs Node,CEO,51-200,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1859,2026-08-28,Organic Search,(none),Case study: fintech team scale-up,Developer,11-50,US,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2158,2026-08-28,Outbound Email,(none),Webinar: AI in delivery,Head of Product,11-50,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2243,2026-08-28,Outbound Email,(none),Pricing page,Procurement,201-1000,US,Opportunity,77200.0,2026-08,1,1,1,0,77200.0,0.0
+L1038,2026-08-29,LinkedIn Ads,LI_Retarget,Contact form only,VP Engineering,1000+,Benelux,Closed Won,38200.0,2026-08,1,1,1,1,38200.0,38200.0
+L1425,2026-08-29,Google Ads,GA_Outsourcing_Generic,Case study: SaaS migration,Developer,1000+,Unknown,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1634,2026-08-29,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,CTO,201-1000,UK,MQL,,2026-08,1,0,0,0,0.0,0.0
+L2111,2026-08-29,Outbound Email,(none),Webinar: AI in delivery,CTO,201-1000,US,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2395,2026-08-29,Events,(none),Contact form only,CTO,11-50,Nordics,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1104,2026-08-30,LinkedIn Ads,LI_AI_Delivery_Q2,Ebook: Scaling IT teams,Developer,11-50,Unknown,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1278,2026-08-30,LinkedIn Ads,LI_Retarget,Pricing page,VP Engineering,11-50,Benelux,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1994,2026-08-30,Partner Referral,(none),Blog: Outsourcing checklist,CTO,1000+,Poland,Closed Lost,77400.0,2026-08,1,1,1,0,77400.0,0.0
+L2271,2026-08-30,Outbound Email,(none),Pricing page,Head of Product,11-50,Benelux,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1517,2026-08-31,Google Ads,GA_Outsourcing_Generic,Webinar: AI in delivery,Developer,201-1000,US,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1647,2026-08-31,Google Ads,GA_Ruby_Dev,Pricing page,Marketing Manager,11-50,UK,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1801,2026-08-31,Organic Search,(none),Pricing page,VP Engineering,51-200,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1825,2026-08-31,Organic Search,(none),Case study: SaaS migration,CTO,51-200,Nordics,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1929,2026-08-31,Organic Search,(none),Ebook: Scaling IT teams,VP Engineering,11-50,Unknown,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1945,2026-08-31,Organic Search,(none),Blog: Outsourcing checklist,CTO,11-50,DACH,Lead,,2026-08,0,0,0,0,0.0,0.0
+L1953,2026-08-31,Organic Search,(none),Webinar: AI in delivery,Engineering Manager,51-200,US,MQL,,2026-08,1,0,0,0,0.0,0.0
+L2220,2026-08-31,Outbound Email,(none),Case study: SaaS migration,Engineering Manager,51-200,Poland,Lead,,2026-08,0,0,0,0,0.0,0.0
+L2331,2026-08-31,Events,(none),Ebook: Scaling IT teams,Marketing Manager,201-1000,UK,MQL,,2026-08,1,0,0,0,0.0,0.0
+L1322,2026-09-01,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,VP Engineering,201-1000,Poland,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1351,2026-09-01,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,Head of Product,51-200,Nordics,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1359,2026-09-01,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,VP Engineering,11-50,Nordics,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1372,2026-09-01,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,CTO,201-1000,UK,MQL,,2026-09,1,0,0,0,0.0,0.0
+L2228,2026-09-01,Outbound Email,(none),Contact form only,CTO,1000+,Poland,MQL,,2026-09,1,0,0,0,0.0,0.0
+L2257,2026-09-01,Outbound Email,(none),Case study: fintech team scale-up,CTO,51-200,DACH,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1163,2026-09-02,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,VP Engineering,11-50,Poland,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1206,2026-09-02,LinkedIn Ads,LI_ScaleUp_CTO,Pricing page,Engineering Manager,1000+,Poland,SQL,,2026-09,1,1,0,0,0.0,0.0
+L1228,2026-09-02,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: fintech team scale-up,Engineering Manager,11-50,Nordics,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1630,2026-09-02,Google Ads,GA_Brand,Ebook: Scaling IT teams,VP Engineering,11-50,US,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1643,2026-09-02,Google Ads,GA_Ruby_Dev,Blog: Outsourcing checklist,Head of Product,1000+,UK,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1717,2026-09-02,Google Ads,GA_Brand,Case study: fintech team scale-up,Developer,51-200,UK,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1837,2026-09-02,Organic Search,(none),Pricing page,Engineering Manager,51-200,UK,SQL,,2026-09,1,1,0,0,0.0,0.0
+L1886,2026-09-02,Organic Search,(none),Case study: fintech team scale-up,VP Engineering,201-1000,Benelux,Lead,,2026-09,0,0,0,0,0.0,0.0
+L2247,2026-09-02,Outbound Email,(none),Case study: SaaS migration,CEO,51-200,UK,Closed Lost,57300.0,2026-09,1,1,1,0,57300.0,0.0
+L2348,2026-09-02,Events,(none),Pricing page,Developer,11-50,Nordics,MQL,,2026-09,1,0,0,0,0.0,0.0
+L2358,2026-09-02,Events,(none),Ebook: Scaling IT teams,Head of Product,11-50,DACH,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1376,2026-09-03,LinkedIn Ads,LI_AI_Delivery_Q2,Ebook: Scaling IT teams,VP Engineering,201-1000,Poland,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1277,2026-09-04,LinkedIn Ads,LI_Retarget,Case study: SaaS migration,Engineering Manager,201-1000,UK,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1547,2026-09-04,Google Ads,GA_Brand,Contact form only,Engineering Manager,11-50,US,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1782,2026-09-04,Organic Search,(none),Blog: Ruby vs Node,CTO,201-1000,Benelux,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1854,2026-09-04,Organic Search,(none),Blog: Ruby vs Node,Marketing Manager,1000+,Poland,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1965,2026-09-04,Organic Search,(none),Case study: fintech team scale-up,VP Engineering,1000+,US,Closed Won,30200.0,2026-09,1,1,1,1,30200.0,30200.0
+L1015,2026-09-05,LinkedIn Ads,LI_Retarget,Contact form only,Marketing Manager,201-1000,Benelux,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1069,2026-09-05,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Developer,11-50,Nordics,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1461,2026-09-05,Google Ads,GA_Brand,Case study: fintech team scale-up,CEO,11-50,Nordics,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1626,2026-09-05,Google Ads,GA_Brand,Case study: fintech team scale-up,CTO,201-1000,US,Lead,,2026-09,0,0,0,0,0.0,0.0
+L2298,2026-09-05,Events,(none),Blog: Outsourcing checklist,Head of Product,11-50,US,Lead,,2026-09,0,0,0,0,0.0,0.0
+L2327,2026-09-05,Events,(none),Webinar: AI in delivery,Engineering Manager,51-200,DACH,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1025,2026-09-06,LinkedIn Ads,LI_Retarget,Contact form only,CTO,11-50,Nordics,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1103,2026-09-06,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,Head of Product,1000+,US,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1132,2026-09-06,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Outsourcing checklist,Marketing Manager,201-1000,DACH,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1153,2026-09-06,LinkedIn Ads,LI_Retarget,Blog: Outsourcing checklist,Developer,11-50,Poland,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1378,2026-09-06,LinkedIn Ads,LI_AI_Delivery_Q2,Webinar: AI in delivery,VP Engineering,201-1000,DACH,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1611,2026-09-06,Google Ads,GA_Ruby_Dev,Blog: Ruby vs Node,Engineering Manager,1000+,US,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1716,2026-09-06,Google Ads,GA_Ruby_Dev,Ebook: Scaling IT teams,Procurement,11-50,Unknown,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1821,2026-09-06,Organic Search,(none),Pricing page,Engineering Manager,11-50,UK,Lead,,2026-09,0,0,0,0,0.0,0.0
+L2031,2026-09-06,Partner Referral,(none),Blog: Outsourcing checklist,CTO,11-50,US,MQL,,2026-09,1,0,0,0,0.0,0.0
+L2297,2026-09-06,Events,(none),Blog: Outsourcing checklist,Engineering Manager,51-200,Nordics,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1211,2026-09-07,LinkedIn Ads,LI_AI_Delivery_Q2,Contact form only,Head of Product,201-1000,US,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1256,2026-09-07,LinkedIn Ads,LI_AI_Delivery_Q2,Pricing page,VP Engineering,1000+,Poland,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1261,2026-09-07,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,CTO,1000+,Benelux,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1385,2026-09-07,LinkedIn Ads,LI_AI_Delivery_Q2,Case study: fintech team scale-up,Engineering Manager,1000+,US,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1653,2026-09-07,Google Ads,GA_Ruby_Dev,Ebook: Scaling IT teams,Developer,11-50,UK,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1795,2026-09-07,Organic Search,(none),Case study: SaaS migration,VP Engineering,51-200,DACH,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1355,2026-09-08,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Outsourcing checklist,Engineering Manager,201-1000,Nordics,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1487,2026-09-08,Google Ads,GA_Ruby_Dev,Case study: SaaS migration,Procurement,51-200,Benelux,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1524,2026-09-08,Google Ads,GA_Ruby_Dev,Case study: SaaS migration,CEO,201-1000,Poland,Lead,,2026-09,0,0,0,0,0.0,0.0
+L2000,2026-09-08,Partner Referral,(none),Blog: Outsourcing checklist,Developer,51-200,Benelux,MQL,,2026-09,1,0,0,0,0.0,0.0
+L2186,2026-09-08,Outbound Email,(none),Blog: Outsourcing checklist,Engineering Manager,11-50,UK,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1136,2026-09-09,LinkedIn Ads,LI_ScaleUp_CTO,Case study: SaaS migration,CEO,51-200,US,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1339,2026-09-09,LinkedIn Ads,LI_ScaleUp_CTO,Blog: Ruby vs Node,Marketing Manager,51-200,DACH,MQL,,2026-09,1,0,0,0,0.0,0.0
+L2240,2026-09-09,Outbound Email,(none),Contact form only,Engineering Manager,51-200,Benelux,Lead,,2026-09,0,0,0,0,0.0,0.0
+L2344,2026-09-09,Events,(none),Contact form only,Head of Product,1000+,Benelux,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1731,2026-09-10,Organic Search,(none),Case study: SaaS migration,VP Engineering,201-1000,Benelux,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1768,2026-09-10,Organic Search,(none),Pricing page,CEO,51-200,DACH,MQL,,2026-09,1,0,0,0,0.0,0.0
+L2107,2026-09-10,Outbound Email,(none),Case study: fintech team scale-up,Head of Product,1000+,UK,Lead,,2026-09,0,0,0,0,0.0,0.0
+L2154,2026-09-10,Outbound Email,(none),Case study: SaaS migration,Marketing Manager,1000+,Poland,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1003,2026-09-11,LinkedIn Ads,LI_Retarget,Ebook: Scaling IT teams,Developer,11-50,Unknown,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1122,2026-09-11,LinkedIn Ads,LI_Retarget,Pricing page,CEO,51-200,US,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1198,2026-09-11,LinkedIn Ads,LI_AI_Delivery_Q2,Webinar: AI in delivery,Developer,201-1000,DACH,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1389,2026-09-11,LinkedIn Ads,LI_Retarget,Pricing page,Head of Product,51-200,DACH,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1667,2026-09-11,Google Ads,GA_Brand,Case study: SaaS migration,CTO,11-50,Benelux,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1021,2026-09-12,LinkedIn Ads,LI_ScaleUp_CTO,Ebook: Scaling IT teams,Marketing Manager,1000+,Poland,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1240,2026-09-12,LinkedIn Ads,LI_Retarget,Webinar: AI in delivery,Developer,11-50,Poland,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1405,2026-09-12,LinkedIn Ads,LI_AI_Delivery_Q2,Blog: Outsourcing checklist,CTO,51-200,Poland,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1463,2026-09-12,Google Ads,GA_Ruby_Dev,Pricing page,Developer,201-1000,US,Lead,,2026-09,0,0,0,0,0.0,0.0
+L1562,2026-09-12,Google Ads,GA_Ruby_Dev,Pricing page,Procurement,11-50,US,MQL,,2026-09,1,0,0,0,0.0,0.0
+L1750,2026-09-12,Organic Search,(none),Case study: SaaS migration,Developer,51-200,DACH,Lead,,2026-09,0,0,0,0,0.0,0.0
+L2124,2026-09-12,Outbound Email,(none),Case study: fintech team scale-up,Engineering Manager,201-1000,US,Lead,,2026-09,0,0,0,0,0.0,0.0

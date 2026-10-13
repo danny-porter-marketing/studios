@@ -1,0 +1,43 @@
+{
+  "fintech": [
+    "fintech"
+  ],
+  "healthtech": [
+    "healthtech",
+    "fhir"
+  ],
+  "ai and llm": [
+    "llm",
+    "ai integration"
+  ],
+  "onboarding": [
+    "onboard",
+    "onboarding"
+  ],
+  "team extension": [
+    "team extension",
+    "staff augmentation",
+    "dedicated development team",
+    "nearshore",
+    "hire kotlin",
+    "kotlin development"
+  ],
+  "stack services": [
+    "react native",
+    "postgresql",
+    "kubernetes"
+  ],
+  "scaling engineering": [
+    "scale engineering",
+    "hiring senior developer"
+  ],
+  "outsourcing head terms": [
+    "outsourcing"
+  ],
+  "software house": [
+    "software house",
+    "software development company",
+    "choose a software house",
+    "questions to ask"
+  ]
+}

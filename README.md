@@ -106,7 +106,7 @@ messaging-guidelines/        Positioning, proof points, 6 personas, 6 voices,
 lineage/                     Three creative director perspectives for Pro Mode.
 craft-guidelines/            8 asset types, each with its own structure.
 prompt-library/              Copy-paste brief templates for every mode.
-.claude/skills/              13 reusable workflows (see below).
+.claude/skills/              14 reusable workflows (see below).
 .claude/agents/              5 review agents: router plus 4 auditors.
 abm/  accounts/              Account-based marketing: ICP scoring, tiers, entry plays.
 funnel/  scoring/            Funnel stages, MQL definition, lead scoring, intent signals.
@@ -133,6 +133,8 @@ audience-insights   Replies and call notes in, counted themes and hypotheses out
 campaign-plan       Priority in, plan with tiers, assets, tests, calendar, forecast
 campaign-pack       One brief in, every channel's assets from one message house
 outbound-export     Approved sequences in, validated Instantly and HeyReach imports
+seo-analysis        Semrush / GA4 exports in, quick wins, content gaps, cannibalisation,
+                    page and channel performance out
 ```
 
 ---

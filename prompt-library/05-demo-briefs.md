@@ -161,3 +161,25 @@ Use the campaign-plan skill for P2 in priorities.md (lower cost per SQL on paid)
 ```
 Use the outbound-export skill on campaigns/2026-10-scaleup-ctos/ with its contacts.csv.
 ```
+
+---
+
+# SEO and web analytics
+
+## 12 · Keyword analysis
+
+**What it shows:** a Semrush export cleaned, filtered for the right audience, scored and bucketed in code, with cannibalisation found and an action plan.
+
+```
+Use the seo-analysis skill on .claude/skills/seo-analysis/examples/semrush_keywords.csv.
+Our brand is corvane. Which keywords should we target first, and why?
+```
+
+## 13 · GA4 analysis, joined to keywords
+
+**What it shows:** junk traffic and a tracking break caught, traffic separated from conversion, and the two datasets joined into one plan.
+
+```
+Use the seo-analysis skill on .claude/skills/seo-analysis/examples/ga4_landing_pages.csv,
+then combine it with the keyword analysis into a 5-action SEO plan.
+```

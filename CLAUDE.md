@@ -131,6 +131,7 @@ prompt-library/                   Brief templates and mode instructions.
     campaign-plan/                Priority in, plan with tiers, assets, tests, calendar and forecast out.
     campaign-pack/                One brief in, every channel's assets from one message house out.
     outbound-export/              Approved sequences in, validated Instantly and HeyReach imports out.
+    seo-analysis/                 Semrush / GA4 exports in, quick wins, content gaps and page performance out.
   agents/                         Layer 8. Read-only review agents.
     router.md
     brand-auditor.md
@@ -310,6 +311,7 @@ Skills live in `.claude/skills/<name>/SKILL.md` and load when a request matches 
 - `sheets-dashboard`: turns pasted data into a cleaned, formula-driven Google Sheets dashboard and HTML report
 - `experiment-design`, `experiment-readout`, `audience-insights`: the optimisation loop (see below)
 - `campaign-plan`, `campaign-pack`, `outbound-export`: plan, scale and distribute (see below)
+- `seo-analysis`: keyword exports and GA4 data analysed in code, ending in an SEO action plan
 
 ---
 

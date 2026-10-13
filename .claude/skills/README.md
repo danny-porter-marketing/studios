@@ -17,5 +17,6 @@ Reusable workflows Claude Code loads when a request matches. Each skill is a fol
 | campaign-plan | Priority in, plan with tiers, assets, embedded tests, calendar, and capacity and forecast in code out |
 | campaign-pack | One brief in, a message house and every channel's audited assets out, with a consistency check |
 | outbound-export | Approved per-account sequences in, validated Instantly and HeyReach import files out, always paused |
+| seo-analysis | Semrush, Ahrefs, Search Console or GA4 exports in, filtered and scored keywords, cannibalisation, page and channel performance, SEO action plan out |
 
 To add a skill: create `.claude/skills/<name>/SKILL.md` with `name` and `description` in the frontmatter. The description decides when it loads, so say what it does and when to use it.

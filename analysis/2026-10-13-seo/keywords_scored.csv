@@ -1,0 +1,36 @@
+keyword,intent,position,volume,difficulty,cpc,url,kd_missing,clicks_now,clicks_at_target,extra_clicks,opportunity,bucket,opportunity_if_won,cluster
+dedicated development team,commercial,9.0,2400,55.0,19.8,/services/team-extension,False,60.0,264.0,204.0,1817.6399999999999,Quick win,1817.6399999999999,team extension
+fintech software development company,commercial,17.0,1300,46.0,24.1,/industries/fintech,False,13.0,143.0,130.0,1691.8200000000002,Quick win,1691.8200000000002,fintech
+team extension,commercial,12.0,1900,39.0,14.3,/blog/team-extension-vs-outsourcing,False,19.0,209.0,190.0,1657.37,Quick win,1657.37,team extension
+software house poland,commercial,14.0,1600,48.0,15.9,/,False,16.0,176.0,160.0,1322.88,Quick win,1322.88,software house
+nearshore software development poland,commercial,11.0,720,41.0,22.4,/services/team-extension,False,7.2,79.2,72.0,951.5520000000001,Quick win,951.5520000000001,team extension
+healthtech software development,commercial,,720,44.0,21.3,,False,0.0,79.2,79.2,944.6976000000001,Later,944.6976000000001,healthtech
+team extension services,commercial,8.0,880,34.0,18.5,/services/team-extension,False,26.4,96.8,70.4,859.584,Quick win,859.584,team extension
+software house krakow,commercial,3.0,590,26.0,11.2,/,False,64.9,165.20000000000002,100.30000000000001,831.2864000000001,Defend,831.2864000000001,software house
+llm evaluation metrics,informational,,1600,29.0,6.3,,False,0.0,176.0,176.0,787.2479999999999,Content gap,787.2479999999999,ai and llm
+llm integration services,commercial,13.0,480,31.0,21.7,/services/ai-integration,False,4.8,52.8,48.0,718.7039999999998,Quick win,718.7039999999998,ai and llm
+team extension company,commercial,16.0,590,37.0,17.9,/blog/team-extension-vs-outsourcing,False,5.9,64.9,59.00000000000001,665.3430000000001,Quick win,665.3430000000001,team extension
+llm evaluation framework,informational,,880,24.0,7.9,,False,0.0,96.8,96.8,581.1872000000001,Content gap,581.1872000000001,ai and llm
+hire kotlin developers,transactional,19.0,720,47.0,15.1,/services/team-extension,False,7.2,79.2,72.0,576.216,Quick win,576.216,team extension
+kotlin development company,commercial,12.0,390,27.0,16.2,/services/team-extension,False,3.9,42.9,39.0,461.21399999999994,Quick win,461.21399999999994,team extension
+postgresql consulting,commercial,,320,35.0,17.5,,False,0.0,35.2,35.2,400.40000000000003,Content gap,400.40000000000003,stack services
+team extension model,informational,15.0,720,33.0,8.1,/services/team-extension,False,7.2,79.2,72.0,390.7439999999999,Quick win,390.7439999999999,team extension
+what is team extension,informational,10.0,880,22.0,6.4,/blog/team-extension-vs-outsourcing,False,19.36,96.8,77.44,386.58048,Quick win,386.58048,team extension
+developer onboarding checklist,informational,,1300,21.0,3.4,,False,0.0,143.0,143.0,384.098,Content gap,384.098,onboarding
+nearshore vs offshore,informational,24.0,1000,31.0,5.2,/blog/team-extension-vs-outsourcing,False,3.0,110.0,107.0,383.91599999999994,Later,383.91599999999994,team extension
+fhir integration services,commercial,,170,25.0,26.4,,False,0.0,18.7,18.7,370.26,Content gap,370.26,healthtech
+react native development agency,commercial,,390,42.0,14.0,,False,0.0,42.9,42.9,348.34800000000007,Later,348.34800000000007,stack services
+how to choose a software house,informational,,590,22.0,6.7,,False,0.0,64.9,64.9,339.16740000000004,Content gap,339.16740000000004,software house
+kubernetes consulting europe,commercial,,260,39.0,19.2,,False,0.0,28.6,28.6,334.9632,Later,334.9632,stack services
+ai integration consultants,commercial,22.0,210,28.0,18.9,/services/ai-integration,False,0.63,23.1,22.470000000000002,305.77176,Later,305.77176,ai and llm
+how to onboard contractors,informational,,1000,18.0,3.1,,False,0.0,110.0,110.0,279.62,Content gap,279.62,onboarding
+questions to ask a software development company,informational,,480,17.0,5.9,,False,0.0,52.8,52.8,258.5616,Content gap,258.5616,software house
+staff augmentation vs outsourcing,informational,6.0,590,29.0,9.4,/blog/team-extension-vs-outsourcing,False,26.55,64.9,38.35000000000001,255.94790000000003,Quick win,255.94790000000003,team extension
+team extension vs staff augmentation,informational,2.0,260,20.0,7.5,/blog/team-extension-vs-outsourcing,False,39.0,72.80000000000001,33.80000000000001,202.80000000000007,Defend,202.80000000000007,team extension
+cost of hiring senior developer europe,informational,,390,23.0,5.6,,False,0.0,42.9,42.9,184.98479999999998,Content gap,184.98479999999998,scaling engineering
+how to scale engineering team fast,informational,,480,19.0,4.1,,False,0.0,52.8,52.8,175.34879999999998,Content gap,175.34879999999998,scaling engineering
+contractor onboarding checklist,informational,,590,14.0,2.8,,False,0.0,64.9,64.9,156.2792,Content gap,156.2792,onboarding
+how to evaluate llm features,informational,,320,16.0,5.2,,False,0.0,35.2,35.2,153.7536,Content gap,153.7536,ai and llm
+it outsourcing,commercial,,18100,81.0,19.8,,False,0.0,1991.0,1991.0,0.0,Long shot,7490.141999999998,outsourcing head terms
+software development company,commercial,,22200,78.0,28.5,,False,0.0,2442.0,2442.0,0.0,Long shot,15311.339999999998,software house
+software outsourcing,commercial,,14800,74.0,25.1,,False,0.0,1628.0,1628.0,0.0,Long shot,10624.328000000001,outsourcing head terms

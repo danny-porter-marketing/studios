@@ -1,0 +1,11 @@
+keyword,intent,position,volume,difficulty,cpc,url,kd_missing,reason
+corvane software house,navigational,1.0,70,10.0,0.0,/,False,brand
+corvane reviews,navigational,2.0,90,8.0,0.0,/about,False,brand
+corvane careers,navigational,3.0,110,5.0,0.0,/careers,False,brand
+corvane,navigational,1.0,320,12.0,0.0,/,False,brand
+software developer jobs krakow,transactional,,4400,35.0,1.2,,False,off-target audience
+hire freelance developer,transactional,,3600,61.0,4.8,,False,off-target audience
+cheap web developer,commercial,,2400,50.0,2.1,,True,off-target audience
+wordpress developer for hire,transactional,,1900,44.0,3.2,,False,off-target audience
+remote developer jobs europe,transactional,,6600,52.0,1.1,,False,off-target audience
+java developer jobs poland,transactional,,2900,38.0,1.5,,False,off-target audience

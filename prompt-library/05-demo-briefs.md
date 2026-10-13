@@ -132,3 +132,32 @@ Use the audience-insights skill on experiments/data/insights-2026-10-replies.csv
 Run prompt-library/06-weekly-optimisation.md. Use the practice leads and spend
 CSVs as last week's data.
 ```
+
+---
+
+# Plan, scale, distribute
+
+## 9 · Campaign pack (one brief, every channel)
+
+**What it shows:** scale across channels. One message house, then a landing page, sequence template, ad set, LinkedIn post and one-pager, each audited, with a consistency check across the pack.
+
+```
+Use the campaign-pack skill for the campaign in campaigns/2026-q4-fintech-ctos/plan.md.
+Save it to campaigns/2026-q4-fintech-ctos/.
+```
+
+## 10 · Plan a campaign
+
+**What it shows:** a priority becomes a plan with tiers, assets, embedded experiments, a calendar, and a forecast calculated in code with a pessimistic case.
+
+```
+Use the campaign-plan skill for P2 in priorities.md (lower cost per SQL on paid).
+```
+
+## 11 · Export to the sending tools
+
+**What it shows:** approved copy goes into Instantly and HeyReach as custom variables, validated first. The second contact in the file is blocked on purpose: there's no approved sequence for it.
+
+```
+Use the outbound-export skill on campaigns/2026-10-scaleup-ctos/ with its contacts.csv.
+```

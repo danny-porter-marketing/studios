@@ -128,6 +128,9 @@ prompt-library/                   Brief templates and mode instructions.
     experiment-design/            Priority in, sized test with audited variants out.
     experiment-readout/           Results in, verdict and rule-change pull request out.
     audience-insights/            Replies and call notes in, counted themes and hypotheses out.
+    campaign-plan/                Priority in, plan with tiers, assets, tests, calendar and forecast out.
+    campaign-pack/                One brief in, every channel's assets from one message house out.
+    outbound-export/              Approved sequences in, validated Instantly and HeyReach imports out.
   agents/                         Layer 8. Read-only review agents.
     router.md
     brand-auditor.md
@@ -140,6 +143,7 @@ funnel/                           Funnel stages, MQL definition, sales handoff.
 scoring/                          Lead scoring model and intent signals.
 revops/                           Attribution, CRM conventions, reporting.
 campaigns/                        Live campaign folders and finished outputs.
+  calendar.md                     What launches when, across all campaigns.
 tools/                            Turns approved copy into usable files.
   html-landing-page/
 ```
@@ -305,6 +309,24 @@ Skills live in `.claude/skills/<name>/SKILL.md` and load when a request matches 
 - `account-research`: builds an account file in `accounts/` from public signals
 - `sheets-dashboard`: turns pasted data into a cleaned, formula-driven Google Sheets dashboard and HTML report
 - `experiment-design`, `experiment-readout`, `audience-insights`: the optimisation loop (see below)
+- `campaign-plan`, `campaign-pack`, `outbound-export`: plan, scale and distribute (see below)
+
+---
+
+## Plan, personalise, scale
+
+```
+PLAN          priorities.md -> campaign-plan -> plan.md + calendar.md (forecast and capacity in code)
+CREATE        layer stack + skills -> audited assets
+PERSONALISE   segment (industries/) -> persona (personas/, voices/) -> account (accounts/) -> individual
+SCALE         campaign-pack (one brief, every channel) + batch (one play, many accounts)
+DISTRIBUTE    outbound-export -> Instantly / HeyReach, always paused, a person launches
+OPTIMISE      experiments -> readout -> rule changes -> better assets next time
+```
+
+- Personalisation depth follows account value: Tier 1 gets 1:1, Tier 2 industry and persona, Tier 3 persona.
+- Scale is only safe because every asset passes the four-pillar audit and approved proof points are the only numbers allowed.
+- Nothing is ever sent or launched automatically.
 
 ---
 

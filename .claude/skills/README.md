@@ -14,5 +14,8 @@ Reusable workflows Claude Code loads when a request matches. Each skill is a fol
 | experiment-design | Priority in, sized A/B test with audited, one-variable variants out |
 | experiment-readout | Results in, statistics in code, verdict, and a rule-change pull request out |
 | audience-insights | Replies and call notes in, counted themes, use-cases.md updates and new hypotheses out |
+| campaign-plan | Priority in, plan with tiers, assets, embedded tests, calendar, and capacity and forecast in code out |
+| campaign-pack | One brief in, a message house and every channel's audited assets out, with a consistency check |
+| outbound-export | Approved per-account sequences in, validated Instantly and HeyReach import files out, always paused |
 
 To add a skill: create `.claude/skills/<name>/SKILL.md` with `name` and `description` in the frontmatter. The description decides when it loads, so say what it does and when to use it.

@@ -29,6 +29,21 @@ What it changed when it ran in production:
 
 ---
 
+## Plan, personalise, scale
+
+```
+PLAN          priorities -> campaign-plan -> plan + calendar, with capacity and forecast in code
+CREATE        8-layer stack + skills -> audited assets
+PERSONALISE   segment -> persona -> account -> individual, depth matched to account tier
+SCALE         campaign-pack: one brief, every channel | batch: one play, many accounts
+DISTRIBUTE    outbound-export -> Instantly / HeyReach as custom variables, paused, a person launches
+OPTIMISE      experiments -> readout -> rule changes by pull request
+```
+
+See `campaigns/2026-q4-fintech-ctos/plan.md` for a worked quarter plan, including a forecast that misses in the pessimistic case and the levers that close the gap.
+
+---
+
 ## It learns, not just produces
 
 Every campaign can run as an experiment, and every finished experiment can change the system.
@@ -91,7 +106,7 @@ messaging-guidelines/        Positioning, proof points, 6 personas, 6 voices,
 lineage/                     Three creative director perspectives for Pro Mode.
 craft-guidelines/            8 asset types, each with its own structure.
 prompt-library/              Copy-paste brief templates for every mode.
-.claude/skills/              10 reusable workflows (see below).
+.claude/skills/              13 reusable workflows (see below).
 .claude/agents/              5 review agents: router plus 4 auditors.
 abm/  accounts/              Account-based marketing: ICP scoring, tiers, entry plays.
 funnel/  scoring/            Funnel stages, MQL definition, lead scoring, intent signals.
@@ -115,6 +130,9 @@ sheets-dashboard    Pasted data in, cleaned Google Sheets dashboard and HTML
 experiment-design   Priority in, sized A/B test with audited variants out
 experiment-readout  Results in, verdict and rule-change pull request out
 audience-insights   Replies and call notes in, counted themes and hypotheses out
+campaign-plan       Priority in, plan with tiers, assets, tests, calendar, forecast
+campaign-pack       One brief in, every channel's assets from one message house
+outbound-export     Approved sequences in, validated Instantly and HeyReach imports
 ```
 
 ---

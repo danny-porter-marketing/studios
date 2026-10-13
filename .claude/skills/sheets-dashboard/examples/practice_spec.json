@@ -1,0 +1,101 @@
+{
+  "title": "Lead and pipeline performance, Jan to Sep 2026",
+  "clean_csv": "clean.csv",
+  "raw_csv": "raw.csv",
+  "extra_tables": [
+    {"name": "Spend by channel", "csv": "spend_by_channel.csv"},
+    {"name": "Spend by campaign", "csv": "spend_by_campaign.csv"}
+  ],
+  "kpis": [
+    {"label": "Leads", "agg": "count"},
+    {"label": "MQLs", "agg": "sum", "column": "is_mql"},
+    {"label": "SQLs", "agg": "sum", "column": "is_sql"},
+    {"label": "Deals won", "agg": "sum", "column": "is_won"},
+    {"label": "Spend", "agg": "sum_table", "table": "Spend by channel", "column": "spend_eur", "format": "eur"},
+    {"label": "Won revenue", "agg": "sum", "column": "won_value_eur", "format": "eur"},
+    {"label": "Cost per SQL", "ratio": ["Spend", "SQLs"], "format": "eur"},
+    {"label": "Lead to SQL", "ratio": ["SQLs", "Leads"], "format": "pct"}
+  ],
+  "breakdowns": [
+    {
+      "title": "By channel",
+      "group_by": "channel",
+      "sort_by": "Leads",
+      "metrics": [
+        {"label": "Leads", "agg": "count"},
+        {"label": "MQLs", "agg": "sum", "column": "is_mql"},
+        {"label": "SQLs", "agg": "sum", "column": "is_sql"},
+        {"label": "Won", "agg": "sum", "column": "is_won"},
+        {"label": "Spend", "agg": "lookup", "table": "Spend by channel", "key": "channel", "column": "spend_eur", "format": "eur"},
+        {"label": "Won revenue", "agg": "sum", "column": "won_value_eur", "format": "eur"},
+        {"label": "SQL rate", "ratio": ["SQLs", "Leads"], "format": "pct", "highlight": "high_good"},
+        {"label": "Cost per SQL", "ratio": ["Spend", "SQLs"], "format": "eur", "highlight": "low_good"}
+      ],
+      "chart": {"metric": "Cost per SQL"}
+    },
+    {
+      "title": "By paid campaign",
+      "group_by": "campaign",
+      "sort_by": "Leads",
+      "exclude": ["(none)"],
+      "metrics": [
+        {"label": "Leads", "agg": "count"},
+        {"label": "SQLs", "agg": "sum", "column": "is_sql"},
+        {"label": "Won", "agg": "sum", "column": "is_won"},
+        {"label": "Spend", "agg": "lookup", "table": "Spend by campaign", "key": "campaign", "column": "spend_eur", "format": "eur"},
+        {"label": "Cost per SQL", "ratio": ["Spend", "SQLs"], "format": "eur", "highlight": "low_good"}
+      ],
+      "chart": {"metric": "SQLs"}
+    },
+    {
+      "title": "By first content asset",
+      "group_by": "first_asset",
+      "sort_by": "Leads",
+      "metrics": [
+        {"label": "Leads", "agg": "count"},
+        {"label": "SQLs", "agg": "sum", "column": "is_sql"},
+        {"label": "SQL rate", "ratio": ["SQLs", "Leads"], "format": "pct", "highlight": "high_good"}
+      ],
+      "chart": {"metric": "SQL rate"}
+    },
+    {
+      "title": "By job title",
+      "group_by": "job_title",
+      "sort_by": "Leads",
+      "metrics": [
+        {"label": "Leads", "agg": "count"},
+        {"label": "SQLs", "agg": "sum", "column": "is_sql"},
+        {"label": "SQL rate", "ratio": ["SQLs", "Leads"], "format": "pct", "highlight": "high_good"}
+      ],
+      "chart": {"metric": "SQL rate"}
+    }
+  ],
+  "notes": {
+    "findings": [
+      "LinkedIn brings the most leads and has the highest cost per SQL.",
+      "LI_AI_Delivery_Q2 spent €41k for 151 leads and zero SQLs.",
+      "Partner referrals are 6% of leads but about a third of SQLs and most won deals.",
+      "Case studies convert to SQL at 14 to 16%. Blogs and the AI webinar convert at under 4%.",
+      "CTOs and VPs of Engineering convert best. Developers and marketing managers barely convert."
+    ],
+    "cleaning": [
+      "Removed 12 exact duplicate rows (1,412 to 1,400).",
+      "Mapped 18 source spellings to 6 channels.",
+      "Standardised two date formats (ISO and DD/MM/YYYY) to ISO.",
+      "Converted 5 deal values stored as text (e.g. '€56,500') to numbers.",
+      "Set 58 blank regions to 'Unknown' and standardised job-title casing.",
+      "Added 1/0 flags for MQL, SQL and won so every metric is a simple SUMIFS."
+    ],
+    "caveats": [
+      "Won-deal counts are small outside partners (3 to 5 per channel), so revenue figures are directional.",
+      "first_asset is first touch only. It says nothing about what moved the deal later.",
+      "Leads from August and September haven't had time to close yet.",
+      "Spend is a Jan to Sep total, so there's no monthly view of efficiency."
+    ],
+    "next_steps": [
+      "Pause LI_AI_Delivery_Q2 and move the budget into partners and CTO-targeted case study campaigns.",
+      "Make case studies the default offer in paid and retargeting.",
+      "Report on SQLs and cost per SQL instead of MQLs."
+    ]
+  }
+}

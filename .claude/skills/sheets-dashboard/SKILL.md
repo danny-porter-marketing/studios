@@ -88,10 +88,18 @@ Use the first option that works:
 
 After upload, read the sheet back (Drive `read_file_content`) and spot-check two numbers against step 5.
 
-## 9. Report back
+## 9. Build the HTML report
+
+```bash
+python <skill>/scripts/build_report.py spec.json report.html --sheet-url "<sheet url from step 8>"
+```
+
+A presentable, self-contained page from the same spec and data: headline tiles, the findings, a chart and table per breakdown, and the notes (next steps, caveats, cleaning). Every number is calculated with pandas, independently of the Sheet's formulas, so check the report's KPI tiles match the Sheet's Dashboard tab. Add `"question"` and `"subtitle"` to the spec for the header. Save it next to the dashboard and send it to the operator as a file.
+
+## 10. Report back
 
 Reply with:
-- the sheet link
+- the sheet link and the HTML report
 - the 3 findings that matter most, each with its number
 - the biggest caveat
 - one automation that would make this run on a schedule (e.g. weekly pull from HubSpot, rebuild the dashboard, post a Slack alert for any campaign with spend and zero SQLs in 30 days)

@@ -3,18 +3,64 @@
   "clean_csv": "clean.csv",
   "raw_csv": "raw.csv",
   "extra_tables": [
-    {"name": "Spend by channel", "csv": "spend_by_channel.csv"},
-    {"name": "Spend by campaign", "csv": "spend_by_campaign.csv"}
+    {
+      "name": "Spend by channel",
+      "csv": "spend_by_channel.csv"
+    },
+    {
+      "name": "Spend by campaign",
+      "csv": "spend_by_campaign.csv"
+    }
   ],
   "kpis": [
-    {"label": "Leads", "agg": "count"},
-    {"label": "MQLs", "agg": "sum", "column": "is_mql"},
-    {"label": "SQLs", "agg": "sum", "column": "is_sql"},
-    {"label": "Deals won", "agg": "sum", "column": "is_won"},
-    {"label": "Spend", "agg": "sum_table", "table": "Spend by channel", "column": "spend_eur", "format": "eur"},
-    {"label": "Won revenue", "agg": "sum", "column": "won_value_eur", "format": "eur"},
-    {"label": "Cost per SQL", "ratio": ["Spend", "SQLs"], "format": "eur"},
-    {"label": "Lead to SQL", "ratio": ["SQLs", "Leads"], "format": "pct"}
+    {
+      "label": "Leads",
+      "agg": "count"
+    },
+    {
+      "label": "MQLs",
+      "agg": "sum",
+      "column": "is_mql"
+    },
+    {
+      "label": "SQLs",
+      "agg": "sum",
+      "column": "is_sql"
+    },
+    {
+      "label": "Deals won",
+      "agg": "sum",
+      "column": "is_won"
+    },
+    {
+      "label": "Spend",
+      "agg": "sum_table",
+      "table": "Spend by channel",
+      "column": "spend_eur",
+      "format": "eur"
+    },
+    {
+      "label": "Won revenue",
+      "agg": "sum",
+      "column": "won_value_eur",
+      "format": "eur"
+    },
+    {
+      "label": "Cost per SQL",
+      "ratio": [
+        "Spend",
+        "SQLs"
+      ],
+      "format": "eur"
+    },
+    {
+      "label": "Lead to SQL",
+      "ratio": [
+        "SQLs",
+        "Leads"
+      ],
+      "format": "pct"
+    }
   ],
   "breakdowns": [
     {
@@ -22,52 +68,161 @@
       "group_by": "channel",
       "sort_by": "Leads",
       "metrics": [
-        {"label": "Leads", "agg": "count"},
-        {"label": "MQLs", "agg": "sum", "column": "is_mql"},
-        {"label": "SQLs", "agg": "sum", "column": "is_sql"},
-        {"label": "Won", "agg": "sum", "column": "is_won"},
-        {"label": "Spend", "agg": "lookup", "table": "Spend by channel", "key": "channel", "column": "spend_eur", "format": "eur"},
-        {"label": "Won revenue", "agg": "sum", "column": "won_value_eur", "format": "eur"},
-        {"label": "SQL rate", "ratio": ["SQLs", "Leads"], "format": "pct", "highlight": "high_good"},
-        {"label": "Cost per SQL", "ratio": ["Spend", "SQLs"], "format": "eur", "highlight": "low_good"}
+        {
+          "label": "Leads",
+          "agg": "count"
+        },
+        {
+          "label": "MQLs",
+          "agg": "sum",
+          "column": "is_mql"
+        },
+        {
+          "label": "SQLs",
+          "agg": "sum",
+          "column": "is_sql"
+        },
+        {
+          "label": "Won",
+          "agg": "sum",
+          "column": "is_won"
+        },
+        {
+          "label": "Spend",
+          "agg": "lookup",
+          "table": "Spend by channel",
+          "key": "channel",
+          "column": "spend_eur",
+          "format": "eur"
+        },
+        {
+          "label": "Won revenue",
+          "agg": "sum",
+          "column": "won_value_eur",
+          "format": "eur"
+        },
+        {
+          "label": "SQL rate",
+          "ratio": [
+            "SQLs",
+            "Leads"
+          ],
+          "format": "pct",
+          "highlight": "high_good"
+        },
+        {
+          "label": "Cost per SQL",
+          "ratio": [
+            "Spend",
+            "SQLs"
+          ],
+          "format": "eur",
+          "highlight": "low_good"
+        }
       ],
-      "chart": {"metric": "Cost per SQL"}
+      "chart": {
+        "metric": "Cost per SQL"
+      }
     },
     {
       "title": "By paid campaign",
       "group_by": "campaign",
       "sort_by": "Leads",
-      "exclude": ["(none)"],
-      "metrics": [
-        {"label": "Leads", "agg": "count"},
-        {"label": "SQLs", "agg": "sum", "column": "is_sql"},
-        {"label": "Won", "agg": "sum", "column": "is_won"},
-        {"label": "Spend", "agg": "lookup", "table": "Spend by campaign", "key": "campaign", "column": "spend_eur", "format": "eur"},
-        {"label": "Cost per SQL", "ratio": ["Spend", "SQLs"], "format": "eur", "highlight": "low_good"}
+      "exclude": [
+        "(none)"
       ],
-      "chart": {"metric": "SQLs"}
+      "metrics": [
+        {
+          "label": "Leads",
+          "agg": "count"
+        },
+        {
+          "label": "SQLs",
+          "agg": "sum",
+          "column": "is_sql"
+        },
+        {
+          "label": "Won",
+          "agg": "sum",
+          "column": "is_won"
+        },
+        {
+          "label": "Spend",
+          "agg": "lookup",
+          "table": "Spend by campaign",
+          "key": "campaign",
+          "column": "spend_eur",
+          "format": "eur"
+        },
+        {
+          "label": "Cost per SQL",
+          "ratio": [
+            "Spend",
+            "SQLs"
+          ],
+          "format": "eur",
+          "highlight": "low_good"
+        }
+      ],
+      "chart": {
+        "metric": "SQLs"
+      }
     },
     {
       "title": "By first content asset",
       "group_by": "first_asset",
       "sort_by": "Leads",
       "metrics": [
-        {"label": "Leads", "agg": "count"},
-        {"label": "SQLs", "agg": "sum", "column": "is_sql"},
-        {"label": "SQL rate", "ratio": ["SQLs", "Leads"], "format": "pct", "highlight": "high_good"}
+        {
+          "label": "Leads",
+          "agg": "count"
+        },
+        {
+          "label": "SQLs",
+          "agg": "sum",
+          "column": "is_sql"
+        },
+        {
+          "label": "SQL rate",
+          "ratio": [
+            "SQLs",
+            "Leads"
+          ],
+          "format": "pct",
+          "highlight": "high_good"
+        }
       ],
-      "chart": {"metric": "SQL rate"}
+      "chart": {
+        "metric": "SQL rate"
+      }
     },
     {
       "title": "By job title",
       "group_by": "job_title",
       "sort_by": "Leads",
       "metrics": [
-        {"label": "Leads", "agg": "count"},
-        {"label": "SQLs", "agg": "sum", "column": "is_sql"},
-        {"label": "SQL rate", "ratio": ["SQLs", "Leads"], "format": "pct", "highlight": "high_good"}
+        {
+          "label": "Leads",
+          "agg": "count"
+        },
+        {
+          "label": "SQLs",
+          "agg": "sum",
+          "column": "is_sql"
+        },
+        {
+          "label": "SQL rate",
+          "ratio": [
+            "SQLs",
+            "Leads"
+          ],
+          "format": "pct",
+          "highlight": "high_good"
+        }
       ],
-      "chart": {"metric": "SQL rate"}
+      "chart": {
+        "metric": "SQL rate"
+      }
     }
   ],
   "notes": {
@@ -97,5 +252,6 @@
       "Make case studies the default offer in paid and retargeting.",
       "Report on SQLs and cost per SQL instead of MQLs."
     ]
-  }
+  },
+  "question": "Which channels and content actually produce pipeline?"
 }

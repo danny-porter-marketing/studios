@@ -37,7 +37,7 @@ Payhawk committed publicly on 2026-09-30 to launch SEK accounts and cards in Q4 
 ## Buying group
 | Name | Title | Role in deal | LinkedIn | Last touch | Status |
 |---|---|---|---|---|---|
-| Boyko Karadzhov | Co-founder and CTO | Decision maker, first thread | not checked | none | Not contacted |
+| Boyko Karadzhov | Co-founder and CTO | Decision maker, first thread | not checked | none | Sequence drafted |
 | Elena Kiranova | Director of Engineering, Spend Management | Evaluator, domain owner (cards and accounts likely here, unverified) | not checked | none | Not contacted |
 | Diyan Bogdanov | Director of Engineering, Expense Automation | Evaluator, second domain thread | not checked | none | Not contacted |
 | Hristo Borisov | Co-founder and CEO | Economic sponsor, not first contact (company is well over 150 people) | not checked | none | Not contacted |
@@ -58,6 +58,7 @@ Sources: Karadzhov [S17, S19, S20]; Kiranova [S16]; Bogdanov [S21]; Borisov [S22
 
 ## Activity log
 - 2026-10-13: Account file created from public sources. Scored 58, Tier 2, Play 4.
+- 2026-10-13: Outbound sequence for Boyko Karadzhov drafted (campaigns/2026-10-scaleup-ctos/outbound/payhawk.md), audit 92. Not sent.
 
 ## To verify
 - Whether the Senior Software Engineer role (req 4000039101) has been open 90+ days. If yes, Intent rises by 8 and the score to 66 (still Tier 2).

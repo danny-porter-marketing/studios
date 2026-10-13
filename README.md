@@ -29,6 +29,27 @@ What it changed when it ran in production:
 
 ---
 
+## It learns, not just produces
+
+Every campaign can run as an experiment, and every finished experiment can change the system.
+
+```
+priorities.md -> backlog -> experiment-design -> paused campaign -> person launches
+      ^                                                                  |
+      +-- rule files updated by pull request <- experiment-readout <-----+
+```
+
+- **Tied to business priorities.** Tests are ranked against this quarter's priorities, so nothing is tested for the sake of it.
+- **One variable, audited variants.** Both variants pass the same four-pillar audit and differ in one thing only, so a result means something.
+- **Statistics in code.** Sample size before launch; readout with probability, intervals, sample-ratio and segment checks. No calling tests early.
+- **Learnings become rules through pull requests.** A winning test opens a PR that updates the persona, messaging or craft file it proved, citing the experiment. A person merges it, and every future asset uses it. Git history shows why each rule exists.
+- **Qualitative too.** Replies and call notes are coded into counted themes that feed the backlog.
+- **Weekly heartbeat.** A Monday routine checks priorities, flags waste, reads out finished tests and proposes the next ones.
+
+See `experiments/EXP-001-hop-roadmap-vs-ai.md` for a test that shipped and changed a rule, and `EXP-002` for one waiting to be read out.
+
+---
+
 ## How it works
 
 Every asset composes through the same eight layers. Higher layers win on conflict.
@@ -70,12 +91,13 @@ messaging-guidelines/        Positioning, proof points, 6 personas, 6 voices,
 lineage/                     Three creative director perspectives for Pro Mode.
 craft-guidelines/            8 asset types, each with its own structure.
 prompt-library/              Copy-paste brief templates for every mode.
-.claude/skills/              7 reusable workflows (see below).
+.claude/skills/              10 reusable workflows (see below).
 .claude/agents/              5 review agents: router plus 4 auditors.
 abm/  accounts/              Account-based marketing: ICP scoring, tiers, entry plays.
 funnel/  scoring/            Funnel stages, MQL definition, lead scoring, intent signals.
 revops/                      Attribution model, CRM conventions, reporting framework.
 campaigns/                   Channel strategy and a worked example campaign.
+priorities.md  experiments/  Quarterly priorities, A/B tests, backlog and results.
 tools/                       Turns approved copy into an HTML landing page.
 ```
 
@@ -88,8 +110,11 @@ linkedin-post       Posts in the CEO's or CTO's voice
 case-study          Client stories built from approved proof only
 copy-editing        Strips AI writing patterns, rewrites in the brand voice
 account-research    Builds an account file from public buying signals
-sheets-dashboard    Pasted data in, cleaned Google Sheets dashboard out,
-                    every number a live formula
+sheets-dashboard    Pasted data in, cleaned Google Sheets dashboard and HTML
+                    report out, every number a live formula
+experiment-design   Priority in, sized A/B test with audited variants out
+experiment-readout  Results in, verdict and rule-change pull request out
+audience-insights   Replies and call notes in, counted themes and hypotheses out
 ```
 
 ---

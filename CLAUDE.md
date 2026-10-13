@@ -66,6 +66,8 @@ Layers 1 and 2 load on every run. Read `brand-guidelines/BRAND.md` and `messagin
 CLAUDE.md                         You are here. Read first, every time.
 README.md                         Human overview of the system.
 use-cases.md                      Living knowledge base. Read before every brief.
+priorities.md                     This quarter's business priorities. Read before any test or campaign.
+experiments/                      One file per A/B test, a ranked backlog, and raw results in data/.
 
 brand-guidelines/
   BRAND.md                        Layer 1. Always load.
@@ -112,7 +114,8 @@ prompt-library/                   Brief templates and mode instructions.
   02-pattern-mode.md
   03-pro-mode.md
   04-weekly-update.md
-  05-demo-briefs.md               Four ready-to-run demo briefs.
+  05-demo-briefs.md               Ready-to-run demo briefs.
+  06-weekly-optimisation.md       The Monday optimisation routine.
 .claude/
   skills/                         Layer 7. Each skill is <name>/SKILL.md.
     landing-page/
@@ -121,7 +124,10 @@ prompt-library/                   Brief templates and mode instructions.
     case-study/
     copy-editing/
     account-research/
-    sheets-dashboard/             Pasted data in, Google Sheets dashboard out.
+    sheets-dashboard/             Pasted data in, Google Sheets dashboard and HTML report out.
+    experiment-design/            Priority in, sized test with audited variants out.
+    experiment-readout/           Results in, verdict and rule-change pull request out.
+    audience-insights/            Replies and call notes in, counted themes and hypotheses out.
   agents/                         Layer 8. Read-only review agents.
     router.md
     brand-auditor.md
@@ -297,4 +303,23 @@ Skills live in `.claude/skills/<name>/SKILL.md` and load when a request matches 
 - `landing-page`, `outbound-sequence`, `linkedin-post`, `case-study`: run the full layer stack for that asset type
 - `copy-editing`: strips AI patterns from any copy and rewrites it in the Corvane voice
 - `account-research`: builds an account file in `accounts/` from public signals
-- `sheets-dashboard`: turns pasted data into a cleaned, formula-driven Google Sheets dashboard
+- `sheets-dashboard`: turns pasted data into a cleaned, formula-driven Google Sheets dashboard and HTML report
+- `experiment-design`, `experiment-readout`, `audience-insights`: the optimisation loop (see below)
+
+---
+
+## The optimisation loop
+
+Studios doesn't only produce assets. It learns which ones work.
+
+```
+priorities.md -> experiments/backlog.md -> experiment-design -> paused campaign -> human launches
+      ^                                                                               |
+      +-- rule files updated by pull request <- experiment-readout <- results CSV <---+
+```
+
+- Every test serves a priority in `priorities.md`, changes one variable, uses a pipeline metric, has guardrails, and is sized in code before launch.
+- Rules in persona, messaging and craft files that came from experiments are marked **Proven rule (EXP-NNN)**. Treat them as stronger than unmarked guidance. Never contradict one without a newer experiment.
+- Learnings reach the rule files only through pull requests a person reviews. Never edit a rule from a single observation.
+- `audience-insights` feeds the backlog with hypotheses from what buyers actually say.
+- `prompt-library/06-weekly-optimisation.md` runs the loop every Monday.

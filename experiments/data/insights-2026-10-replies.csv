@@ -1,0 +1,37 @@
+reply_id,persona,segment,reply_text
+R001,CTO,fintech,We already work with a nearshore partner in Romania. Happy with them for now.
+R002,CTO,fintech,How do you handle access to production data? Our auditors are strict on this.
+R003,VP Engineering,b2b-saas,"Timing is bad, we're in a hiring freeze until Q1."
+R004,CTO,b2b-saas,Can you send the Ledgerline case study? Want to show my CEO.
+R005,Head of Product,fintech,Roadmap is definitely behind. Who would I talk to about scoping?
+R006,CTO,healthtech,Are your engineers in the EU? We can't have patient data leave the EEA.
+R007,VP Engineering,fintech,What's your day rate? The last two quotes we got were very different.
+R008,CTO,b2b-saas,Interested in the AI evaluation piece. We shipped a chatbot and it's been embarrassing.
+R009,Engineering Manager,fintech,"Not my decision, try our VP Eng."
+R010,CTO,fintech,We tried contractors last year and spent a month onboarding them. What's different?
+R011,VP Engineering,b2b-saas,Do we get to interview the engineers before they join?
+R012,CTO,fintech,"Send me something on how the first two weeks work, in writing."
+R013,Head of Product,b2b-saas,"Not now, maybe next quarter after planning."
+R014,CTO,healthtech,Do you have ISO 27001? Our procurement will ask.
+R015,VP Engineering,fintech,"We already have a vendor for frontend, backend is where we're short."
+R016,CTO,b2b-saas,What does pricing look like for 2 engineers for 6 months?
+R017,CTO,fintech,Our launch in the UK is tight. Could you start in November?
+R018,VP Engineering,healthtech,"Hiring freeze, sorry."
+R019,CTO,b2b-saas,How do you stop your engineers leaving mid-project? Lost a contractor halfway last time.
+R020,Head of Product,fintech,"Do you do discovery as well, or only build?"
+R021,CTO,fintech,Is the evaluation suite thing just for chatbots or classification too?
+R022,VP Engineering,b2b-saas,We're cheaper doing it offshore. Why would we pay more?
+R023,CTO,fintech,Happy to chat. Can your engineers join our on-call?
+R024,Engineering Manager,b2b-saas,Forwarded to my CTO.
+R025,CTO,healthtech,We need people who know FHIR. Do you have that?
+R026,VP Engineering,fintech,What happens if one of your engineers isn't working out?
+R027,CTO,b2b-saas,Please remove me from your list.
+R028,Head of Product,healthtech,Our AI triage idea is stuck. Board keeps asking. Let's talk.
+R029,CTO,fintech,Day rates?
+R030,VP Engineering,fintech,"Already using a partner, but they're slow. What's your onboarding time really?"
+R031,CTO,b2b-saas,Who owns the IP?
+R032,CTO,fintech,Not a priority this quarter.
+R033,VP Engineering,b2b-saas,Can you share references from a SaaS company our size?
+R034,CTO,fintech,The case study is interesting. Similar stack to ours. Let's do 30 minutes.
+R035,Head of Product,b2b-saas,"Engineering capacity is the bottleneck for every roadmap item. Yes, let's talk."
+R036,CTO,healthtech,How do you handle security reviews? Ours take 6 weeks.

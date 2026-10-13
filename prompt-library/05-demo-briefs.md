@@ -96,3 +96,39 @@ first.
 ```
 
 If Payhawk turns up a negative signal such as recent layoffs, that's a good demo moment too: the system should recommend pausing outreach rather than pushing on. To try another account, swap in any European fintech or SaaS scale-up with 150 to 1,000 employees.
+
+---
+
+# The optimisation loop
+
+## 5 · Read out an experiment (the strongest demo)
+
+**What it shows:** statistics in code, the traps a naive read misses, and an honest verdict.
+
+```
+Use the experiment-readout skill on experiments/EXP-002-cto-proof-vs-signal.md.
+```
+
+## 6 · Design the next test
+
+**What it shows:** a test tied to a business priority, sized in code against real weekly volume, with audited one-variable variants.
+
+```
+Use the experiment-design skill. Take the top item in experiments/backlog.md that
+serves P1 in priorities.md, size it, and write both variants.
+```
+
+## 7 · Audience insights
+
+**What it shows:** qualitative data turned into counted themes, compared with what the repo believes, and new hypotheses for the backlog.
+
+```
+Use the audience-insights skill on experiments/data/insights-2026-10-replies.csv.
+```
+
+## 8 · The weekly run
+
+```
+Run prompt-library/06-weekly-optimisation.md. Use the practice leads and spend
+CSVs as last week's data.
+```

@@ -1,0 +1,354 @@
+{
+  "title": "Pipeline by channel, campaign and content, Jan to Aug 2026",
+  "question": "Which channels, campaigns and content actually produce pipeline?",
+  "subtitle": "HubSpot CRM export (1,617 rows) and monthly spend (81 rows), cleaned to 1,544 leads and €166,600 spend.",
+  "clean_csv": "clean.csv",
+  "raw_csv": "raw.csv",
+  "extra_tables": [
+    {
+      "name": "Spend by channel",
+      "csv": "spend_by_channel.csv"
+    },
+    {
+      "name": "Spend by campaign",
+      "csv": "spend_by_campaign.csv"
+    }
+  ],
+  "kpis": [
+    {
+      "label": "Leads",
+      "agg": "count"
+    },
+    {
+      "label": "SQLs",
+      "agg": "sum",
+      "column": "is_sql"
+    },
+    {
+      "label": "Opportunities",
+      "agg": "sum",
+      "column": "is_opp"
+    },
+    {
+      "label": "Pipeline created",
+      "agg": "sum",
+      "column": "pipeline_eur",
+      "format": "eur"
+    },
+    {
+      "label": "Spend",
+      "agg": "sum_table",
+      "table": "Spend by channel",
+      "column": "spend_eur",
+      "format": "eur"
+    },
+    {
+      "label": "Won revenue",
+      "agg": "sum",
+      "column": "won_value_eur",
+      "format": "eur"
+    },
+    {
+      "label": "Cost per SQL",
+      "ratio": [
+        "Spend",
+        "SQLs"
+      ],
+      "format": "eur"
+    },
+    {
+      "label": "Lead to SQL",
+      "ratio": [
+        "SQLs",
+        "Leads"
+      ],
+      "format": "pct"
+    }
+  ],
+  "breakdowns": [
+    {
+      "title": "By channel",
+      "group_by": "channel",
+      "sort_by": "Leads",
+      "metrics": [
+        {
+          "label": "Leads",
+          "agg": "count"
+        },
+        {
+          "label": "SQLs",
+          "agg": "sum",
+          "column": "is_sql"
+        },
+        {
+          "label": "Opps",
+          "agg": "sum",
+          "column": "is_opp"
+        },
+        {
+          "label": "Won",
+          "agg": "sum",
+          "column": "is_won"
+        },
+        {
+          "label": "Pipeline",
+          "agg": "sum",
+          "column": "pipeline_eur",
+          "format": "eur"
+        },
+        {
+          "label": "Spend",
+          "agg": "lookup",
+          "table": "Spend by channel",
+          "key": "channel",
+          "column": "spend_eur",
+          "format": "eur"
+        },
+        {
+          "label": "SQL rate",
+          "ratio": [
+            "SQLs",
+            "Leads"
+          ],
+          "format": "pct",
+          "highlight": "high_good"
+        },
+        {
+          "label": "Cost per SQL",
+          "ratio": [
+            "Spend",
+            "SQLs"
+          ],
+          "format": "eur",
+          "highlight": "low_good"
+        },
+        {
+          "label": "Pipeline per €1",
+          "ratio": [
+            "Pipeline",
+            "Spend"
+          ],
+          "format": "dec",
+          "highlight": "high_good"
+        }
+      ],
+      "chart": {
+        "metric": "Pipeline per €1"
+      }
+    },
+    {
+      "title": "By paid campaign",
+      "group_by": "campaign",
+      "sort_by": "Leads",
+      "exclude": [
+        "(none)"
+      ],
+      "metrics": [
+        {
+          "label": "Leads",
+          "agg": "count"
+        },
+        {
+          "label": "SQLs",
+          "agg": "sum",
+          "column": "is_sql"
+        },
+        {
+          "label": "Won",
+          "agg": "sum",
+          "column": "is_won"
+        },
+        {
+          "label": "Pipeline",
+          "agg": "sum",
+          "column": "pipeline_eur",
+          "format": "eur"
+        },
+        {
+          "label": "Spend",
+          "agg": "lookup",
+          "table": "Spend by campaign",
+          "key": "campaign",
+          "column": "spend_eur",
+          "format": "eur"
+        },
+        {
+          "label": "SQL rate",
+          "ratio": [
+            "SQLs",
+            "Leads"
+          ],
+          "format": "pct",
+          "highlight": "high_good"
+        },
+        {
+          "label": "Cost per SQL",
+          "ratio": [
+            "Spend",
+            "SQLs"
+          ],
+          "format": "eur",
+          "highlight": "low_good"
+        },
+        {
+          "label": "Pipeline per €1",
+          "ratio": [
+            "Pipeline",
+            "Spend"
+          ],
+          "format": "dec",
+          "highlight": "high_good"
+        }
+      ],
+      "chart": {
+        "metric": "Pipeline per €1"
+      }
+    },
+    {
+      "title": "By first content asset",
+      "group_by": "first_asset",
+      "sort_by": "Leads",
+      "metrics": [
+        {
+          "label": "Leads",
+          "agg": "count"
+        },
+        {
+          "label": "SQLs",
+          "agg": "sum",
+          "column": "is_sql"
+        },
+        {
+          "label": "Won",
+          "agg": "sum",
+          "column": "is_won"
+        },
+        {
+          "label": "Pipeline",
+          "agg": "sum",
+          "column": "pipeline_eur",
+          "format": "eur"
+        },
+        {
+          "label": "SQL rate",
+          "ratio": [
+            "SQLs",
+            "Leads"
+          ],
+          "format": "pct",
+          "highlight": "high_good"
+        }
+      ],
+      "chart": {
+        "metric": "SQL rate"
+      }
+    },
+    {
+      "title": "By job title",
+      "group_by": "job_title",
+      "sort_by": "Leads",
+      "metrics": [
+        {
+          "label": "Leads",
+          "agg": "count"
+        },
+        {
+          "label": "SQLs",
+          "agg": "sum",
+          "column": "is_sql"
+        },
+        {
+          "label": "Pipeline",
+          "agg": "sum",
+          "column": "pipeline_eur",
+          "format": "eur"
+        },
+        {
+          "label": "SQL rate",
+          "ratio": [
+            "SQLs",
+            "Leads"
+          ],
+          "format": "pct",
+          "highlight": "high_good"
+        }
+      ],
+      "chart": {
+        "metric": "SQL rate"
+      }
+    },
+    {
+      "title": "By lead month",
+      "group_by": "month",
+      "metrics": [
+        {
+          "label": "Leads",
+          "agg": "count"
+        },
+        {
+          "label": "SQLs",
+          "agg": "sum",
+          "column": "is_sql"
+        },
+        {
+          "label": "Opps",
+          "agg": "sum",
+          "column": "is_opp"
+        },
+        {
+          "label": "Pipeline",
+          "agg": "sum",
+          "column": "pipeline_eur",
+          "format": "eur"
+        },
+        {
+          "label": "SQL rate",
+          "ratio": [
+            "SQLs",
+            "Leads"
+          ],
+          "format": "pct",
+          "highlight": "high_good"
+        }
+      ],
+      "chart": {
+        "metric": "SQL rate",
+        "type": "col"
+      }
+    }
+  ],
+  "notes": {
+    "findings": [
+      "Paid channels take 64% of spend (€106,827) but produce 20% of pipeline. Paid Social costs €3,078 per SQL, 11x Content / SEO (€279) and 18x Referral (€171).",
+      "PS_Remote_Tips_Promo spent €30,199 for 122 leads and zero SQLs. Its content, the '10 tips for remote teams' blog, is 21% of all leads and converts at 1.6%.",
+      "Referral and Partner are 6% of leads but 18% of SQLs and 24% of pipeline. Webinars convert at 26% and created €1.54m pipeline on €17,373.",
+      "'Contact us' converts at 38% and drives €3.36m of €7.91m pipeline. Of content, the vendor checklist (18%) and Northrow case study (15%) convert best.",
+      "Recruiters, students and software engineers are 25% of leads (389) and produced 3 SQLs. Every paid campaign pulls 22% to 30% of these."
+    ],
+    "cleaning": [
+      "Removed 11 exact duplicate rows.",
+      "Removed 1 'TOTAL' row with a broken '=SUM()' in Deal Amount.",
+      "Removed 5 internal test rows (IDs Q0 to Q4, company 'Corvane (internal)', Won at €120,000 each). Left in, they would have added €600,000 of fake won revenue.",
+      "Parsed 255 dates written MM/DD/YYYY to ISO.",
+      "Excluded 56 leads created 1 to 9 September, because spend covers Jan to Aug only.",
+      "Mapped 19 source spellings (e.g. Google, PPC, Paid Search) to 7 channels. Kept Meta vs LinkedIn as a separate platform column.",
+      "Standardised job-title casing (8 all-caps variants). Set 79 blank countries to 'Unknown'.",
+      "Converted 6 deal amounts stored as GBP text (e.g. '£53,800') to EUR at an assumed 1.17. No rate was supplied.",
+      "Spend: two rows for Aug PPC_Dedicated_Team (€3,005 and €3,150). Kept the first; the gap is €3,150 either way.",
+      "Added 1/0 flags: is_mql, is_sql (Sales Qualified or later, including Lost), is_opp (has a deal), is_won."
+    ],
+    "caveats": [
+      "Attribution is first touch only (Original Source, First Conversion). It credits whoever brought the lead in, not what moved the deal.",
+      "Won counts are small (3 to 16 per channel), so won revenue by channel is directional. Pipeline and SQLs are the safer read.",
+      "Leads from July and August have had less time to progress. August SQL rate is 8.4% vs 18.6% in July.",
+      "SDR and Content spend are flat monthly figures and probably exclude salaries, so their cost per SQL is understated.",
+      "Partner has leads but no spend line. Paid Social spend isn't split by Meta and LinkedIn.",
+      "The GBP rate of 1.17 is an assumption. It touches 6 deals."
+    ],
+    "next_steps": [
+      "Pause PS_Remote_Tips_Promo (€30k, zero SQLs) and move the budget to the referral and partner programme and webinars.",
+      "Add job-title exclusions (recruiter, student, software engineer) to every paid campaign.",
+      "Make the vendor checklist and the Northrow case study the default paid offers, with 'Contact us' as the main CTA."
+    ]
+  }
+}

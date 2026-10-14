@@ -33,9 +33,9 @@ python <skill>/scripts/seo_analysis.py keywords <export.csv> --brand <name> \
 
 ## 2b. GA4 data
 
-**Run:**
+**Run** (add `--keywords` with the keyword run's `keywords_scored.csv` to link pages to quick wins):
 ```
-python <skill>/scripts/seo_analysis.py ga4 <export.csv> --out analysis/<folder>
+python <skill>/scripts/seo_analysis.py ga4 <export.csv> --keywords analysis/<folder>/keywords_scored.csv --out analysis/<folder>
 ```
 
 **Interpret:**
@@ -57,5 +57,16 @@ The best SEO plan sits where both datasets agree:
 - Content briefs: for each new page, add a brief to the backlog for `campaign-pack` or the blog-article craft guide.
 - Experiments: title and meta description changes can be tested with `experiment-design`, as a before-and-after on a group of pages with a control group. SEO tests are slower and noisier than email tests; say so.
 
-## Report
-Data problems found and fixed, top 3 quick wins, top 3 content gaps, any cannibalisation, the channel and page story from GA4, the assumptions (click-through curve, tool estimates, key events vs pipeline), and the first 3 actions.
+## Report: lead with these outcomes
+
+**Keyword analysis** (the script writes both sections):
+1. **The next 5 content pieces:** one per topic, ranked by combined opportunity (search volume, difficulty, CPC and current position). For each: optimise an existing page or create a new one, the primary keyword, and the related keywords to cover.
+2. **A plan to reach the top 3 for the top 3 keywords:** cannibalisation fix if needed, on-page changes, content depth, proof, internal links, links needed (from difficulty), timeline and how to measure it.
+
+**GA4 analysis** (the script writes these sections):
+1. **What's working:** the best channels and the pages that convert, with numbers.
+2. **What isn't working:** high-traffic pages that don't convert, and low-engagement pages, each with a specific fix.
+3. **Measurement fixes:** spam, tracking breaks, (not set), careers traffic.
+4. **Traffic plan:** send visitors to the pages that convert, and turn traffic pages into feeders.
+
+Then: data problems found and fixed (one short list), and the assumptions (click-through curve, tool estimates, key events vs pipeline, link counts and timelines are rules of thumb). Don't paste the full tables unless asked.
